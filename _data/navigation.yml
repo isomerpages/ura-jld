@@ -1,0 +1,17 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Test Page
+    url: /test-page/
+  - title: Test Folder
+    collection: test-folder
+  - title: Test Media Center
+    resource_room: true
