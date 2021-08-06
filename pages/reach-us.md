@@ -1,5 +1,6 @@
 ---
 title: Reach Us
-permalink: /contact-ura
+permalink: /reach-us
 ---
+
 
