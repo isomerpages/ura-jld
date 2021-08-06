@@ -1,6 +1,0 @@
-collections:
-  test-folder:
-    output: true
-    order:
-      - test-page-1.md
-      - test-page-2.md
