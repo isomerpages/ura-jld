@@ -4,7 +4,7 @@ permalink: /experience
 ---
 <h3 style="color:#124596; font-weight:bold;">More than a CBD</h3>
 
-<h4 style="color:#484848; font-weight:normal;">Imagine working, living and playing in the district with familiar squares, intimate public spaces, lush lakefront greenery and wildlife.</h4>
+<h4 style="color:#484848; font-weight:normal;margin-top: 0;">Imagine working, living and playing in the district with familiar squares, intimate public spaces, lush lakefront greenery and wildlife.</h4>
 
 ![Statistics](/images/jld_expncenums.jpg)
 
@@ -53,4 +53,3 @@ These heritage landmarks will take on new uses, continue to anchor the district 
 ![Alt text for image on Isomer site](/images/jld_lakeside_day.jpg) 
 
 ![Alt text for image on Isomer site](/images/jld_walk.jpg)
-
