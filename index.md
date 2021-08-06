@@ -12,15 +12,18 @@ sections:
       background: /images/JLD_headerhero.jpg
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Grow seamlessly, scale easily
+          description: A place tailored to your needs
+          url: "#"
+        - title: More than a CBD
+          description: ""
           url: https://gmail.com
-        - title: Page A
+        - title: Fresh and sustainable living
           description: Page A is important too
           url: /privacy/
+        - title: Your next strategic move
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Grow seamlessly,  scale easily
       subtitle: Potential
@@ -28,6 +31,12 @@ sections:
         down roots, create a brand-new campus and scale up easily.
       button: READ MORE
       url: "#"
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
   - resources:
       title: Media
