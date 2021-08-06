@@ -10,7 +10,6 @@ sections:
       title: Jurong Lake District
       subtitle: A place to grow
       background: /images/JLD_headerhero.jpg
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Highlight A
