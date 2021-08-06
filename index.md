@@ -14,16 +14,16 @@ sections:
       key_highlights:
         - title: Grow seamlessly, scale easily
           description: A place tailored to your needs
-          url: "#"
+          url: /potential
         - title: More than a CBD
           description: ""
-          url: https://gmail.com
+          url: /experience
         - title: Fresh and sustainable living
           description: ""
-          url: /privacy/
+          url: /sustainability
         - title: Your next strategic move
           description: ""
-          url: ""
+          url: /opportunity
   - infopic:
       title: Grow seamlessly,  scale easily
       subtitle: Potential
