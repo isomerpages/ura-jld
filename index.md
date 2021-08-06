@@ -19,10 +19,10 @@ sections:
           description: ""
           url: https://gmail.com
         - title: Fresh and sustainable living
-          description: Page A is important too
+          description: ""
           url: /privacy/
         - title: Your next strategic move
-          description: Key Highlight description
+          description: ""
           url: ""
   - infopic:
       title: Grow seamlessly,  scale easily
