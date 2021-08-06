@@ -1,0 +1,4 @@
+---
+title: Potential
+permalink: /potential
+---
