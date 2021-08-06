@@ -2,7 +2,7 @@
 title: Potential
 permalink: /potential
 ---
-<h3 style="color:#124596;">Grow seamlessly, scale easily</h3>
+<h3 style="color:#124596; font-weight:bold;">Grow seamlessly, scale easily</h3>
 
 Jurong Lake District presents an opportunity for companies to put down roots, create a brand-new campus and scale up easily.
 
@@ -10,7 +10,7 @@ Jurong Lake District presents an opportunity for companies to put down roots, cr
 
 ![Statistics](/images/jld_potentnums.jpg)
 
-<h3 style="color:#124596;">Our next largest business district</h3>
+<h3 style="color:#124596; font-weight:bold;">Our next largest business district</h3>
 
 At half the size of the current CBD, Jurong Lake District will be the largest of all business districts outside of the central area.
 
@@ -21,7 +21,7 @@ Jurong Lake District will be the focus of new development in the next two decade
 
 ![Boundary Map of JLD](/images/jld_boundsmap.jpg)
 
-<h3 style="color:#124596;">A dynamic ecosystem to grow your 
+<h3 style="color:#124596; font-weight:bold;">A dynamic ecosystem to grow your 
 business </h3>
 
 By 2040 to 2050, Jurong Lake District will have 100,000 new jobs and 20,000 new homes, adding to the 1 million residents already in the West Region.
@@ -35,7 +35,7 @@ The West Region is also home to Singapore’s top two universities, providing a 
 
 ![Overview map of JLD](/images/jld_overviewmap.jpg)
 
-<h3 style="color:#124596;">Fast connections to major hubs</h3>
+<h3 style="color:#124596; font-weight:bold;">Fast connections to major hubs</h3>
 
 Jurong Lake District has excellent connectivity via two new train lines, Jurong Region and Cross Island Lines completing completing respectively in 2028 and the early 2030s, in addition to the existing East-West Line and North-South Line. All train stations in Jurong
 Lake District will be within an easy 10-minute walk.
