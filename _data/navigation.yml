@@ -1,6 +1,18 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: Potential
+    url: /potential
+  - title: Experience
+    url: /experience
+  - title: Sustainability
+    url: /sustainability
+  - title: Opportunity
+    url: /opportunity
+  - title: Timeline
+    url: /timeline
+  - title: News
+    resource_room: true
   - title: Events
     collection: events
+  - title: Contact Us
+    url: /contact-us/
