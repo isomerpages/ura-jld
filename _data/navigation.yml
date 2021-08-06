@@ -2,3 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
+  - title: Events
+    collection: events
