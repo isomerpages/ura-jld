@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Jurong Lake District
       subtitle: A place to grow
-      background: /images/JLD_headerhero.jpg
+      background: /images/jld_headerhero.jpg
       url: /contact-us/
       key_highlights:
         - title: Grow seamlessly, scale easily
