@@ -1,7 +1,8 @@
 ---
 title: Reach Us
-permalink: /contact-jld
+permalink: /reach-us
 ---
+
 <h4 style="color:#124596; font-weight:bold;">Address</h4>45 Maxwell Road, The URA Centre, Singapore 069118
 
 <h4 style="color:#124596; font-weight:bold;">Website</h4><a href="https://www.ura.gov.sg/">www.ura.gov.sg</a>
