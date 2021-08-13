@@ -17,7 +17,7 @@ links:
   - title: Contact Us
     url: /contact-us
     sublinks:
-      - title: Get In Touch
-        url: /contact-us
       - title: About URA
         url: /about-ura
+      - title: Get In Touch
+        url: /reach-us
