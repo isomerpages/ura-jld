@@ -13,16 +13,16 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Grow seamlessly, scale easily
-          description: A place tailored to your needs
+          description: A place that grows with you
           url: /potential
         - title: More than a CBD
-          description: ""
+          description: Live, work & play by the lake
           url: /experience
         - title: Fresh and sustainable living
-          description: ""
+          description: Inspiring a better tomorrow
           url: /sustainability
         - title: Your next strategic move
-          description: ""
+          description: Join the growing network now
           url: /opportunity
   - infopic:
       title: Grow seamlessly,  scale easily
