@@ -12,7 +12,7 @@ sections:
       background: /images/jld_headerhero.jpg
       url: /contact-us/
       key_highlights:
-        - title: Grow seamlessly,\n scale easily
+        - title: Grow seamlessly, scale easily
           description: A place that grows with you
           url: /potential
         - title: More than a CBD
