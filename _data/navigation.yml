@@ -13,6 +13,8 @@ links:
   - title: News
     url: /test-media-center/
     sublinks:
+      - title: All
+        url: /test-media-center/
       - title: Media articles
         url: /test-media-center/media-articles/
       - title: Media releases
