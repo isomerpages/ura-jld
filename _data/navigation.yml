@@ -11,7 +11,14 @@ links:
   - title: Timeline
     url: /timeline
   - title: News
-    resource_room: true
+    url: /test-media-center/
+    sublinks:
+      - title: Media articles
+        url: /test-media-center/media-articles/
+      - title: Media releases
+        url: /test-media-center/media-releases/
+      - title: Publications
+        url: /test-media-center/publications/
   - title: Events
     collection: events
   - title: Contact Us
