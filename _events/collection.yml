@@ -2,5 +2,4 @@ collections:
   events:
     output: true
     order:
-      - upcoming-events/.keep
       - upcoming-events.md
