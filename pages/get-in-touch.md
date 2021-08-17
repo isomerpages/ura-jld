@@ -1,7 +1,8 @@
 ---
-title: Get In Touch
+title: Get in touch
 permalink: /get-in-touch
 ---
+
 
 
 <h4 style="color:#124596; font-weight:bold;">Address</h4>45 Maxwell Road, The URA Centre, Singapore 069118
