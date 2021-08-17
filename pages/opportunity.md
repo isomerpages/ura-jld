@@ -10,37 +10,37 @@ permalink: /opportunity
 
 Amidst a fast-changing landscape, our commitment remains steadfas. Investors can be confident in the government’s commitment to focus investment and development in Jurong Lake District for the next two decades.
 
-**Jurong Lake District** <br/>
+**Jurong Lake District** <br>
 Est 17.0 million sqft of Office and Business Park
 
-**Jurong Innovation District** <br/>
+**Jurong Innovation District** <br>
 Est 16.2 million sqft of Office and Business Park
 
-**Alexandra** <br/>
+**Alexandra** <br>
 Est xx.x million sqft of Office and Business Park
 
-**Central Business Business District** <br/>
+**Central Business Business District** <br>
 Est xx.x million sqft of Office and Business Park
 
-**Harbourfront** <br/>
+**Harbourfront** <br>
 Est xx.x million sqft of Office and Business Park
 
-**Novena** <br/>
+**Novena** <br>
 Est xx.x million sqft of Office and Business Park
 
-**One-north** <br/>
+**One-north** <br>
 Est xx.x million sqft of Office and Business Park
 
-**Paya Lebar** <br/>
+**Paya Lebar** <br>
 Est xx.x million sqft of Office and Business Park
 
-**Punggol Digital District** <br/>
+**Punggol Digital District** <br>
 Est xx.x million sqft of Office and Business Park
 
-**Tampines** <br/>
+**Tampines** <br>
 Est xx.x million sqft of Office and Business Park
 
-**Woodlands Regional Centre** <br/>
+**Woodlands Regional Centre** <br>
 Est xx.x million sqft of Office and Business Park
 
 <h3 style="color:#124596; font-weight:bold;">Precinct plan</h3>
@@ -49,7 +49,7 @@ Jurong Gateway is the current commercial core of JLD, comprising mainly offices,
 
 The commercial core will extend seamlessly into Lakeside East, which will have a balanced mix of offices, housing and amenities in a car-lite and park setting. This 120-ha precinct will be developed over the next 30 years and served by two new MRT stations. We will have the opportunity to experiment with new development concepts and redesign ways to integrate live, work and play.
 
-International Business Park is Singapore’s pioneer business park supporting R&D and knowledge-based activities since the 1990s. In the coming years, the business park will be progressively rejuvenated to support the needs of new economic sectors and complement the commercial core. The area around the upcoming Jurong Town Hall station will also see more mixed uses to cater to the thriving tech community.
+International Business Park is Singapore’s pioneer business park supporting R&amp;D and knowledge-based activities since the 1990s. In the coming years, the business park will be progressively rejuvenated to support the needs of new economic sectors and complement the commercial core. The area around the upcoming Jurong Town Hall station will also see more mixed uses to cater to the thriving tech community.
 
 Lakeside West embraces Jurong Lake and Singapore’s third national garden, Jurong Lake Gardens, where there are plans to integrate a new science centre and tourist attraction. It will be a place for leisure and recreation and a destination for events and entertainment.
 
@@ -57,26 +57,26 @@ Lakeside West embraces Jurong Lake and Singapore’s third national garden, Juro
 
 <h3 style="color:#124596; font-weight:bold;">Current and future occupiers</h3>
 
-**Occupiers in the district today** <br/>
-* Professional services and construction <br/>
-<span style="font-size:16px;">Beca, Black & Veatch, CPG Corporation, Exyte Singapore, Vopak Terminals Singapore</span>
+**Occupiers in the district today** <br>
+* Professional services and construction <br>
+<span style="font-size:16px;">Beca, Black &amp; Veatch, CPG Corporation, Exyte Singapore, Vopak Terminals Singapore</span>
  
-*	Finance, insurance, information & communications <br/>
+*	Finance, insurance, information &amp; communications <br>
 <span style="font-size:16px;">Great Eastern, M1 Limited, Realtek Singapore</span>
 
-* Wholesale and retail trade <br/>
+* Wholesale and retail trade <br>
 <span style="font-size:16px;">Dell Global, Daimler, Vinda Singapore</span>
 
-* Energy, transport & storage <br/>
+* Energy, transport &amp; storage <br>
 <span style="font-size:16px;">Air Liquide, Exxonmobil, Solstad Offshore Asia Pacific, Trust Maritime Services</span>
 
-* Public administration and institutions <br/>
+* Public administration and institutions <br>
 <span style="font-size:16px;">Building Construction Agency, National Parks Board, Singapore Food Agency, JTC Corporation, Devan Nair Institute for Employment and Employability, Ministry for Transport, Land Transport Authority and other government offices (future)</span>
 
-**Potential occupiers** <br/>
-* Technology, professional services, financial institutions, engineering & construction, sustainability</span>
+**Potential occupiers** <br>
+* Technology, professional services, financial institutions, engineering &amp; construction, sustainability
 
-<h3 style="color:#124596; font-weight:bold;">Development opportunities:<br/>
+<h3 style="color:#124596; font-weight:bold;">Development opportunities:<br>
 Future tourism development </h3>
 
 The integrated tourism development will feature a compelling mix of lifestyle offerings that will complement the breadth of existing attractions in Singapore. 
@@ -100,22 +100,22 @@ Singapore’s pro-business climate supported by infrastructure, talent and regul
 
 ![Jewel at Changi Airport](/images/jld_changijewel.jpg)
 
-**#5 most competitive economy in the world** <br/>
+**#5 most competitive economy in the world** <br>
 2021, by IMD
 
-**#1 in Asia and #18 in the world for ease of doing business** <br/>
+**#1 in Asia and #18 in the world for ease of doing business** <br>
 2020, by TMF Group
 
-**#1 in Asia and #2 in the world for intellectual property protection** <br/>
+**#1 in Asia and #2 in the world for intellectual property protection** <br>
 2019, by the World Economic Forum
 
-**#2 in the world for digital competitiveness** <br/>
+**#2 in the world for digital competitiveness** <br>
 2020, by IMD
 
-**#1 in Asia and #9 in the world for global talent** <br/>
+**#1 in Asia and #9 in the world for global talent** <br>
 2020, by IMD
 
-**#1 in Asia and #21 in the world for Sustainability** <br/>
+**#1 in Asia and #21 in the world for Sustainability** <br>
 2021, by the ETI
 
 <h3 style="color:#124596; font-weight:bold;">Small island, great city </h3>
