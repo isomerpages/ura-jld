@@ -61,6 +61,6 @@ sections:
       image: /images/jld_attractions.jpg
       alt: Attractions at night
   - resources:
-      title: Latest News
+      title: Latest news
       button: Read More
 ---
