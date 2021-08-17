@@ -4,3 +4,4 @@ collections:
     order:
       - past-events/.keep
       - upcoming-events/.keep
+      - upcoming-events.md
