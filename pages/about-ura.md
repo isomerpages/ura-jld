@@ -8,4 +8,4 @@ The Urban Redevelopment Authority is Singapore’s land use planning and conserv
 
 URA is the main land sales agent for the state and for Jurong Lake District. Our multifaceted engagement strategy includes the sale of state land to attract and channel private capital investment to develop sites to meet Singapore’s land use needs. We spearhead future development efforts at Jurong Lake District, taking a holistic approach to master plan and implement key infrastructure, in collaboration with other government agencies and private stakeholders.
 
-We welcome you to  [contact us](/contact-us) if you are interested in development and business opportunities or to testbed green initiatives and sustainable proposals in Jurong Lake District.
+We welcome you to  [contact us](https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp) if you are interested in development and business opportunities or to testbed green initiatives and sustainable proposals in Jurong Lake District.
