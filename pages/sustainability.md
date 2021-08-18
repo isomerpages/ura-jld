@@ -12,13 +12,11 @@ permalink: /sustainability
 
 At Jurong Lake District, residents and businesses will collectively shape a sustainable future through shared goals, higher standards and ready technology.
 
-Identified as a model for urban sustainability under the Singapore Green Plan 2030, the district will support Singapore’s ambition to be
-a carbon services hub and a leading centre for green finance in Asia and globally.
+Identified as a model for urban sustainability under the Singapore Green Plan 2030, the district will support Singapore’s ambition to be a carbon services hub and a leading centre for green finance in Asia and globally.
 
-Envisaged to attract a new generation of technology, e-commerce, sustainability and
-business services sectors, Jurong Lake District will be the epicentre to support talent and companies in creating new growth and new jobs in green innovation.
+Envisaged to attract a new generation of technology, e-commerce, sustainability and business services sectors, Jurong Lake District will be the epicentre to support talent and companies in creating new growth and new jobs in green innovation.
 
-In this government-supported Built Environment Living Lab, companies can conveniently co-locate R&D and commercial trials in one place to facilitate faster lab-to-market prototyping and scaling.
+In this government-supported Built Environment Living Lab, companies can conveniently co-locate R&amp;D and commercial trials in one place to facilitate faster lab-to-market prototyping and scaling.
 
 ![Alt text for image on Isomer site](/images/jld_greenery.jpg)
 
@@ -38,13 +36,13 @@ Residents and workers can be part of a green community that grows its own garden
 
 Jurong Lake District has high ambitions for green mobility.
 
-Planned to be car-lite, 85% of all trips to and within the district will be on Walk- Cycle-Ride modes.
+Planned to be car-lite, 85% of all trips to and within the district will be on Walk-Cycle-Ride modes.
 
 New roads in the district will have cycling paths. Some roads will be transit-priority corridors accessible only to buses, bicycles and pedestrians.
 
-People can walk to their destinations comfortably along the J-Walk, a weather-proof pedestrian network that links buildings, transit statons and public spaces throughout the district.
+People can walk to their destinations comfortably along the J-Walk, an elevated weather-proof pedestrian network that links buildings, transit stations and public spaces throughout the district.
 
-Jurong Lake District will also be autonomous vehicle (AV)- and electric vehicle (EV)-ready where new developments support charging infrastructure for electric vehicles.
+Jurong Lake District will be autonomous vehicle (AV)- and electric vehicle (EV)-ready. Parking infrastructure in new developments will be well-sized, conveniently sited and designed to have dedicated pick-up drop-off and charge points for a seamless and efficient transport experience. New developments will also be designed to support emerging technologies such as the use of Autonomous Mobile Robots for last-mile deliveries.
 
 ![Alt text for image on Isomer site](/images/jld_jwalk_rev.jpg)
 
