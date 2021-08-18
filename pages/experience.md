@@ -28,7 +28,7 @@ Lively campuses will house business and residential communities, where people me
 
 <h3 style="color:#124596; font-weight:bold;">A district of gardens and water</h3>
 
-<img src="/images/jld_centralparkcrop.png" style="float: right; width:50%; padding:0px 20px 20px;">Jurong Lake District will have more than 100 hectares of park and greenery, and a 70-hectare lake with17 kilometres of active waterfront.
+<img style="float: right; width:50%; padding:0px 20px 20px;" src="/images/jld_centralparkcrop.png">Jurong Lake District will have more than 100 hectares of park and greenery, and a 70-hectare lake with17 kilometres of active waterfront.
 
 Throughout the district, streets are lined with canopy trees, forming green corridors that provide shade and act as nature ways for wildlife.
 
@@ -51,5 +51,6 @@ A recreation corridor with active public spaces will link Jurong Town Hall to th
 These heritage landmarks will take on new uses, continue to anchor the district and create a strong sense of place. They could become centres for co-working, innovation, museums, art studios, theatres, event grounds and playscapes with open spaces for the  community to enjoy.
 
 ![Alt text for image on Isomer site](/images/jld_lakeside_day.jpg) 
+<span style="font-size:12px;">Artist's impression of Jurong Lake District Tourism Development <br>(Credit: Image courtesy of Singapore Tourism Board)</span>
 
 ![Alt text for image on Isomer site](/images/jld_walk.jpg)
