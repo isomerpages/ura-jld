@@ -26,7 +26,7 @@ Buildings in Jurong Lake District will be planet-friendly, healthy and creativel
 
 Developments will meet higher environmental standards by incorporating green materials and solar panels into their designs, and being minimally certified Green Mark Super Low Energy. 
 
-Biophilic design will create pleasant indoor environments for better health and wellbeing.
+Biophilic design will create pleasant indoor environments for better health and well-being.
 
 Residents and workers can be part of a green community that grows its own gardens, fruits and vegetables in community plots, and aspires towards higher levels of reducing waste through sharing, reusing and recycling. 
 
@@ -50,7 +50,7 @@ Jurong Lake District will be autonomous vehicle (AV)- and electric vehicle (EV)-
 
 Embedded from the start, centralised district infrastructure will optimise the use of land and energy resources across Jurong Lake District.
 
-Common services tunnels will be integrated with district cooling and pneumatic waste conveyance systems to deliver cleaner and more efficient urban services to all buildings.
+Common services tunnels will house district cooling and pneumatic waste conveyance systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the roads to lay utilities.
 
 Businesses can tap on these urban technologies to operate more efficiently and sustainably, and collectively demonstrate a greener way of life in an innovative district.
 
