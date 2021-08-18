@@ -5,17 +5,17 @@ permalink: /timeline
 <h3 style="color:#124596; font-weight:bold;">Transforming Jurong Lake District</h3>
 
 <h4 style="color:#124596; font-weight:normal;">1991</h4>
-Jurong as Regional Centre, Opening of IMM
+Jurong designated as a Regional Centre, Opening of IMM
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">1992</h4>
-Establishment of IBP
+Establishment of International Business Park
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">1993</h4>
-Jurong entertainment centre
+Opening of Jurong Entertainment Centre
 
 <hr style="margin:2rem 0;">
 
@@ -25,12 +25,12 @@ JTC relocates to JTC Summit
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2008</h4>
-Jurong Lake District
+Announcement of blueprint for Jurong Lake District
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2012</h4>
-JCube
+Opening of JCube
 
 <hr style="margin:2rem 0;">
 
@@ -40,26 +40,31 @@ Opening of Westgate &amp; JEM Mall
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2014</h4>
-Devan Nair Institute, Big Box
+Opening of Devan Nair Institute &amp; Big Box
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2015</h4>
-Opening of NTFGH, Genting Hotel
+Opening of Ng Teng Fong General Hospital and Jurong Community Hospital
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2016</h4>
-J Gateway
+Completion of J Gateway
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2017</h4>
-Vision Exchange
+Opening of Vision Exchange
 
 <hr style="margin:2rem 0;">
 
-<h3 style="color:#0e80af; font-weight:bold;">The next phase of development</h3>
+<h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2019</h4>
+Opening of Lakeside Garden
+
+<hr style="margin:2rem 0;">
+
+<h3 style="color:#0e80af; font-weight:bold;">Next phase of development</h3>
 
 <h4 style="color:#0e80af; font-weight:normal;">2022</h4>
 Perennial Business City
@@ -72,17 +77,17 @@ Jurong Lake Gardens
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#0e80af; font-weight:normal;margin-top: 10px;">2027</h4>
-Jurong Regional Line, New Science Centre
+Jurong Region Line, New Science Centre, Tourism Development
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#0e80af; font-weight:normal;margin-top: 10px;">2028</h4>
-Jurong Integrated Transport Hub, Ministry of Transport &amp; Land Transport Authority HQ, Lakeside West Tourist Attraction
+Jurong Integrated Transport Hub, Ministry of Transport &amp; Land Transport Authority HQ 
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#0e80af; font-weight:normal;margin-top: 10px;">2030</h4>
-Ministry of Sustainability &amp; the Environment
+Ministry of Sustainability &amp; the Environment HQ
 
 <hr style="margin:2rem 0;">
 
