@@ -107,4 +107,4 @@ From our year-round summer, first-rate healthcare and education systems to low c
 
 With an exciting and vibrant blend of culture, cuisine, arts and architecture, Singapore is one of the best cities to live, work and play. With aspirations to be a City in Nature, Singapore is also one of the greenest cities in the world. In 2021, Singapore launched the Singapore Green Plan 2030, a demonstration of our global commitment to climate action and sustainable development.
 
-![Singapore Skyline at Marina Bay](/images/jld_marinabayURAcrop.jpg)
+![Singapore Skyline at Marina Bay](/images/jld_marinabayuracrop.jpg)
