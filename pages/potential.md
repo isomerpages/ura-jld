@@ -14,7 +14,7 @@ permalink: /potential
 
 Jurong Lake District will be the largest of all business districts outside of the central area.
 
-The new district will have more than 120 ha of land available for development over the next 30 years. With more flexibility in zoning, land tenure and phasing compared to other districts, companies can experiment with new development concepts and innovative ways to integrate live, work and play.
+The new district will have more than 120 hectares of land available for development over the next 30 years. With more flexibility in zoning, land tenure and phasing compared to other districts, companies can experiment with new development concepts and innovative ways to integrate live, work and play.
 
 Jurong Lake District will be the focus of new development in the next two decades, with the government prioritising the sale of sites within the district.
 
