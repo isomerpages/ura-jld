@@ -1,9 +1,10 @@
 ---
 title: "Lakeside Garden, western section of Jurong Lake Gardens, opens "
 date: 2021-01-01
-permalink: /test-media-center/press-release/20210101-lakeside
+permalink: /news/press-release/20210101-lakeside
 layout: post
 ---
+
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a placerat est. In tempor velit elit, nec ornare felis sagittis quis. Vestibulum interdum lectus vel condimentum suscipit. Donec feugiat mauris et ornare vulputate. Donec tempor, enim sed luctus iaculis, turpis lectus interdum magna, quis volutpat nisl sem quis dolor. Fusce mauris leo, tristique eu molestie sed, dignissim ut nibh. Sed imperdiet molestie sem non viverra. In non orci libero. Sed dapibus lobortis ligula, id ultrices mauris dignissim eget. Nulla volutpat iaculis dui vitae imperdiet. Suspendisse eros eros, porttitor sit amet massa sed, sagittis pretium mi. Duis nec fermentum tortor, sed congue nisl. Suspendisse lobortis ex molestie lacus luctus, quis feugiat lacus aliquet. Curabitur ultricies, eros vitae bibendum sodales, neque erat commodo tortor, ac tincidunt turpis justo ac risus. Phasellus sed malesuada tellus. Donec sodales, sapien quis pharetra sollicitudin, arcu orci maximus justo, id ornare risus metus suscipit nisl.
