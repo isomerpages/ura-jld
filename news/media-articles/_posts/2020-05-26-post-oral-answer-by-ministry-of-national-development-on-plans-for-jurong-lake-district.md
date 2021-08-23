@@ -2,9 +2,10 @@
 title: Oral Answer by Ministry of National Development on plans for Jurong Lake
   District
 date: 2020-05-26
-permalink: /test-media-center/media-articles/20200526
+permalink: /news/media-articles/20200526
 layout: post
 ---
+
 Vestibulum nisl risus, venenatis sit amet dolor eget, sodales placerat enim. Ut euismod, urna sit amet pulvinar faucibus, mi libero congue diam, ut maximus nibh dui sed dui. Cras sagittis fermentum magna, at pharetra nisl lacinia nec. Sed sed dui nec massa commodo rutrum. Nulla eget justo facilisis nunc sagittis iaculis eget a magna. Donec vitae nisl quis justo pretium lobortis ac eu metus. Pellentesque finibus facilisis justo, non laoreet magna porta vitae. Duis a lectus vitae nisi aliquet aliquet. Phasellus ultricies lorem ac nisi luctus, in mollis risus faucibus. Nulla eget elit et nisi tristique hendrerit quis ac ex. Integer scelerisque libero eget gravida efficitur. Ut eu tempor libero, et vehicula nisl.
 
 Nunc eget sollicitudin sem, elementum pretium mauris. Sed eu massa sed nisi vestibulum congue. Sed scelerisque fringilla erat, eu interdum leo rhoncus consequat. Phasellus aliquam quam sed blandit fermentum. Pellentesque pellentesque accumsan libero vitae bibendum. Etiam metus tellus, vestibulum id eleifend ut, viverra non tortor. Nam varius, nulla convallis ultrices auctor, nunc magna feugiat nisi, non sodales mi libero vel eros. Suspendisse id consequat lectus. Aliquam varius sodales arcu vel eleifend. Phasellus id feugiat sapien. Aenean justo libero, tincidunt nec molestie a, congue consectetur tortor. Nunc placerat enim sed arcu eleifend sagittis. Quisque at blandit turpis. Vestibulum eu auctor odio, at condimentum ante. Aenean quis nulla ligula. Cras purus nibh, suscipit sed sapien id, mattis tincidunt risus.
