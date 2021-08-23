@@ -2,9 +2,10 @@
 title: NParks launches Coast-to-Coast Trail and Rower’s Bay along the Round
   Island Route
 date: 2019-03-21
-permalink: /test-media-center/publications/20190321-nparkslau
+permalink: /news/publications/20190321-nparkslau
 layout: post
 ---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a placerat est. In tempor velit elit, nec ornare felis sagittis quis. Vestibulum interdum lectus vel condimentum suscipit. Donec feugiat mauris et ornare vulputate. Donec tempor, enim sed luctus iaculis, turpis lectus interdum magna, quis volutpat nisl sem quis dolor. Fusce mauris leo, tristique eu molestie sed, dignissim ut nibh. Sed imperdiet molestie sem non viverra. In non orci libero. Sed dapibus lobortis ligula, id ultrices mauris dignissim eget. Nulla volutpat iaculis dui vitae imperdiet. Suspendisse eros eros, porttitor sit amet massa sed, sagittis pretium mi. Duis nec fermentum tortor, sed congue nisl. Suspendisse lobortis ex molestie lacus luctus, quis feugiat lacus aliquet. Curabitur ultricies, eros vitae bibendum sodales, neque erat commodo tortor, ac tincidunt turpis justo ac risus. Phasellus sed malesuada tellus. Donec sodales, sapien quis pharetra sollicitudin, arcu orci maximus justo, id ornare risus metus suscipit nisl.
 
 Curabitur ac magna dapibus, commodo magna sit amet, posuere massa. Morbi a lacus nulla. Proin sed erat mattis lacus aliquet posuere vel sit amet justo. Duis lacus metus, fringilla a aliquet eu, ultrices quis neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus gravida augue sit amet ante dictum accumsan. Phasellus ac efficitur orci, sit amet interdum tortor.
