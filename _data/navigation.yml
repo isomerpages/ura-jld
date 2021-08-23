@@ -11,16 +11,16 @@ links:
   - title: Timeline
     url: /timeline
   - title: News
-    url: /test-media-center/
+    url: /news/
     sublinks:
       - title: All
-        url: /test-media-center/
+        url: /news/
       - title: Media articles
-        url: /test-media-center/media-articles/
+        url: /news/media-articles/
       - title: Media releases
-        url: /test-media-center/media-releases/
+        url: /news/media-releases/
       - title: Publications
-        url: /test-media-center/publications/
+        url: /news/publications/
   - title: Events
     collection: events
   - title: Contact Us
