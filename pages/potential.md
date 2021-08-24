@@ -2,7 +2,7 @@
 title: Potential
 permalink: /potential
 ---
-<h3 style="color:#124596; font-weight:bold;">Grow seamlessly, scale easily</h3>
+<h3 style="color:#124596; font-weight:bold;">Grow seamlessly &amp; easily</h3>
 
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Jurong Lake District presents an opportunity for companies to put down roots, create a brand-new campus and scale up easily.</h4>
 
