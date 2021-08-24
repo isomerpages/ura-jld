@@ -30,3 +30,5 @@ links:
         url: /about-ura
       - title: Get in touch
         url: /get-in-touch
+  - title: Opportunity
+    collection: opportunity
