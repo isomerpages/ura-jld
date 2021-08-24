@@ -7,7 +7,7 @@ links:
   - title: Sustainability
     url: /sustainability
   - title: Opportunity
-    url: /opportunity
+    collection: opportunity
   - title: Timeline
     url: /timeline
   - title: News
@@ -30,5 +30,3 @@ links:
         url: /about-ura
       - title: Get in touch
         url: /get-in-touch
-  - title: Opportunity
-    collection: opportunity
