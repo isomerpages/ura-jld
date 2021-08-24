@@ -1,7 +1,8 @@
 ---
 title: Why Singapore?
-permalink: /why-singapore
+permalink: /opportunity/why-singapore
 ---
+
 
 ![Singapore Skyline at Marina Bay](/images/jld_marinabayuracrop.jpg)
 <span style="font-size:12px; font-style:italic;">xxxx</span>
