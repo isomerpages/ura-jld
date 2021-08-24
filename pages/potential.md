@@ -7,10 +7,10 @@ permalink: /potential
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Jurong Lake District presents an opportunity for companies to put down roots, create a brand-new campus and scale up easily.</h4>
 
 ![Bird's Eye View of JLD](/images/jld_birdseye.jpg)
-<span style="font-size:12px">xxxx</span>
+<span style="font-size:12px; font-style:italic;">xxxx</span>
 
 ![Statistics](/images/jld_potential.jpg)
-<span style="font-size:12px">xxxx</span>
+<span style="font-size:12px; font-style:italic;">xxxx</span>
 
 <h3 style="color:#124596; font-weight:bold;">Our next largest business district</h3>
 
@@ -21,7 +21,7 @@ The new district will have more than 120 hectares of land available for developm
 Jurong Lake District will be the focus of new development in the next two decades, with the government prioritising the sale of sites within the district.
 
 ![Drone Shot of JLD](/images/jld_droneover.jpg)
-<span style="font-size:12px">xxxx</span>
+<span style="font-size:12px; font-style:italic;">xxxx</span>
 
 <h3 style="color:#124596; font-weight:bold;">A dynamic ecosystem to grow your business </h3>
 
@@ -35,7 +35,7 @@ A new, broad planning approach will be adopted for Jurong Lake District where fl
 their activities and teams in one place. Large sites will give developers the flexibility to create scalable campuses tailored to business needs at competitive rents.
 
 ![Overview map of JLD](/images/jld_overviewmap.jpg)
-<span style="font-size:12px">xxxx</span>
+<span style="font-size:12px; font-style:italic;">xxxx</span>
 
 <h3 style="color:#124596; font-weight:bold;">Fast connections to major hubs</h3>
 
