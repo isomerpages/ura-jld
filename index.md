@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: A place to grow
-      background: /images/jld_headerhero.jpg
+      background: /images/jld_birdseye.jpg
       url: /contact-us/
       key_highlights:
         - title: Grow seamlessly & easily
