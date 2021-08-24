@@ -48,7 +48,7 @@ sections:
         green is easy alongside people and businesses who care"
       button: Read More
       url: /sustainability
-      image: /images/jld_Rasau%20Walk.jpg
+      image: /images/jld_rasauwalk.jpg
       alt: Sustainable Living
   - infopic:
       title: Your next strategic move
