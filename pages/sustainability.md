@@ -7,7 +7,7 @@ permalink: /sustainability
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Connect to a ready sustainability ecosystem where choosing green is easy alongside people and businesses who care.</h4>
 
 ![Alt text for image on Isomer site](/images/jld_rasauwalk.jpg)
-<span style="font-size:12px">xxxx</span>
+<span style="font-size:12px; font-style:italic;">xxxx</span>
 
 <h3 style="color:#124596; font-weight:bold;">Primed for the green economy </h3>
 
@@ -20,7 +20,7 @@ Envisaged to attract a new generation of technology, e-commerce, sustainability 
 In this government-supported Built Environment Living Lab, companies can conveniently co-locate R&amp;D and commercial trials in one place to facilitate faster lab-to-market prototyping and scaling.
 
 ![Alt text for image on Isomer site](/images/jld_greenery.jpg)
-<span style="font-size:12px">xxxx</span>
+<span style="font-size:12px; font-style:italic;">xxxx</span>
 
 <h3 style="color:#124596; font-weight:bold;">Green buildings and communities </h3>
 
@@ -33,7 +33,7 @@ Biophilic design will create pleasant indoor environments for better health and 
 Residents and workers can be part of a green community that grows its own gardens, fruits and vegetables in community plots, and aspires towards higher levels of reducing waste through sharing, reusing and recycling. 
 
 ![Alt text for image on Isomer site](/images/jld_rooftopterrace.jpg)
-<span style="font-size:12px">xxxx</span>
+<span style="font-size:12px; font-style:italic;">xxxx</span>
 
 <h3 style="color:#124596; font-weight:bold;">Seamless, driverless, carbonless journeys</h3>
 
@@ -48,7 +48,7 @@ People can walk to their destinations comfortably along the J-Walk, an elevated 
 Jurong Lake District will be autonomous vehicle (AV)- and electric vehicle (EV)-ready. Parking infrastructure in new developments will be well-sized, conveniently sited and designed to have dedicated pick-up drop-off and charge points for a seamless and efficient transport experience. New developments will also be designed to support emerging technologies such as the use of Autonomous Mobile Robots for last-mile deliveries.
 
 ![Alt text for image on Isomer site](/images/jld_jwalk_rev.jpg)
-<span style="font-size:12px">xxxx</span>
+<span style="font-size:12px; font-style:italic;">xxxx</span>
 
 <h3 style="color:#124596; font-weight:bold;">Centralised infrastructure for sustainable outcomes</h3>
 
@@ -59,4 +59,4 @@ Common services tunnels will house district cooling and pneumatic waste conveyan
 Businesses can tap on these urban technologies to operate more efficiently and sustainably, and collectively demonstrate a greener way of life in an innovative district.
 
 ![Alt text for image on Isomer site](/images/jld_cwalkcrop.jpg)
-<span style="font-size:12px">xxxx</span>
+<span style="font-size:12px; font-style:italic;">xxxx</span>
