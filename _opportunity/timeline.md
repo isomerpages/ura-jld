@@ -2,7 +2,6 @@
 title: Timeline
 permalink: /opportunity/timeline
 ---
-
 <h3 style="color:#124596; font-weight:bold;">Transforming Jurong Lake District</h3>
 
 <h4 style="color:#124596; font-weight:normal;">2030s</h4>
@@ -16,7 +15,7 @@ Ministry of Sustainability &amp; the Environment HQ
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2028</h4>
-Jurong Integrated Transport Hub, Ministry of Transport &amp; Land Transport Authority HQ 
+Jurong East Integrated Transport Hub, Ministry of Transport &amp; Land Transport Authority HQ 
 
 <hr style="margin:2rem 0;">
 
