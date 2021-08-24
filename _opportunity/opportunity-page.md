@@ -2,7 +2,6 @@
 title: Opportunity-page
 permalink: /opportunity-page
 ---
-
 <h3 style="color:#124596; font-weight:bold;">Your next strategic move</h3>
 
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Now is the time to invest and join the growing network of businesses in Jurong Lake District.</h4>
@@ -38,26 +37,14 @@ Lakeside West embraces Jurong Lake and Singapore’s third national garden, Juro
 
 ![District Map for JLD](/images/jld_districtmap.jpg)
 
-<h3 style="color:#124596; font-weight:bold;">Current and future occupiers</h3>
+<h3 style="color:#124596; font-weight:bold;">Business sectors in the district today</h3>
 
-**Occupiers in the district today** <br>
-* Professional services and construction <br>
-<span style="font-size:16px;">Beca, Black &amp; Veatch, CPG Corporation, Exyte Singapore, Vopak Terminals Singapore</span>
- 
-*	Finance, insurance, information &amp; communications <br>
-<span style="font-size:16px;">Great Eastern, M1 Limited, Realtek Singapore</span>
-
-* Wholesale and retail trade <br>
-<span style="font-size:16px;">Dell Global, Daimler, Vinda Singapore</span>
-
-* Energy, transport &amp; storage <br>
-<span style="font-size:16px;">Air Liquide, ExxonMobil, Solstad Offshore Asia Pacific, Trust Maritime Services</span>
-
-* Public administration and institutions <br>
-<span style="font-size:16px;">Building and Construction Authority, National Parks Board, Singapore Food Agency, JTC Corporation, Devan Nair Institute for Employment and Employability, Ministry of Transport, Land Transport Authority, Ministry of Sustainability and the Environment, National Environment Agency and PUB, Singapore's National Water Agency.</span>
-
-**Potential occupiers** <br>
-* Technology, professional services, financial institutions, engineering &amp; construction, sustainability
+<p style="margin:10px 0px;">Professional services and construction</p> 
+<p style="margin:10px 0px;">Finance, insurance, information &amp; communications </p>
+<p style="margin:10px 0px;">Wholesale and retail trade </p>
+<p style="margin:10px 0px;">Energy, transport &amp; storage </p>
+<p style="margin:10px 0px;">Sustainability </p>
+<p style="margin:10px 0px;">Public administration and institutions </p>
 
 <h3 style="color:#124596; font-weight:bold;">Development opportunities:<br>
 Future tourism development </h3>
