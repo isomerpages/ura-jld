@@ -2,7 +2,6 @@
 title: Development opportunities
 permalink: /opportunity/development-opportunities
 ---
-
 <h3 style="color:#124596; font-weight:bold;">Development opportunities:<br>
 Future tourism development </h3>
 
@@ -13,5 +12,5 @@ Together with the Jurong Lake Gardens and New Science Centre, the Tourism Develo
 A Request for Proposal will be launched in 2021 / 2022. 
 More information is provided at [go.gov.sg/jldtourismdev](https://go.gov.sg/jldtourismdev)
 
-![Lakeside Evening](/images/jld_lakeside_day.jpg)
+![Lakeside Evening](/images/jld_attractions.jpg)
 <span style="font-size:12px; font-style:italic;">Artist's impression of Jurong Lake District Tourism Development <br>(Credit: Image courtesy of Singapore Tourism Board)</span>
