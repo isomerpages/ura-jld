@@ -1,7 +1,8 @@
 ---
 title: Your next strategic move
-permalink: /next-strategic-move
+permalink: /opportunity/next-strategic-move
 ---
+
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Now is the time to invest and join the growing network of businesses in Jurong Lake District.</h4>
 
 <h3 style="color:#124596; font-weight:bold;">Office quantum in key business centres</h3>
