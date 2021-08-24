@@ -31,7 +31,7 @@ sections:
       button: READ MORE
       url: /potential
       alt: Grow seamless & easily
-      image: /images/jld_potential.jpg
+      image: /images/jld_birdseye.jpg
   - infopic:
       title: More than a CBD
       subtitle: Experience
