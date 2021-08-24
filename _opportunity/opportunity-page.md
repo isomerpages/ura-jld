@@ -51,48 +51,30 @@ Future tourism development </h3>
 
 The integrated tourism development will feature a compelling mix of lifestyle offerings that will complement the breadth of existing attractions in Singapore. 
 
-Together with the Jurong Lake Gardens and New Science Centre, the Tourism Development
-will form the heart of Jurong Lake District’s new ‘must visit’ leisure and recreational destination.
+Together with the Jurong Lake Gardens and New Science Centre, the Tourism Development will form the heart of Jurong Lake District’s new ‘must visit’ leisure and recreational destination.
 
 A Request for Proposal will be launched in 2021 / 2022. 
 More information is provided at [go.gov.sg/jldtourismdev](https://go.gov.sg/jldtourismdev)
 
-![Lakeside Evening](/images/jld_lakeside_evening.jpg)
-<span style="font-size:12px;">Artist's impression of Jurong Lake District Tourism Development <br>(Credit: Image courtesy of Singapore Tourism Board)</span>
+![Lakeside Evening](/images/jld_lakeside_day.jpg)
+<span style="font-size:12px; font-style:italic;">Artist's impression of Jurong Lake District Tourism Development <br>(Credit: Image courtesy of Singapore Tourism Board)</span>
 
 <h3 style="color:#124596; font-weight:bold;">Why Singapore? </h3>
 
+![Singapore Skyline at Marina Bay](/images/jld_marinabayuracrop.jpg)
+<span style="font-size:12px; font-style:italic;">xxxx</span>
+
 Singapore’s robust economy, highly-educated workforce, excellent connectivity and high standard of living makes it an ideal location for business and residency.
 
-Singapore also enjoys unparalleled global connectivity. As a major air, sea and telecommunications hub in Asia, Singapore offers market access to 4 billion people within a 7-hour flight radius. Changi International Airport receives over 7,000 flights a week to
-400 cities in 100 countries.
+Singapore also enjoys unparalleled global connectivity. As a major air, sea and telecommunications hub in Asia, Singapore offers market access to 4 billion people within a 7-hour flight radius. Changi International Airport receives over 7,000 flights a week to 400 cities in 100 countries.
 
-Singapore’s pro-business climate supported by infrastructure, talent and regulatory support has raised its rankings:
-
-![Jewel at Changi Airport](/images/jld_changijewel.jpg)
-
-**#5 in the world for most competitive economy** <br>
-2021, by IMD
-
-**#1 in Asia and #18 in the world for ease of doing business** <br>
-2020, by TMF Group
-
-**#1 in Asia and #2 in the world for intellectual property protection** <br>
-2019, by World Economic Forum
-
-**#2 in the world for digital competitiveness** <br>
-2020, by IMD
-
-**#1 in Asia and #9 in the world for global talent** <br>
-2020, by IMD
-
-**#1 in Asia and #21 in the world for sustainability** <br>
-2021, by ETI
+Singapore's pro-business climate supported by infrastructure, talent and regulatory support, making it amongst the top-ranked in the world.
 
 <h3 style="color:#124596; font-weight:bold;">Small island, great city </h3>
+
+![Jewel at Changi Airport](/images/jld_changijewel.jpg)
+<span style="font-size:12px; font-style:italic;">xxxx</span>
 
 From our year-round summer, first-rate healthcare and education systems to low crime rate, Singapore continually tops international rankings for world-class liveability.
 
 With an exciting and vibrant blend of culture, cuisine, arts and architecture, Singapore is one of the best cities to live, work and play. With aspirations to be a City in Nature, Singapore is also one of the greenest cities in the world. In 2021, Singapore launched the Singapore Green Plan 2030, a demonstration of our global commitment to climate action and sustainable development.
-
-![Singapore Skyline at Marina Bay](/images/jld_marinabayuracrop.jpg)
