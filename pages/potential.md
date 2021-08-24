@@ -8,7 +8,7 @@ permalink: /potential
 
 ![Bird's Eye View of JLD](/images/jld_birdseye.jpg)
 
-![Statistics](/images/jld_potentnums.jpg)
+![Statistics](/images/jld_potential.jpg)
 
 <h3 style="color:#124596; font-weight:bold;">Our next largest business district</h3>
 
