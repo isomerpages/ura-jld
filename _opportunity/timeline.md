@@ -1,7 +1,8 @@
 ---
 title: Timeline
-permalink: /timeline
+permalink: /opportunity/timeline
 ---
+
 <h3 style="color:#124596; font-weight:bold;">Transforming Jurong Lake District</h3>
 
 <h4 style="color:#124596; font-weight:normal;">2030s</h4>
