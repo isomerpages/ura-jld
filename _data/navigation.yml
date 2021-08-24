@@ -8,8 +8,6 @@ links:
     url: /sustainability
   - title: Opportunity
     collection: opportunity
-  - title: Timeline
-    url: /timeline
   - title: News
     url: /news/
     sublinks:
