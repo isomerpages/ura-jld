@@ -1,7 +1,8 @@
 ---
 title: Development opportunities
-permalink: /development-opportunities
+permalink: /opportunity/development-opportunities
 ---
+
 <h3 style="color:#124596; font-weight:bold;">Development opportunities:<br>
 Future tourism development </h3>
 
