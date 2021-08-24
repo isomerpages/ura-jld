@@ -1,4 +1,5 @@
 collections:
   opportunity:
     output: true
-    order: []
+    order:
+      - opportunity-page.md
