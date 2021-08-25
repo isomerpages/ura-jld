@@ -37,7 +37,7 @@ International Business Park is Singapore’s pioneer business park supporting R&
 
 Lakeside West embraces Jurong Lake and Singapore’s third national garden, Jurong Lake Gardens - a collection of three unique gardens. A new science centre and tourist development will add to the attractions at Lakeside Garden, Chinese Garden and Japanese Garden. This will make Lakeside West a place for leisure and recreation and a destination for events and entertainment.
 
-![District Map for JLD](/images/jld_districtmap.jpg)
+![District Map for JLD](/images/jld_overviewmapB.jpg)
 
 <h3 style="color:#124596; font-weight:bold;">Business sectors in the district today</h3>
 
