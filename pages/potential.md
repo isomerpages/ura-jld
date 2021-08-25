@@ -31,7 +31,7 @@ By 2040 to 2050, Jurong Lake District will have 100,000 new jobs and 20,000 new 
 A new, broad planning approach will be adopted for Jurong Lake District where flexi-use sites will be interspersed with business parks. This will allow companies to locate all
 their activities and teams in one place. Large sites will give developers the flexibility to create scalable campuses tailored to business needs at competitive rents.
 
-![Overview map of JLD](/images/jld_districtmapB.png)
+![Overview map of JLD](/images/jld_overviewmapB.png)
 <span style="font-size:12px; font-style:italic;">xxxx</span>
 
 <h3 style="color:#124596; font-weight:bold;">Fast connections to major hubs</h3>
@@ -40,4 +40,4 @@ Jurong Lake District will have excellent connectivity via two new train lines, J
 
 Jurong Region Line will link the district to academic expertise, R&amp;D and skilled talent at Nanyang Technological University, Jurong Innovation District and Jurong Industrial Estate, where many high value-add industries are located. The Cross Island Line will serve existing and future developments in the eastern, western and north-eastern corridors, connecting Jurong Lake District to other major hubs such as Punggol Digital District and the Changi region.
 
-<img style="width:75%;" src="/images/jld_hubmapB.png">
+<img src="/images/jld_hubmapB.png" style="width:75%;">
