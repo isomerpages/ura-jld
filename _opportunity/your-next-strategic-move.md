@@ -6,6 +6,8 @@ permalink: /opportunity/next-strategic-move
 
 <h3 style="color:#124596; font-weight:bold;">Office quantum in key business centres</h3>
 
+![Business Centres in Singapore](/images/jld_businessregions.png)
+
 Amidst a fast-changing landscape, our commitment remains steadfas. Investors can be confident in the government’s commitment to focus investment and development in Jurong Lake District for the next two decades.
 
 **Jurong Lake District** <br>
