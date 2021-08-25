@@ -9,9 +9,6 @@ permalink: /potential
 ![Bird's Eye View of JLD](/images/jld_birdseye.jpg)
 <span style="font-size:12px; font-style:italic;">xxxx</span>
 
-![Statistics](/images/jld_potential.jpg)
-<span style="font-size:12px; font-style:italic;">xxxx</span>
-
 <h3 style="color:#124596; font-weight:bold;">Our next largest business district</h3>
 
 Jurong Lake District will be the largest of all business districts outside of the central area.
