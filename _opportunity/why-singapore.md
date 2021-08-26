@@ -2,12 +2,10 @@
 title: Why Singapore?
 permalink: /opportunity/why-singapore
 ---
-
+Singapore’s robust economy, highly-educated workforce, excellent connectivity and high standard of living makes it an ideal location for business and residency.
 
 ![Singapore Skyline at Marina Bay](/images/jld_marinabayuracrop.jpg)
 <span style="font-size:12px; font-style:italic;">xxxx</span>
-
-Singapore’s robust economy, highly-educated workforce, excellent connectivity and high standard of living makes it an ideal location for business and residency.
 
 Singapore also enjoys unparalleled global connectivity. As a major air, sea and telecommunications hub in Asia, Singapore offers market access to 4 billion people within a 7-hour flight radius. Changi International Airport receives over 7,000 flights a week to 400 cities in 100 countries.
 
