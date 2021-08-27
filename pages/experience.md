@@ -32,7 +32,11 @@ Lively campuses will house business and residential communities, where people me
 
 <h3 style="color:#124596; font-weight:bold;">A district of gardens and water</h3>
 
-<img style="float: right; width:50%; padding:0px 20px 20px;" src="/images/jld_neramstreamscrop.jpg">Jurong Lake District will have more than 100 hectares of park and greenery, and a 70-hectare lake with 17 kilometres of active waterfront.
+<!--<img style="float: right; width:50%; padding:0px 20px 20px;" src="/images/jld_neramstreamscrop.jpg">-->
+Jurong Lake District will have more than 100 hectares of park and greenery, and a 70-hectare lake with 17 kilometres of active waterfront.
+
+![Car-lite environment](/images/jld_neramstreams.jpg)
+<span style="font-size:12px; font-style:italic;">xxxx</span>
 
 Throughout the district, streets are lined with canopy trees, forming green corridors that provide shade and act as nature ways for wildlife.
 
