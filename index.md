@@ -56,7 +56,7 @@ sections:
       description: "Now is the time to invest and join the growing\x03network of
         businesses in Jurong Lake District."
       button: Read More
-      url: /opportunity
+      url: /opportunity/next-strategic-move
       image: /images/jld_attractions.jpg
       alt: Attractions at night
   - resources:
