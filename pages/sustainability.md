@@ -26,7 +26,7 @@ In this government-supported Built Environment Living Lab, companies can conveni
 
 Buildings in Jurong Lake District will be planet-friendly, healthy and creatively designed to replace 100% of their footprint in landscaping and greenery.
 
-![Alt text for image on Isomer site](/images/jld_rooftopterrace.jpg)
+![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
 <span style="font-size:12px; font-style:italic;">xxxx</span>
 
 Developments will meet higher environmental standards by incorporating green materials and solar panels into their designs, and being minimally certified Green Mark Super Low Energy. 
