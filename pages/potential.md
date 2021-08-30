@@ -39,6 +39,6 @@ their activities and teams in one place. Large sites will give developers the fl
 
 Jurong Lake District will have excellent connectivity via two new train lines, Jurong Region Line and Cross Island Line, completing respectively in 2029 and the early 2030s. Together with the existing East-West Line and North-South Line, these new lines will connect people to major business centres and education hubs in the West and Central regions within 30 minutes. All train stations in Jurong Lake District will be within an easy 10-minute walk.
 
-<img src="/images/jld_hubmapB.png" style="width:75%;">
+<img src="/images/jld_hubmapC.png" style="width:75%;">
 
 Jurong Region Line will link the district to academic expertise, R&amp;D and skilled talent at Nanyang Technological University, Jurong Innovation District and Jurong Industrial Estate, where many high value-add industries are located. The Cross Island Line will serve existing and future developments in the eastern, western and north-eastern corridors, connecting Jurong Lake District to other major hubs such as Punggol Digital District and the Changi region.
