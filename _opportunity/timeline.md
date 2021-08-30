@@ -2,8 +2,7 @@
 title: Timeline
 permalink: /opportunity/timeline
 ---
-![Alt text for image on Isomer site](/images/jld_aerial.jpg)
-<span style="font-size:12px; font-style:italic;">Placeholder Image</span>
+![Alt text for image on Isomer site](/images/jld_timeline.jpg)
 
 <h3 style="color:#124596; font-weight:bold;">Transforming Jurong Lake District</h3>
 
