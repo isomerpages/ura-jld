@@ -22,7 +22,7 @@ sections:
           url: /sustainability
         - title: Your next strategic move
           description: Join the growing network now
-          url: /opportunity
+          url: /opportunity/next-strategic-move
   - infopic:
       title: Grow seamlessly & easily
       subtitle: Potential
