@@ -8,13 +8,11 @@ links:
     url: /sustainability
   - title: Opportunity
     collection: opportunity
-  - title: News
+  - title: News & Publications
     url: /news/
     sublinks:
       - title: All
         url: /news/
-      - title: Media articles
-        url: /news/media-articles/
       - title: Media releases
         url: /news/media-releases/
       - title: Publications
