@@ -2,30 +2,36 @@
 title: Upcoming events
 permalink: /events/upcoming-events
 ---
+<a style="color:#124596; text-decoration:none;" href="https://www.nparks.gov.sg/activities/events-and-workshops/2021/9/bazaar-in-thegarden-@-jurong-lake-gardens-(september-2021)"><h3 style="color:#124596; font-weight:bold;">Bazzar in the Garden @ Jurong Lake Gardens (September 2021)</h3></a>
 
-<h3 style="color:#124596; font-weight:bold;">Lorem ipsum dolor sit amet</h3>
+In September’s Bazaar in the Gardens, we have interesting and
+informative programmes prepared for you!
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+Find out more about the rabbits during the children’s programmes and gain insights on growing your own plants from the experts. There will also be guided tours at the Gardens (with safe management measures in place).
 
-![Placeholder Image](/images/jld_attractions.jpg)
-<span style="font-size:12px">Placeholder Image</span>
+Join us online and in the Jurong Lake Gardens for a fun-filled day! See you there!
 
-<a style="color:#62863a;" href="#">(External link to separate event page)</a>
+![Alt text for image on Isomer site](/images/rabbitlantern.jpg)
 
-<h3 style="color:#124596; font-weight:bold;">Lorem ipsum dolor sit amet</h3>
+9.00am – 10.00am
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+As the moon grows closer to earth, can you find the Jade rabbit up there? Ah what a glow! But how did he get up there?
 
-![Placeholder Image](/images/jld_attractions.jpg)
-<span style="font-size:12px">Placeholder Image</span>
+Come listen to the story of the kind rabbit that hopped from earth to heaven and heaven to moon. Mystical places for you and I... Let’s travel through our mind’s eye!
 
-<a style="color:#62863a;" href="#">(External link to separate event page)</a>
+Following the enchanting story, learn how to make a craft inspired by the kind rabbit! Join us to find out how to make your very own rabbit lantern out of paper plates!
 
-<h3 style="color:#124596; font-weight:bold;">Lorem ipsum dolor sit amet</h3>
+<a style="color:#62863a;" href="#">Click here to register!</a> Slots are limited and available on a first-come-first-served basis.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+<a style="color:#124596; text-decoration:none;" href="https://www.nparks.gov.sg/activities/events-and-workshops/2021/9/edible-waterplants-for-your-home-garden"><h3 style="color:#124596; font-weight:bold;">Edible Water Plants for Your Home Garden (Online)</h3></a>
 
-![Placeholder Image](/images/jld_attractions.jpg)
-<span style="font-size:12px">Placeholder Image</span>
+Aquatic plants can be found growing submerged in water as well as moist
+soil along the water edge. Besides being ornamental, some aquatic plants are edible
+and have cultural associations. In this talk, Dr Wilson Wong will introduce and focus
+on a range of edible water plants that are suitable for growing in small spaces in a
+high-rise apartment garden. Some of these plants also make interesting ornamental
+plants for display in bowls, dishes and even inside your aquarium.
+
+![Alt text for image on Isomer site](/images/neptunia.jpg)
 
 <a style="color:#62863a;" href="#">(External link to separate event page)</a>
