@@ -21,7 +21,7 @@ Come listen to the story of the kind rabbit that hopped from earth to heaven and
 
 Following the enchanting story, learn how to make a craft inspired by the kind rabbit! Join us to find out how to make your very own rabbit lantern out of paper plates!
 
-<a style="color:#62863a;" href="#">Click here to register!</a> Slots are limited and available on a first-come-first-served basis.
+<a style="color:#62863a;" href="https://www.nparks.gov.sg/activities/events-and-workshops/2021/9/online-children's-storytelling-25-september">Click here to register!</a> Slots are limited and available on a first-come-first-served basis.
 
 <h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.nparks.gov.sg/activities/events-and-workshops/2021/9/edible-water-plants-for-your-home-garden">Edible Water Plants for Your Home Garden (Online)</a></h3>
 
@@ -34,4 +34,4 @@ plants for display in bowls, dishes and even inside your aquarium.
 
 ![Alt text for image on Isomer site](/images/neptunia.jpg)
 
-<a style="color:#62863a;" href="#">(External link to separate event page)</a>
+<a style="color:#62863a;" href="https://www.nparks.gov.sg/activities/events-and-workshops/2021/9/edible-water-plants-for-your-home-garden">Click here to find out more.</a>
