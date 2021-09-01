@@ -2,7 +2,7 @@
 title: Upcoming events
 permalink: /events/upcoming-events
 ---
-<a style="color:#124596; text-decoration:none;" href="https://www.nparks.gov.sg/activities/events-and-workshops/2021/9/bazaar-in-thegarden-@-jurong-lake-gardens-(september-2021)"><h3 style="color:#124596; font-weight:bold;">Bazzar in the Garden @ Jurong Lake Gardens (September 2021)</h3></a>
+<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.nparks.gov.sg/activities/events-and-workshops/2021/9/bazaar-in-thegarden-@-jurong-lake-gardens-(september-2021)">Bazzar in the Garden @ Jurong Lake Gardens (September 2021)</a></h3>
 
 In September’s Bazaar in the Gardens, we have interesting and
 informative programmes prepared for you!
@@ -23,7 +23,7 @@ Following the enchanting story, learn how to make a craft inspired by the kind r
 
 <a style="color:#62863a;" href="#">Click here to register!</a> Slots are limited and available on a first-come-first-served basis.
 
-<a style="color:#124596; text-decoration:none;" href="https://www.nparks.gov.sg/activities/events-and-workshops/2021/9/edible-waterplants-for-your-home-garden"><h3 style="color:#124596; font-weight:bold;">Edible Water Plants for Your Home Garden (Online)</h3></a>
+<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.nparks.gov.sg/activities/events-and-workshops/2021/9/edible-waterplants-for-your-home-garden">Edible Water Plants for Your Home Garden (Online)</a></h3>
 
 Aquatic plants can be found growing submerged in water as well as moist
 soil along the water edge. Besides being ornamental, some aquatic plants are edible
