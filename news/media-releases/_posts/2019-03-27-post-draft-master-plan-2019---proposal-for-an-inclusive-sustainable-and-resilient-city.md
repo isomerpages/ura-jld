@@ -5,3 +5,4 @@ date: 2019-03-27
 permalink: /news/media-releases/2019-03-27-draftmasterplan
 layout: post
 ---
+<h3 style="color:#124596; font-weight:bold;"><a href="https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr19-13">Read the media release</a></h3>
