@@ -4,3 +4,5 @@ date: 2017-07-01
 permalink: /news/media-releases/factsheetnew15km20170701
 layout: post
 ---
+<h3 style="color:#124596; font-weight:bold;"><a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/7/2/factsheet-new-
+15km-cycling-path-network-in-jurong-lake-district.html">Read the media release</a></h3>
