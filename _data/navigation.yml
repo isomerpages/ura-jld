@@ -13,8 +13,12 @@ links:
     sublinks:
       - title: All
         url: /news/
+      - title: Events
+        url: /news/events/
       - title: Media releases
         url: /news/media-releases/
+      - title: Places
+        url: /news/places/
       - title: Publications
         url: /news/publications/
   - title: Events
