@@ -52,8 +52,8 @@ In 2021, Lakeside Garden won an Urban Land Institute Asia Pacific Award for Exce
 
 Unique attractions will surround Jurong Lake, adding to the variety of recreation and water activities around the lake.
 
-![Alt text for image on Isomer site](/images/jld_lakeside_day.jpg) 
-<span style="font-size:12px; font-style:italic;">Artist's impression of Jurong Lake District Tourism Development <br>(Image courtesy of Singapore Tourism Board)</span>
+![Alt text for image on Isomer site](/images/JLG_Event_Lawn.jpg) 
+<span style="font-size:12px; font-style:italic;">Artist's impression of Jurong Lake District Tourism Development <br>(Image courtesy of NParks)</span>
 
 From 2023 to 2028, the redeveloped Chinese and Japanese Gardens, the New Science Centre and a future tourism development will be progressively completed and line the waterfront with exciting leisure and entertainment offerings.
 
