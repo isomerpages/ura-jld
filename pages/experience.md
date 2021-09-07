@@ -9,7 +9,7 @@ permalink: /experience
 ![Statistics](/images/jld_experience.jpg)
 <span style="font-size:12px; font-style:italic;">xxxx</span>
 
-<h3 style="color:#124596; font-weight:bold;">A place to redefine live, work and play</h3>
+<h3 style="color:#124596; font-weight:bold;">A place to redefine live, work, play and learn</h3>
 
 Jurong Lake District is ideal for the next generation of businesses and talent to redesign the way we live, work, play and learn.
 
