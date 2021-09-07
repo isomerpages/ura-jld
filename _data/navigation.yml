@@ -8,7 +8,7 @@ links:
     url: /sustainability
   - title: Opportunity
     collection: opportunity
-  - title: Resources & Events
+  - title: Events & Resources
     url: /news/
     sublinks:
       - title: All
@@ -21,8 +21,6 @@ links:
         url: /news/places/
       - title: Publications
         url: /news/publications/
-  - title: Events
-    collection: events
   - title: Contact Us
     url: /get-in-touch
     sublinks:
