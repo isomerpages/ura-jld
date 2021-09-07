@@ -29,7 +29,7 @@ Buildings in Jurong Lake District will be planet-friendly, healthy and creativel
 ![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
 <span style="font-size:12px; font-style:italic;">xxxx</span>
 
-Developments will meet higher environmental standards by incorporating green materials and solar panels into their designs, and being minimally certified Green Mark Super Low Energy. 
+Developments will meet higher environmental standards by incorporating green materials and solar panels into their designs, and by being minimally certified Green Mark Super Low Energy. 
 
 Biophilic design will create pleasant indoor environments for better health and well-being.
 
