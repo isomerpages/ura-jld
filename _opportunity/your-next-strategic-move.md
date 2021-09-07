@@ -49,3 +49,8 @@ Lakeside West embraces Jurong Lake and Singapore’s third national garden, Juro
 <p style="margin:10px 0px;">Energy, transport &amp; storage </p>
 <p style="margin:10px 0px;">Sustainability </p>
 <p style="margin:10px 0px;">Public administration and institutions </p>
+
+<h3 style="color:#124596; font-weight:bold;">Leasing opportunities</h3>
+
+Morbi est tortor, finibus vitae tincidunt eget, pharetra a augue. Donec a felis efficitur, eleifend sem et, fermentum diam. Sed lacinia ut quam et consequat. Phasellus dapibus ipsum in ante venenatis, quis congue massa dignissim. Mauris justo nulla, tincidunt sed ex ac, porttitor auctor tortor. Vivamus fermentum libero et ex posuere mollis. Aenean pharetra, ipsum vel tristique feugiat, ligula odio dictum ex, id pulvinar odio nisi ut nibh. Sed malesuada eros nec est auctor, vel auctor ante placerat. Ut iaculis rhoncus enim eu dapibus. Donec fringilla viverra ipsum at fermentum. Curabitur faucibus euismod tortor, non vestibulum dui placerat et.
+
