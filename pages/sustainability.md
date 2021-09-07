@@ -18,7 +18,7 @@ At Jurong Lake District, residents and businesses will collectively shape a sust
 
 Identified as a model for urban sustainability under the Singapore Green Plan 2030, the district will support Singapore’s ambition to be a carbon services hub and a leading centre for green finance in Asia and globally.
 
-Envisaged to attract a new generation of technology, e-commerce, sustainability and business services sectors, Jurong Lake District will be the epicentre to support talent and companies in creating new growth and new jobs in green innovation.
+Envisaged to attract a new generation of firms from the technology, e-commerce, sustainability and business services sectors, Jurong Lake District will be the epicentre to support talent and companies in creating new growth and new jobs in green innovation.
 
 In this government-supported Built Environment Living Lab, companies can conveniently co-locate R&amp;D and commercial trials in one place to facilitate faster lab-to-market prototyping and scaling.
 
