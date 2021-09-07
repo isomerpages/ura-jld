@@ -34,7 +34,7 @@ Jurong Gateway is the current commercial core of Jurong Lake District, comprisin
 
 ![District Map for JLD](/images/jld_districtmapC.png)
 
-The commercial core will extend seamlessly into Lakeside East, which will have a balanced mix of offices, housing and amenities in a car-lite and park setting. This 120-hectare precinct will be developed over the next 30 years and served by two new MRT stations. We will have the opportunity to experiment with new development concepts and redesign ways to integrate live, work and play.
+The commercial core will extend seamlessly into Lakeside East, which will have a balanced mix of offices, housing and amenities in a car-lite and park setting. This 120-hectare precinct will be developed over the next 30 years and served by two new MRT stations. We will have the opportunity to introduce new development concepts and redesign ways to integrate live, work and play.
 
 International Business Park is Singapore’s pioneer business park supporting R&amp;D and knowledge-based activities since the 1990s. In the coming years, the business park will be progressively rejuvenated to support the needs of new economic sectors and complement the commercial core. The area around the upcoming Jurong Town Hall MRT station will also see more mixed uses to cater to the thriving tech community.
 
@@ -53,4 +53,3 @@ Lakeside West embraces Jurong Lake and Singapore’s third national garden, Juro
 <h3 style="color:#124596; font-weight:bold;">Leasing opportunities</h3>
 
 Morbi est tortor, finibus vitae tincidunt eget, pharetra a augue. Donec a felis efficitur, eleifend sem et, fermentum diam. Sed lacinia ut quam et consequat. Phasellus dapibus ipsum in ante venenatis, quis congue massa dignissim. Mauris justo nulla, tincidunt sed ex ac, porttitor auctor tortor. Vivamus fermentum libero et ex posuere mollis. Aenean pharetra, ipsum vel tristique feugiat, ligula odio dictum ex, id pulvinar odio nisi ut nibh. Sed malesuada eros nec est auctor, vel auctor ante placerat. Ut iaculis rhoncus enim eu dapibus. Donec fringilla viverra ipsum at fermentum. Curabitur faucibus euismod tortor, non vestibulum dui placerat et.
-
