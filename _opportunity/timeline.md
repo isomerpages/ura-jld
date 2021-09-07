@@ -12,7 +12,7 @@ Cross Island Line
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2030</h4>
-Ministry of Sustainability &amp; the Environment HQ
+Ministry of Sustainability and the Environment HQ
 
 <hr style="margin:2rem 0;">
 
@@ -62,7 +62,7 @@ Opening of Devan Nair Institute &amp; Big Box
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2013</h4>
-Opening of Westgate &amp; JEM Mall
+Opening of Westgate, Jem 
 
 <hr style="margin:2rem 0;">
 
