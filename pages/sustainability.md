@@ -13,7 +13,7 @@ permalink: /sustainability
 
 At Jurong Lake District, residents and businesses will collectively shape a sustainable future through shared goals, higher standards and ready technology.
 
-![Alt text for image on Isomer site](/images/jld_greenery.jpg)
+![Alt text for image on Isomer site](/images/JLD_03_Central_park.jpg)
 <span style="font-size:12px; font-style:italic;">xxxx</span>
 
 Identified as a model for urban sustainability under the Singapore Green Plan 2030, the district will support Singapore’s ambition to be a carbon services hub and a leading centre for green finance in Asia and globally.
