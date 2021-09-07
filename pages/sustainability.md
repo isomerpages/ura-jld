@@ -49,7 +49,9 @@ New roads in the district will have cycling paths. Some roads will be transit-pr
 
 People can walk to their destinations comfortably along the J-Walk, an elevated weather-proof pedestrian network that links buildings, transit stations and public spaces throughout the district.
 
-Jurong Lake District will be autonomous vehicle (AV)- and electric vehicle (EV)-ready. Parking infrastructure in new developments will be well-sized, conveniently sited and designed to have dedicated pick-up drop-off and charge points for a seamless and efficient transport experience. New developments will also be designed to support emerging technologies such as the use of Autonomous Mobile Robots for last-mile deliveries.
+Jurong Lake District will be autonomous vehicle (AV)- and electric vehicle (EV)-ready. Parking infrastructure in new developments will be well-sized, conveniently sited and designed to have dedicated pick-up drop-off and charge points for a seamless and efficient transport experience. 
+
+New developments will also be designed to support emerging technologies such as the use of Autonomous Mobile Robots for last-mile deliveries.
 
 
 <h3 style="color:#124596; font-weight:bold;">Centralised infrastructure for sustainable outcomes</h3>
