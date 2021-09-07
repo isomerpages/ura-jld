@@ -36,7 +36,7 @@ sections:
       title: More than a CBD
       subtitle: Experience
       description: Imagine working, living and playing in the district with familiar
-        squares, intimate public spaces, lush lakefront greenery and wildlife.
+        plazas, intimate public spaces, lush lakefront greenery and wildlife.
       button: Read More
       alt: More than a CBD
       url: /experience
