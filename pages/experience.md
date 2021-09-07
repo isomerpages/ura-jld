@@ -4,7 +4,7 @@ permalink: /experience
 ---
 <h3 style="color:#124596; font-weight:bold;">More than a CBD</h3>
 
-<h4 style="color:#484848; font-weight:normal;margin-top: 0;">Imagine working, living and playing in the district with familiar squares, intimate public spaces, lush lakefront greenery and wildlife.</h4>
+<h4 style="color:#484848; font-weight:normal;margin-top: 0;">Imagine working, living and playing in the district with familiar plazas, intimate public spaces, lush lakefront greenery and wildlife.</h4>
 
 ![Statistics](/images/jld_experience.jpg)
 <span style="font-size:12px; font-style:italic;">xxxx</span>
