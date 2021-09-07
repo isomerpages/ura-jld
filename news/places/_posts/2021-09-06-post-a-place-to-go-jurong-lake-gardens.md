@@ -9,6 +9,7 @@ layout: post
 Jurong Lake Gardens is Singapore’s new national gardens in the heartlands. It is a people’s garden, where spaces will be landscaped and created for families and the community to come together.
 
 ![Alt text for image on Isomer site](/images/rasauwalkbanner.jpg)
+<span style="font-size:12px; font-style:italic;">xxxx</span>
 
 The 90-hectare Gardens comprises Lakeside Garden (Jurong Lake Gardens West/former Jurong Lake Park), Chinese and Japanese Gardens (Jurong Lake Gardens Central) and Garden Promenade (Jurong Lake Gardens East).
 Lakeside Garden is open for visitors from end-April 2019. The rest of the garden is currently undergoing re-development.
