@@ -31,7 +31,7 @@ As the district grows, an ecosystem of innovation, collaboration and synergy wit
 
 By 2040 to 2050, Jurong Lake District will have 100,000 new jobs and 20,000 new homes, adding to the 1 million residents already in the West Region. 
 
-A new, broad planning approach will be adopted for Jurong Lake District where flexi-use sites will be interspersed with business parks. This will allow companies to locate all
+A new, broad planning approach will be adopted for Jurong Lake District where flexi-use sites will be interspersed with business park uses. This will allow companies to locate all
 their activities and teams in one place. Large sites will give developers the flexibility to create scalable campuses tailored to business needs at competitive rents.
 
 
