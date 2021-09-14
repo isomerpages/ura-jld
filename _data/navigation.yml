@@ -9,18 +9,18 @@ links:
   - title: Opportunity
     collection: opportunity
   - title: Events & Resources
-    url: /news/
+    url: /Events-&-resources/
     sublinks:
       - title: All
-        url: /news/
+        url: /Events-&-resources/
       - title: Events
-        url: /news/events/
+        url: /Events-&-resources/events/
       - title: Media releases
-        url: /news/media-releases/
+        url: /Events-&-resources/media-releases/
       - title: Places
-        url: /news/places/
+        url: /Events-&-resources/places/
       - title: Publications
-        url: /news/publications/
+        url: /Events-&-resources/publications/
   - title: Contact Us
     url: /get-in-touch
     sublinks:
