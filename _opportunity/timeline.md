@@ -16,13 +16,13 @@ Ministry of Sustainability and the Environment HQ
 
 <hr style="margin:2rem 0;">
 
-<h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2028</h4>
-Jurong East Integrated Transport Hub, Ministry of Transport &amp; Land Transport Authority HQ 
+<h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2029</h4>
+Jurong Region Line
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2027</h4>
-Jurong Region Line, New Science Centre, Tourism Development
+Jurong East Integrated Transport Hub, New Science Centre, Tourism Development
 
 <hr style="margin:2rem 0;">
 
