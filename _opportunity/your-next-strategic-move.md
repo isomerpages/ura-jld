@@ -58,10 +58,12 @@ International Business Park
 
 Jem
 
-Jurong Town Hall
+<a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/the-jtc-summit.aspx" style="color:#62863a;">JTC Summit</a>
+
+<a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/jurong-town-hall.aspx" style="color:#62863a;">Jurong Town Hall</a>
 
 Perennial Business City
 
-Vision Exchange
+<a href="https://www.simlian.com.sg/portfolio/integrated/projects-for-salelease/vision-exchange/additional-info/" style="color:#62863a;">Vision Exchange</a>
 
 Westgate Tower
