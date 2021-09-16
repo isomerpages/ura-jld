@@ -52,4 +52,16 @@ Lakeside West embraces Jurong Lake and Singapore’s third national garden, Juro
 
 <h3 style="color:#124596; font-weight:bold;">Leasing opportunities</h3>
 
-Morbi est tortor, finibus vitae tincidunt eget, pharetra a augue. Donec a felis efficitur, eleifend sem et, fermentum diam. Sed lacinia ut quam et consequat. Phasellus dapibus ipsum in ante venenatis, quis congue massa dignissim. Mauris justo nulla, tincidunt sed ex ac, porttitor auctor tortor. Vivamus fermentum libero et ex posuere mollis. Aenean pharetra, ipsum vel tristique feugiat, ligula odio dictum ex, id pulvinar odio nisi ut nibh. Sed malesuada eros nec est auctor, vel auctor ante placerat. Ut iaculis rhoncus enim eu dapibus. Donec fringilla viverra ipsum at fermentum. Curabitur faucibus euismod tortor, non vestibulum dui placerat et.
+Jurong Lake District offers a range of workspaces to suit different business needs and work arrangements. Click on the links below for information on leasing opportunities in the district.
+
+International Business Park
+
+Jem
+
+Jurong Town Hall
+
+Perennial Business City
+
+Vision Exchange
+
+Westgate Tower
