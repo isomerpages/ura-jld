@@ -8,25 +8,7 @@ permalink: /opportunity/next-strategic-move
 
 Amidst a fast-changing landscape, our commitment remains steadfast. Investors can be confident in the government’s commitment to focus investment and development in Jurong Lake District for the next two decades.
 
-![Business Centres in Singapore](/images/jld_businessregionsB.png)
-
-
-<!--**Jurong Lake District** <br>
-200,000 sqm (existing) 1,400,000 sqm (planned)
-
-**Central Business Business District** <br>
-5,000,000 sqm (existing)
-
-**Paya Lebar Central** <br>
-200,000 sqm (existing)
-
-**Tampines Regional Centre:** <br>
-130,000 sqm (existing)
-
-**Woodlands Central** <br>
-70,000 sqm (existing)
-
-*Source: REALIS (URA Real Estate Information System), August 2021.*-->
+![Business Centres in Singapore](/images/jld_businessregionsC.png)
 
 <h3 style="color:#124596; font-weight:bold;">Precinct plan</h3>
 
