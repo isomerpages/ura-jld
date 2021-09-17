@@ -24,7 +24,7 @@ Jurong Lake District will be the focus of new development in the next two decade
 
 The West Region is also home to Singapore’s top two universities, providing a deep talent pool. Tuas Port, Jurong Innovation District and one-north are close by, making Jurong Lake District the ideal location to tap on academia, port and maritime industries.
 
-![Overview map of JLD](/images/jld_overviewmapC.png)
+![Overview map of JLD](/images/jld_overviewmapD.png)
 <span style="font-size:12px; font-style:italic;">xxxx</span>
 
 As the district grows, an ecosystem of innovation, collaboration and synergy within the region will emerge.
