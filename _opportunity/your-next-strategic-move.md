@@ -14,7 +14,7 @@ Amidst a fast-changing landscape, our commitment remains steadfast. Investors ca
 
 Jurong Gateway is the current commercial core of Jurong Lake District, comprising mainly offices, retail and institution uses. By 2028, we can look forward to more offices and community uses, a new Jurong Region Line station and an integrated transport hub next to Jurong East MRT station.
 
-![District Map for JLD](/images/jld_districtmapC.png)
+![District Map for JLD](/images/jld_districtmapD.jpg)
 
 The commercial core will extend seamlessly into Lakeside East, which will have a balanced mix of offices, housing and amenities in a car-lite and park setting. This 120-hectare precinct will be developed over the next 30 years and served by two new MRT stations. We will have the opportunity to introduce new development concepts and redesign ways to integrate live, work and play.
 
