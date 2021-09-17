@@ -60,6 +60,6 @@ sections:
       image: /images/jld_attractions.jpg
       alt: Attractions at night
   - resources:
-      title: Resources & Events
+      title: Events & resources
       button: Read More
 ---
