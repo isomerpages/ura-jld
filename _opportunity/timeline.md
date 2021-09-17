@@ -4,7 +4,7 @@ permalink: /opportunity/timeline
 ---
 <h3 style="color:#124596; font-weight:bold;">Transforming Jurong Lake District</h3>
 
-![Alt text for image on Isomer site](/images/jld_timeline.jpg)
+![Alt text for image on Isomer site](/images/jld_timelineB.png)
 
 <h4 style="color:#124596; font-weight:normal;">2030s</h4>
 Cross Island Line
