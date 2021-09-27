@@ -14,7 +14,7 @@ permalink: /potential
 Jurong Lake District will be the largest of all business districts outside of the central area.
 
 ![Drone Shot of JLD](/images/jld_droneover.jpg)
-<span style="font-size:12px; font-style:italic;">xxxx</span>
+<span style="font-size:12px; font-style:italic;">Artist impression of Jurong Lake District – Singapore’s next largest business district and a world-class sustainability district</span>
 
 The new district will have more than 120 hectares of land available for development over the next 30 years. With more flexibility in zoning, land tenure and phasing compared to other districts, companies can experiment with new development concepts and innovative ways to integrate live, work and play.
 
