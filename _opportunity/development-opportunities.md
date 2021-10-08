@@ -9,7 +9,7 @@ The integrated tourism development will feature a compelling mix of lifestyle of
 
 
 ![Lakeside Evening](/images/jld_attractions.jpg)
-<span style="font-size:12px; font-style:italic;">Artist's impression of Jurong Lake District Tourism Development <br>(Image courtesy of Singapore Tourism Board)</span>
+<span style="font-size:12px; font-style:italic;">Artist impression of Jurong Lake District Tourism Development <br>(Image courtesy of Singapore Tourism Board)</span>
 
 Together with the Jurong Lake Gardens and New Science Centre, the Tourism Development will form the heart of Jurong Lake District’s new ‘must visit’ leisure and recreational destination.
 
