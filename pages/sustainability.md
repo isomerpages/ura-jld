@@ -7,14 +7,15 @@ permalink: /sustainability
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Connect to a ready sustainability ecosystem where choosing green is easy alongside people and businesses who care.</h4>
 
 ![Alt text for image on Isomer site](/images/jld_rasauwalk.jpg)
-<span style="font-size:12px; font-style:italic;">xxxx</span>
+<span style="font-size:12px; font-style:italic;">Rasau Walk is a 300m boardwalk situated along the edge of Jurong Lake that meanders through a restored freshwater wetland. <br> (Image courtesy of NParks)</span>
 
 <h3 style="color:#124596; font-weight:bold;">Primed for the green economy </h3>
 
 At Jurong Lake District, residents and businesses will collectively shape a sustainable future through shared goals, higher standards and ready technology.
 
 ![Alt text for image on Isomer site](/images/JLD_03_Central_park.jpg)
-<span style="font-size:12px; font-style:italic;">xxxx</span>
+<span style="font-size:12px; font-style:italic;">Artist impression of Central Park, an urban park with water features and lawn spaces against a backdrop of green buildings. <br> (Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+ </span>
 
 Identified as a model for urban sustainability under the Singapore Green Plan 2030, the district will support Singapore’s ambition to be a carbon services hub and a leading centre for green finance in Asia and globally.
 
@@ -27,7 +28,8 @@ In this government-supported Built Environment Living Lab, companies can conveni
 Buildings in Jurong Lake District will be planet-friendly, healthy and creatively designed to replace 100% of their footprint in landscaping and greenery.
 
 ![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
-<span style="font-size:12px; font-style:italic;">xxxx</span>
+<span style="font-size:12px; font-style:italic;"> Artist impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+</span>
 
 Developments will meet higher environmental standards by incorporating green materials and solar panels into their designs, and by being minimally certified Green Mark Super Low Energy. 
 
@@ -41,7 +43,8 @@ Residents and workers can be part of a green community that grows its own garden
 Jurong Lake District has high ambitions for green mobility.
 
 ![Alt text for image on Isomer site](/images/jld_jwalk_rev.jpg)
-<span style="font-size:12px; font-style:italic;">xxxx</span>
+<span style="font-size:12px; font-style:italic;">Artist impression of friendly streets planned to give priority to public transport and to make walking and cycling safe and attractive. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+</span>
 
 Planned to be car-lite, 85% of all trips to and within the district will be on Walk-Cycle-Ride modes.
 
@@ -59,7 +62,8 @@ New developments will also be designed to support emerging technologies such as 
 Embedded from the start, centralised district infrastructure will optimise the use of land and energy resources across Jurong Lake District.
 
 ![Alt text for image on Isomer site](/images/jld_cwalkcrop.jpg)
-<span style="font-size:12px; font-style:italic;">xxxx</span>
+<span style="font-size:12px; font-style:italic;">Artist impression of the pleasant and seamless streetscape created by centralising and housing infrastructure underground. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+</span>
 
 Common services tunnels will house district cooling and pneumatic waste conveyance systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the roads to lay utilities.
 
