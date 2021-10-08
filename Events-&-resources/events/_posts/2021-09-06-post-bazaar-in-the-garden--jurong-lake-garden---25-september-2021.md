@@ -4,7 +4,7 @@ date: 2021-09-06
 permalink: /events-resources/events/bazaar-in-the-garden
 layout: post
 ---
-<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.nparks.gov.sg/activities/events-and-workshops/2021/9/online-children's-storytelling-25-september">Baazar in the Garden @ Jurong Lake Gardens – 25 September 2021</a></h3>
+<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.nparks.gov.sg/activities/events-and-workshops/2021/9/online-children's-storytelling-25-september">Bazaar in the Garden @ Jurong Lake Gardens – 25 September 2021</a></h3>
 
 In September’s Bazaar in the Gardens, we have interesting and
 informative programmes prepared for you!
