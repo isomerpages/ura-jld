@@ -4,7 +4,7 @@ permalink: /sustainability
 ---
 <h3 style="color:#124596; font-weight:bold;">Sustainable living</h3>
 
-<h4 style="color:#484848; font-weight:normal;margin-top: 0;">Connect to a ready sustainability ecosystem where choosing green is easy alongside people and businesses who care.</h4>
+<h4 style="color:#484848; font-weight:normal;margin-top: 0;">Connect to a ready sustainability ecosystem with people and businesses who care.</h4>
 
 ![Alt text for image on Isomer site](/images/jld_rasauwalk.jpg)
 <span style="font-size:12px; font-style:italic;">Rasau Walk is a 300m boardwalk situated along the edge of Jurong Lake that meanders through a restored freshwater wetland. <br> (Image courtesy of NParks)</span>
