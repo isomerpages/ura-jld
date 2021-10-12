@@ -26,11 +26,6 @@ Jurong East Integrated Transport Hub, New Science Centre, Tourism Development
 
 <hr style="margin:2rem 0;">
 
-<h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2022 / 2023</h4>
-Jurong Lake Gardens
-
-<hr style="margin:2rem 0;">
-
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2022</h4>
 Perennial Business City
 
