@@ -59,8 +59,8 @@ Unique attractions will surround Jurong Lake, adding to the variety of recreatio
 ![Alt text for image on Isomer site](/images/JLG_Event_Lawn.jpg) 
 <span style="font-size:12px; font-style:italic;"> Artist impression of the new event lawn at Chinese Garden with views of the Pagoda and Jurong Lake. <br> (Image courtesy of NParks)</span>
 
-From 2023 to 2028, the redeveloped Chinese and Japanese Gardens, the New Science Centre and a future tourism development will be progressively completed and line the waterfront with exciting leisure and entertainment offerings.
+Ongoing till 2028, the redeveloped Chinese and Japanese Gardens, the New Science Centre and a future tourism development will be progressively completed and line the waterfront with exciting leisure and entertainment offerings.
 
 A recreation corridor with active public spaces will link Jurong Town Hall to the existing Science Centre.
 
-These heritage landmarks will take on new uses, continue to anchor the district and create a strong sense of place. They could become centres for co-working, innovation, museums, art studios, theatres, event grounds and playscapes with open spaces for the  community to enjoy.
+These landmarks will take on new uses, continue to anchor the district and create a strong sense of place. They could become centres for co-working, innovation, museums, art studios, theatres, event grounds and playscapes with open spaces for the  community to enjoy.
