@@ -4,7 +4,7 @@ date: 2021-09-06
 permalink: /Events-&-resources/events/permalink
 layout: post
 ---
-<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.nparks.gov.sg/singaporegardenfestival/sgf-hort-show/show-info">UNTAME by Science Centre Singapore</a></h3>
+<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.science.edu.sg/whats-on/untame">UNTAME by Science Centre Singapore</a></h3>
 
 ![Alt text for image on Isomer site](/images/UNTAME%20by%20Science%20Centre%20Singapore.jpg)
 
@@ -14,4 +14,4 @@ Embark on missions, understand the influence of STEM-related disciplines in resh
 
 [Click here](https://www.science.edu.sg/whats-on/untame) for more information about the event. 
 
-This event is organised by Science Centre Singapore. 
+This event is organised by Science Centre Singapore.
