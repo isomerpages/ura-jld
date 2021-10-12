@@ -6,7 +6,7 @@ layout: post
 ---
 <h3 style="color:#124596; font-weight:bold;">Jurong Lake Gardens</h3>
 
-Jurong Lake Gardens is Singapore’s new national gardens, and the first in the heartlands. It is a people’s garden, where spaces have been landscaped and created for families and the community to come together.
+Jurong Lake Gardens is Singapore’s new national gardens, and the first in the heartlands. It is a people’s garden, where spaces have been landscaped and created for families and the community to come together. The gardens contribute to the larger plans for the Ju¬rong Lake District in promoting sustainability and a healthy living environment by providing more spaces for recreation amidst lush greenery, restored wetlands and habitats for biodiversity, and with vibrant programming for the community.
 
 ![Alt text for image on Isomer site](/images/rasauwalkbanner.jpg)
 <span style="font-size:12px; font-style:italic;">Rasau Walk, a meandering boardwalk that brings garden visitors close to the restored freshwater swamp forest.</span>
