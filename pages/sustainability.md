@@ -46,15 +46,15 @@ Jurong Lake District has high ambitions for green mobility.
 <span style="font-size:12px; font-style:italic;">Artist impression of friendly streets planned to give priority to public transport and to make walking and cycling safe and attractive. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
 </span>
 
-Planned to be car-lite, 85% of all trips to and within the district will be on Walk-Cycle-Ride modes.
+Planned to be car-lite, at least 85% of all trips are targeted to be made by Walk-Cycle-Ride modes of transport by 2035. 
 
-New roads in the district will have cycling paths. Some roads will be transit-priority corridors accessible only to buses, bicycles and pedestrians.
+New roads in the district will be planned with dedicated cycling paths to encourage people to cycle and use greener active mobility options. Some roads within the district will also be designed as Transit Priority Corridors that will be accessible only to buses, bicycles, and pedestrians. 
 
-People can walk to their destinations comfortably along the J-Walk, an elevated weather-proof pedestrian network that links buildings, transit stations and public spaces throughout the district.
+People can walk to their destinations comfortably along the J-Walk, an elevated weather-proof pedestrian network that links buildings, transit stations and public spaces throughout the district. 
 
-Jurong Lake District will be autonomous vehicle (AV)- and electric vehicle (EV)-ready. Parking infrastructure in new developments will be well-sized, conveniently sited and designed to have dedicated pick-up drop-off and charge points for a seamless and efficient transport experience. 
+Jurong Lake District will be planned to readily support autonomous vehicles (AV) for both passengers and goods. New developments will have dedicated pick-up drop-off points that are well-sized, conveniently sited and designed to create a seamless and efficient transport experience. Electric vehicle (EV) charging points will be progressively deployed in all developments and HDB carparks in the district. 
 
-New developments will also be designed to support emerging technologies such as the use of Autonomous Mobile Robots for last-mile deliveries.
+New developments will also be designed to support emerging technologies such as the use of Autonomous Mobile Robots for last-mile deliveries. 
 
 
 <h3 style="color:#124596; font-weight:bold;">Centralised infrastructure for sustainable outcomes</h3>
@@ -65,6 +65,6 @@ Embedded from the start, centralised district infrastructure will optimise the u
 <span style="font-size:12px; font-style:italic;">Artist impression of the pleasant and seamless streetscape created by centralising and housing infrastructure underground. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
 </span>
 
-Common services tunnels will house district cooling and pneumatic waste conveyance systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the roads to lay utilities.
+Common services tunnels will house district cooling and pneumatic waste conveyance systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the road to lay utilities. 
 
 Businesses can tap on these urban technologies to operate more efficiently and sustainably, and collectively demonstrate a greener way of life in an innovative district.
