@@ -1,9 +1,10 @@
 ---
 title: "[23 October 2021] Bazaar in the Garden @ Jurong Lake Gardens"
 date: 2021-10-12
-permalink: /Events-&-resources/events/permalink
+permalink: /events-resources/events/bazaar-in-the-garden-oct
 layout: post
 ---
+
 <h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.nparks.gov.sg/juronglakegardens/whats-happening/bazaar-in-the-garden">Bazaar in the Garden @ Jurong Lake Gardens</a></h3>
 
 ![Alt text for image on Isomer site](/images/Bazaar%20in%20the%20Garden.jpg)
