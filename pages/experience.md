@@ -25,7 +25,7 @@ New inspiring work campuses that seamlessly integrate with parks, cafes, restaur
 
 <h3 style="color:#124596; font-weight:bold;">Convenient city living in 10-minute neighbourhoods</h3>
 
-Jurong Lake District will be a collection of complete neighbourhoods, where everything is within 10 minutes by foot, cycling or public transport.  
+Jurong Lake District will be made up of neighbourhoods where amenities, green spaces and public transport nodes will be within 10-minutes reach.   
 
 ![Car-lite environment](/images/jld_carlite.jpg)
 <span style="font-size:12px; font-style:italic;">Artist impression of a pedestrian friendly street connecting people to their daily amenities.<br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
