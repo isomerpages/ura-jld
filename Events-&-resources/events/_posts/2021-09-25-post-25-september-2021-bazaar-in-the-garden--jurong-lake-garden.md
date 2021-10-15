@@ -1,9 +1,10 @@
 ---
 title: "[25 September 2021] Bazaar in the Garden @ Jurong Lake Garden"
 date: 2021-09-25
-permalink: /events-resources/events/bazaar-in-the-garden
+permalink: /events-resources/events/bazaar-in-the-garden-sep
 layout: post
 ---
+
 
 
 
