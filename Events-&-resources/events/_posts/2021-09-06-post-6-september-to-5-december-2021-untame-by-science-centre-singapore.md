@@ -1,9 +1,10 @@
 ---
 title: "[6 September to 5 December 2021] UNTAME by Science Centre Singapore"
 date: 2021-09-06
-permalink: /Events-&-resources/events/permalink
+permalink: /events-resources/events/untame-by-science-centre
 layout: post
 ---
+
 <h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.science.edu.sg/whats-on/untame">UNTAME by Science Centre Singapore</a></h3>
 
 ![Alt text for image on Isomer site](/images/UNTAME%20by%20Science%20Centre%20Singapore.jpg)
