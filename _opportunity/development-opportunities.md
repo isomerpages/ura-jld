@@ -13,4 +13,4 @@ The integrated tourism development will feature a compelling mix of lifestyle of
 
 Together with the Jurong Lake Gardens and New Science Centre, the Tourism Development will form the heart of Jurong Lake District’s new ‘must visit’ leisure and recreational destination.
 
-A Request for Proposal will be launched in 2022. For more information, please visit [go.gov.sg/jldtourismdev](https://go.gov.sg/jldtourismdev) or contact the Singapore Tourism Board at JLD@stb.gov.sg
+A Request for Proposal will be launched in 2022. For more information, please visit [go.gov.sg/jldtourismdev](https://go.gov.sg/jldtourismdev) or contact the Singapore Tourism Board at [JLD@stb.gov.sg](JLD@stb.gov.sg).
