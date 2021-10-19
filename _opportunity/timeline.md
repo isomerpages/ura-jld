@@ -11,22 +11,10 @@ Cross Island Line
 
 <hr style="margin:2rem 0;">
 
-<h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2030</h4>
-Ministry of Sustainability and the Environment HQ
-
-<hr style="margin:2rem 0;">
-
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2029</h4>
 Jurong Region Line
-
-<hr style="margin:2rem 0;">
-
-<h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2028</h4>
-Jurong Region Line
  <br> <span style="font-size:12px; font-style:italic;">Jurong Region Line (JRL) will be completed in three phases from 2027 to 2029. The JRL Jurong East station is estimated to complete in 2028.</span>
- 
 <hr style="margin:2rem 0;">
-
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2027</h4>
 Jurong East Integrated Transport Hub
