@@ -48,4 +48,4 @@ Jem
 
 <a href="https://www.simlian.com.sg/portfolio/integrated/projects-for-salelease/vision-exchange/additional-info/" style="color:#62863a;">Vision Exchange</a>
 
-Westgate Tower
+<a href="https://sunventure.com/westgate-tower-gallery/" style="color:#62863a;">Westgate Tower</a>
