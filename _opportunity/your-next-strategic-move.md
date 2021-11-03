@@ -44,7 +44,7 @@ Jem
 
 <a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/jurong-town-hall.aspx" style="color:#62863a;">Jurong Town Hall</a>
 
-Perennial Business City
+<a href="https://www.perennialholdings.com/properties/singapore/sg-perennial-business-city.html" style="color:#62863a;">Perennial Business City</a>
 
 <a href="https://www.simlian.com.sg/portfolio/integrated/projects-for-salelease/vision-exchange/additional-info/" style="color:#62863a;">Vision Exchange</a>
 
