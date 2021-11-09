@@ -38,7 +38,7 @@ Jurong Lake District offers a range of workspaces to suit different business nee
 
 International Business Park
 
-Jem
+<a href="https://www.etcsea.com/lists/jemjurong-gateway/" style="color:#62863a;">Jem</a>
 
 <a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/the-jtc-summit.aspx" style="color:#62863a;">JTC Summit</a>
 
