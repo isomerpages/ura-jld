@@ -37,7 +37,9 @@ Lakeside West embraces Jurong Lake and Singapore’s third national garden, Juro
 Jurong Lake District offers a range of workspaces to suit different business needs and work arrangements. Click on the links below for information on leasing opportunities in the district.
 
 International Business Park
+
 <a href="https://www.mapletreeindustrialtrust.com/Customer-Solutions/Featured-Products/Strategy%20at%20IBP.aspx" style="color:#62863a;">The Strategy</a>
+
 <a href="https://www.mapletreeindustrialtrust.com/Customer-Solutions/Featured-Products/Synergy%20at%20IBP.aspx" style="color:#62863a;">The Synergy</a>
 
 <a href="https://www.etcsea.com/lists/jemjurong-gateway/" style="color:#62863a;">Jem</a>
