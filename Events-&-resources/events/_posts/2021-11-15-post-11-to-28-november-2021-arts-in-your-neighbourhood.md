@@ -12,6 +12,6 @@ Get ready for an UNTAME adventure! Join us and experience Science, Technology, E
 
 Embark on missions, understand the influence of STEM-related disciplines in reshaping the world for the better, and figure out how you can rebuild a sustainable future across programmes happening Online, in the Day and even After Dark!
 
-[Click here](https://www.science.edu.sg/whats-on/untame) for more information about the event. 
+[Click here](https://www.science.edu.sg/whats-on/untame) for more information and full programme details for Arts in Your Neighbourhood. 
 
-This event is organised by Science Centre Singapore.
+Arts in Your Neighbourhood is organised by National Arts Council and made possible in Jurong with the support of our partners at Jurong Lake Gardens, Jurong Regional Library, Taman Jurong Community Club, Jurong-Clementi Town Council and Heartland Enterprise Centre Singapore.
