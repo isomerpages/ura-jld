@@ -14,4 +14,4 @@ Programme highlights in Jurong include **A Fisherman's Dream**, a colourful art 
 
 [Click here](https://artsforall.gov.sg/initiatives/arts-in-your-neighbourhood.aspx) for more information and full programme details for Arts in Your Neighbourhood. 
 
-Arts in Your Neighbourhood is organised by National Arts Council and made possible in Jurong with the support of our partners at Jurong Lake Gardens, Jurong Regional Library, Taman Jurong Community Club, Jurong-Clementi Town Council and Heartland Enterprise Centre Singapore.
+Arts in Your Neighbourhood is organised by the National Arts Council and made possible in Jurong with the support of our partners at Jurong Lake Gardens, Jurong Regional Library, Taman Jurong Community Club, Jurong-Clementi Town Council and Heartland Enterprise Centre Singapore.
