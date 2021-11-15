@@ -10,7 +10,7 @@ layout: post
 
 Arts in Your Neighbourhood is an initiative by the National Arts Council to bring enriching arts experiences to everyone at their doorsteps. From 11 to 28 November, explore familiar spaces through fresh eyes with interactive and family-friendly experiences as Arts in Your Neighbourhood heads to Jurong, Bukit Merah, Marine Parade, Serangoon, Tampines and more!
 
-Progrmma
+Programme highlights in Jurong include A Fisherman's Dream, a colourful art trail that brings to life the lesser-known histories and tales of Jurong by Tell Your Children
 
 [Click here](https://www.science.edu.sg/whats-on/untame) for more information and full programme details for Arts in Your Neighbourhood. 
 
