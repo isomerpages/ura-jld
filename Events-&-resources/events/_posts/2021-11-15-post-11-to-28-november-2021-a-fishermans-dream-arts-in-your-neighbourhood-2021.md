@@ -2,9 +2,10 @@
 title: "[11 to 28 November 2021] A Fisherman's Dream (Arts in Your Neighbourhood
   2021)"
 date: 2021-11-15
-permalink: /Events-&-resources/events/permalink
+permalink: /events-resources/events/a-fishermans-dream
 layout: post
 ---
+
 <h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.fishermans-dream.com/#intro">See Jurong's history in full colour through 'A Fisherman's Dream'!</a></h3>
 
 ![Alt text for image on Isomer site](/images/A%20Fishermans%20Dream.png)
