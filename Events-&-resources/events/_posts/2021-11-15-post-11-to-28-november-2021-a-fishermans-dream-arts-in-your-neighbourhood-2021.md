@@ -5,7 +5,7 @@ date: 2021-11-15
 permalink: /Events-&-resources/events/permalink
 layout: post
 ---
-<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.fishermans-dream.com/#intro">Come and explore Jurong through 'A Fisherman's Dream'.</a></h3>
+<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.fishermans-dream.com/#intro">See Jurong's history in full colour through 'A Fisherman's Dream'!</a></h3>
 
 ![Alt text for image on Isomer site](/images/A%20Fishermans%20Dream.png)
 
