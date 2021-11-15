@@ -9,9 +9,9 @@ layout: post
 
 ![Alt text for image on Isomer site](/images/Bird%20Colouring%20Social%20Club.jpg)
 
-Arts in Your Neighbourhood is an initiative by the National Arts Council to bring enriching arts experiences to everyone at their doorsteps. From 11 to 28 November, explore familiar spaces through fresh eyes with interactive and family-friendly experiences as Arts in Your Neighbourhood heads to Jurong, Bukit Merah, Marine Parade, Serangoon, Tampines and more!
 
-Programme highlights in Jurong include **A Fisherman's Dream**, a colourful art trail that brings to life the lesser-known histories and tales of Jurong by *Tell Your Children*. Be inspired by our feathered friends at **A Bird Colouring Social Club** - a digital experience by *Kronoscapes* at Jurong Lake Gardens. 
+
+[Click here](https://artsforall.gov.sg/events/ayn-nov-2021-the-bird-colouring-social-club.aspx) to find out how to have your coloured artworks featured!
 
 [Click here](https://artsforall.gov.sg/initiatives/arts-in-your-neighbourhood.aspx) for more information and full programme details for Arts in Your Neighbourhood. 
 
