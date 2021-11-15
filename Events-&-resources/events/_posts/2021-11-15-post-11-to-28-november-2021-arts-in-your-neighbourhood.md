@@ -1,9 +1,10 @@
 ---
 title: "[11 to 28 November 2021] Arts in Your Neighbourhood"
 date: 2021-11-15
-permalink: /Events-&-resources/events/permalink
+permalink: /events-resources/events/ayn
 layout: post
 ---
+
 <h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://artsforall.gov.sg/initiatives/arts-in-your-neighbourhood.aspx">Arts in Your Neighbourhood comes to Jurong Lake District!</a></h3>
 
 ![Alt text for image on Isomer site](/images/AYN%20Nov%202021%20KV%20crop.png)
