@@ -5,9 +5,9 @@ date: 2021-11-15
 permalink: /Events-&-resources/events/permalink
 layout: post
 ---
-<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://artsforall.gov.sg/initiatives/arts-in-your-neighbourhood.aspx">Arts in Your Neighbourhood comes to Jurong Lake District!</a></h3>
+<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://artsforall.gov.sg/events/ayn-nov-2021-the-bird-colouring-social-club.aspx">Celebrate our feathered friends through Arts in Your Neighbourhood's first digital aviary!</a></h3>
 
-![Alt text for image on Isomer site](/images/AYN%20Nov%202021%20KV%20crop.png)
+![Alt text for image on Isomer site](/images/Bird%20Colouring%20Social%20Club.jpg)
 
 Arts in Your Neighbourhood is an initiative by the National Arts Council to bring enriching arts experiences to everyone at their doorsteps. From 11 to 28 November, explore familiar spaces through fresh eyes with interactive and family-friendly experiences as Arts in Your Neighbourhood heads to Jurong, Bukit Merah, Marine Parade, Serangoon, Tampines and more!
 
