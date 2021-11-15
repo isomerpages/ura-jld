@@ -8,9 +8,9 @@ layout: post
 
 ![Alt text for image on Isomer site](/images/AYN%20Nov%202021%20KV%20crop.png)
 
-Get ready for an UNTAME adventure! Join us and experience Science, Technology, Engineering and Mathematics through a series of fun activities onsite at Science Centre Singapore and online in this year’s science extravaganza: **Untame: Rebooting Our World**. 
+Arts in Your Neighbourhood is an initiative by the National Arts Council to bring enriching arts experiences to everyone at their doorsteps. From 11 to 28 November, explore familiar spaces through fresh eyes with interactive and family-friendly experiences as Arts in Your Neighbourhood heads to Jurong, Bukit Merah, Marine Parade, Serangoon, Tampines and more!
 
-Embark on missions, understand the influence of STEM-related disciplines in reshaping the world for the better, and figure out how you can rebuild a sustainable future across programmes happening Online, in the Day and even After Dark!
+Progrmma
 
 [Click here](https://www.science.edu.sg/whats-on/untame) for more information and full programme details for Arts in Your Neighbourhood. 
 
