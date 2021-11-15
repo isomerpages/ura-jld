@@ -13,7 +13,7 @@ Before the 1960s, Jurong was largely a swampy and forested area where plantation
 
 Curated and produced by *Tell Your Children*, **A Fisherman's Dream** is a neighbourhood art trail through central Jurong that retells the vibrant history of the estate through a series of 8 colourful murals and installations. 
 
-[Click here](https://artsforall.gov.sg/initiatives/arts-in-your-neighbourhood.aspx) for route details and to start exploring Jurong! 
+[Click here](https://www.fishermans-dream.com/#intro) for route details and to start exploring Jurong! 
 
 **A Fisherman's Dream** is part of Arts in Your Neighbourhood 2021. [Click here](https://artsforall.gov.sg/initiatives/arts-in-your-neighbourhood.aspx) for more information and full programme details for Arts in Your Neighbourhood. 
 
