@@ -6,7 +6,7 @@ layout: post
 ---
 Be a good neighbour to friends and families in Jurong Lake District and the west!
 
-As part of the community in the west, JurongHealth Campus has been hosting Good Neighbour Day annually since 2015. This special event provides corporations, individuals and our staff a platform to give back to the community and the opportunity to come together to show kindness and reach out to non-profit organisations operating in our neighbourhood.
+As part of the community in the west, JurongHealth Campus has been hosting Good Neighbour Day annually since 2015. This special event provides corporations and individuals a platform to give back to the community and the opportunity to come together to show kindness and reach out to non-profit organisations operating in our neighbourhood.
 
 Come 3 December 2021, find out how you can make a difference to our community and the environment. 
 
