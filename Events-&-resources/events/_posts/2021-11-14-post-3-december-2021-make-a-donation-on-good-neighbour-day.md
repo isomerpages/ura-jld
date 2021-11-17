@@ -16,7 +16,7 @@ Every effort counts! Come 3 December 2021, find out how you can:
 
 ![Alt text for image on Isomer site](/images/Make-a-DONATION2_900px.png)
 
-You can also make an appointment with Bloodbank@Westgate Tower to donate blood to save lives!
+You can also make an appointment with Bloodbank@Westgate Tower to [donate blood to save lives](https://giveblood.sg/)!
 
 [Click here](https://www.ntfgh.com.sg/Giving-Back/GND/Pages/default.aspx) for more information and full programme details for Good Neighbour Day. 
 
