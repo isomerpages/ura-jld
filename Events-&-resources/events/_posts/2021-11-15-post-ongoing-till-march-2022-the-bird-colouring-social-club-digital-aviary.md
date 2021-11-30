@@ -10,7 +10,7 @@ layout: post
 
 Calling the young and young at heart! Gather in celebration of our feathered friends in this exhibition inspired by the bird singing competitions and clubs that gave communities a reason to come together in the 1960s. 
 
-As part of Arts In Your Neighbourhood 2021, people were invited to Jurong Lake Gardens and other locations in Singapore to colour in pages that feature Singapore’s garden and urban birds. The finished works were scanned and are now displayed in 3D in the exhibition’s digital aviary.
+As part of Arts in Your Neighbourhood 2021, people were invited to Jurong Lake Gardens and other locations in Singapore to colour in pages that feature Singapore’s garden and urban birds. The finished works were scanned and are now displayed in 3D in the exhibition’s digital aviary.
 
 [Click here](https://ayn2021.kronoscapes.com/) to enjoy this colourful visual feast as you listen to the delightful sounds of birdsong!
 
