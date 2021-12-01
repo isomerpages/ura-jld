@@ -1,6 +1,5 @@
 ---
-title: "[11 to 28 November 2021] A Fisherman's Dream (Arts in Your Neighbourhood
-  2021)"
+title: "[Ongoing till 31 December 2021] A Fisherman's Dream"
 date: 2021-11-15
 permalink: /events-resources/events/a-fishermans-dream
 layout: post
@@ -16,6 +15,6 @@ Curated and produced by *Tell Your Children*, **A Fisherman's Dream** is a neigh
 
 [Click here](https://www.fishermans-dream.com/#intro) for route details and to start exploring Jurong! 
 
-**A Fisherman's Dream** is part of Arts in Your Neighbourhood 2021. [Click here](https://artsforall.gov.sg/initiatives/arts-in-your-neighbourhood.aspx) for more information and full programme details for Arts in Your Neighbourhood. 
+**A Fisherman's Dream** is part of Arts in Your Neighbourhood 2021. [Click here](https://artsforall.gov.sg/initiatives/arts-in-your-neighbourhood.aspx) for more information on Arts in Your Neighbourhood. 
 
-Arts in Your Neighbourhood is organised by the National Arts Council and made possible in Jurong with the support of our partners at Jurong Lake Gardens, Jurong Regional Library, Taman Jurong Community Club, Jurong-Clementi Town Council and Heartland Enterprise Centre Singapore.
+Arts in Your Neighbourhood is organised by the National Arts Council. The 2021 edition was made possible in Jurong with the support of our partners at Jurong Lake Gardens, Jurong Regional Library, Taman Jurong Community Club, Jurong-Clementi Town Council and Heartland Enterprise Centre Singapore.
