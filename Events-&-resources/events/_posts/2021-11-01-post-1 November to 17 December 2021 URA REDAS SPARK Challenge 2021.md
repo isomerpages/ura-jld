@@ -7,7 +7,7 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/SparkChallenge2021.jpg)
 
-Entitled ‘Design Prototyping for the Public Realm’, the 3rd edition of this challenge is a competition that seeks ground-up innovation to raise the quality of the built environment. It offers participants an opportunity to test and showcase their prototypes in participating developments and shopping malls.
+Entitled ‘Design Prototyping for the Public Realm’, the 3rd edition of the URA-REDAS SPARK Challenge is a competition that seeks ground-up innovation to raise the quality of the built environment. 
 
 To involve the public in contributing to the activation of our public and retail spaces, original and creative ideas submitted for the Challenge will be shortlisted and transformed into experiential installations in participating Business Improvement Districts (BIDs) and precincts for public enjoyment.
 
