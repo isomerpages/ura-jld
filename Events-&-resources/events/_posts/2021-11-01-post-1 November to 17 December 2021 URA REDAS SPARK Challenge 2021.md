@@ -13,4 +13,6 @@ To involve the public in contributing to the activation of our public and retail
 
 This year, URA and REDAS are partnering with BIDs and precincts to provide fresh, interesting, and memorable experiences for visitors and shoppers who frequent the shopping malls and mixed-use developments within the area. This is closely aligned with local stakeholders’ efforts to develop and implement ground-up placemaking ideas to enhance the vibrancy and attractiveness of these spaces.
 
+[Click here](https://www.ideas.gov.sg/public/sparkchallenge) for more information about the challenge, and make a difference in your built environment!
+
 URA-REDAS SPARK Challenge is organised by the Urban Redevelopment Authority and Real Estate Developers' Association of Singapore.
