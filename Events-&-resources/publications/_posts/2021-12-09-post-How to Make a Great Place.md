@@ -15,8 +15,10 @@ Indeed, placemaking must take a collaborative approach, with public, private and
 
 In the past two years, COVID-19 had brought about challenges in how we interact with one another, as well as impacted how our public spaces are designed and planned. More than ever, we need to find creative and new ways to forge stronger connections with the community. 
 
-We are very proud that Jurong has been accorded a special section from pages 170 to 177 to showcase the passion from our placemaking community here. Read about efforts from members in this network in creating good community spaces at J-Link, J.Connect, Jurong Lake Gardens, Taman Jurong, Yuhua and even along the J.Walk. We banded through common interests to create movements for health and sustainability, and to readily respond to one another to render assistance, support and partnerships. As Jurong’s physical landscape continues to evolve, we look forward to growing our placemaking efforts in tandem to continue making Jurong Lake District a distinctive neighbourhood in the west and A Place To Grow.
+We are very proud that Jurong has been accorded a special section from Pages 170 to 177 to showcase the passion from our placemaking community here. Read about efforts from members in this network in creating good community spaces at J-Link, J.Connect, Jurong Lake Gardens, Taman Jurong, Yuhua and even along the J.Walk. We banded through common interests to create movements for health and sustainability, and to readily respond to one another to render assistance, support and partnerships. 
+
+As Jurong’s physical landscape continues to evolve, we look forward to growing our placemaking efforts in tandem to continue making Jurong Lake District a distinctive neighbourhood in the west and A Place To Grow.
 
 [![Alt text for image on Isomer site](/images/Placemaking%20Book%20Clickable.jpg)](https://www.ura.gov.sg/-/media/Corporate/Resources/Publications/Books/PlacemakingBook_How-to-make-a-great-place.pdf)
 
-Check out the book at http://go.gov.sg/placemakingbook
+Check out the book [here](http://go.gov.sg/placemakingbook)! 
