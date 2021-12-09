@@ -15,7 +15,7 @@ Indeed, placemaking must take a collaborative approach, with public, private and
 
 COVID-19 has brought about challenges in how we interact with one another and has impacted how our public spaces are designed and planned. More than ever, we need to find creative and new ways to forge stronger connections with the community. 
 
-We are very proud that Jurong has been accorded a special section from Pages 170 to 177 to showcase the passion from our placemaking community here. Read about efforts from members in this network in creating good community spaces at J-Link, J.Connect, Jurong Lake Gardens, Taman Jurong, Yuhua and even along the J.Walk. We banded through common interests to create movements for health and sustainability, and to readily respond to one another to render assistance, support and partnerships. 
+We are very proud that Jurong has been accorded a special section from Pages 170 to 177 to showcase the passion from our placemaking community here. Read about their efforts in creating good community spaces at J-Link, J.Connect, Jurong Lake Gardens, Taman Jurong, Yuhua and even along the J.Walk. As neighbours, they banded through common interests to create movements for health and sustainability, and to readily respond to one another to render assistance, support and partnership. 
 
 As Jurong’s physical landscape continues to evolve, we look forward to growing our placemaking efforts in tandem to continue making Jurong Lake District a distinctive neighbourhood in the west and A Place To Grow.
 
