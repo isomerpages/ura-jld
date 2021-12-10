@@ -21,4 +21,4 @@ The exhibition will send visitors of all ages on a truly exciting and inspiring 
 
 **Highlights**
 
-View the largest collection of Da Vinci's inventions: The exhibition features more than 50 fully built, life-size inventions and over 20 fine art studies and dozens of stunning displays.
+* View the largest collection of Da Vinci's inventions: The exhibition features more than 50 fully built, life-size inventions and over 20 fine art studies and dozens of stunning displays.
