@@ -5,10 +5,9 @@ date: 2021-12-10
 layout: post
 description: ""
 ---
-**Be inspired to innovate at Da Vinci, The Exhibition in Science Centre Singapore!
-**
+**Be inspired to innovate at Da Vinci, The Exhibition in Science Centre Singapore!**
 
-Did you know? As the chosen site for Singapore's first industrial estate, Jurong has always been a place that inspires ingenuity and innovation. 
+Did you know? As the chosen site for Singapore's first industrial estate, Jurong has always been a place that inspires ingenuity and innovation.
 
 From now to 2 January 2022, let your curiosity and imagination take flight once again in Jurong with the largest collection of the great inventor Leonardo da Vinci's inventions at Science Centre Singapore. 
 
@@ -22,4 +21,4 @@ The exhibition will send visitors of all ages on a truly exciting and inspiring 
 
 **Highlights**
 
-*** View the largest collection of Da Vinci's inventions:** The exhibition features more than 50 fully built, life-size inventions and over 20 fine art studies and dozens of stunning displays.
+View the largest collection of Da Vinci's inventions: The exhibition features more than 50 fully built, life-size inventions and over 20 fine art studies and dozens of stunning displays.
