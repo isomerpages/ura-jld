@@ -25,5 +25,8 @@ The exhibition will send visitors of all ages on a truly exciting and inspiring 
 * Innovations in Civil Engineering:  The exhibits are done by trained artisans who used Leonardo’s Codices to design and construct Leonardo’s inventions, bringing to life many machines and devices that were designed but never created due to the lack of modern technologies in the 15th Century.
 * Hydraulics & Flight:  Discover the artist’s intricate designs and extraordinary early concepts on modern inventions including the parachute and scuba suit. 
 * Be Immersed:  Get an in-depth view of Leonardo’s exploration into the world of anatomy including his famous studies on subjects such as the Golden Ratio and The “Vitruvian Man”. 
-* Physics:  Enjoy an engaging learning experience through our interactive displays and hands-on activities. 
+* Physics:  Enjoy an engaging learning experience through our interactive displays and hands-on activities.
 
+Purchase your tickets online to avoid disappointment.  Attractions are limited by capacity and there will be no onsite sales of tickets.
+
+Da Vinci, The Exhibition is organised by Singapore Science Centre. Click [here](https://www.science.edu.sg/whats-on/exhibitions/davinci) for more information on the event. 
