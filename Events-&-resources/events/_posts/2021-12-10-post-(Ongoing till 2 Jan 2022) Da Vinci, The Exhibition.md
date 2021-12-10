@@ -29,4 +29,4 @@ The exhibition will send visitors of all ages on a truly exciting and inspiring 
 
 Purchase your tickets online to avoid disappointment.  Attractions are limited by capacity and there will be no onsite sales of tickets.
 
-Da Vinci, The Exhibition is organised by Singapore Science Centre. Click [here](https://www.science.edu.sg/whats-on/exhibitions/davinci) for more information on the event. 
+Da Vinci, The Exhibition is organised by Singapore Science Centre. Click [here](https://www.science.edu.sg/whats-on/exhibitions/davinci) for more information on the event.
