@@ -21,4 +21,9 @@ The exhibition will send visitors of all ages on a truly exciting and inspiring 
 
 **Highlights**
 
-* View the largest collection of Da Vinci's inventions: The exhibition features more than 50 fully built, life-size inventions and over 20 fine art studies and dozens of stunning displays.
+* View the largest collection of Da Vinci's inventions:  The exhibition features more than 50 fully built, life-size inventions and over 20 fine art studies and dozens of stunning displays.
+* Innovations in Civil Engineering:  The exhibits are done by trained artisans who used Leonardo’s Codices to design and construct Leonardo’s inventions, bringing to life many machines and devices that were designed but never created due to the lack of modern technologies in the 15th Century.
+* Hydraulics & Flight:  Discover the artist’s intricate designs and extraordinary early concepts on modern inventions including the parachute and scuba suit. 
+* Be Immersed:  Get an in-depth view of Leonardo’s exploration into the world of anatomy including his famous studies on subjects such as the Golden Ratio and The “Vitruvian Man”. 
+* Physics:  Enjoy an engaging learning experience through our interactive displays and hands-on activities. 
+
