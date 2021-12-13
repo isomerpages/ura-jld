@@ -1,9 +1,11 @@
 ---
-title: "[Ongoing till 31 December 2021] A Fisherman's Dream"
+title: (Ongoing) A Fishermans Dream
 date: 2021-11-15
 permalink: /events-resources/events/a-fishermans-dream
 layout: post
+description: ""
 ---
+
 
 <h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.fishermans-dream.com/#intro">See Jurong's history in full colour through 'A Fisherman's Dream'!</a></h3>
 
