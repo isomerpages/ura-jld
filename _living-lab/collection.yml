@@ -2,5 +2,6 @@ collections:
   living-lab:
     output: true
     order:
+      - Eco Lodge.md
       - Airbus.md
       - Space to test new ideas.md
