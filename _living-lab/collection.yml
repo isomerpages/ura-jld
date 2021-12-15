@@ -1,0 +1,4 @@
+collections:
+  living-lab:
+    output: true
+    order: []
