@@ -4,9 +4,9 @@ title: Jurong Lake District
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Looking for opportunities to test new ideas? Join these companies
-  in trialing your innovations at Jurong Lake District. Click on 'Living Lab' to
-  find out more. "
+notification: "Airbus will be conducting flight trials for Unmanned Aircraft at
+  the former Jurong Country Club from 8 a.m. to 7 p.m. daily. Click on 'Living
+  Lab' for information on companies testing new ideas in Jurong Lake District. "
 sections:
   - hero:
       title: A place to grow
