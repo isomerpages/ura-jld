@@ -4,7 +4,9 @@ title: Jurong Lake District
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Looking for opportunities to test new ideas? Join these companies
+  in trialing your innovations at Jurong Lake District. Click on 'Living Lab' to
+  find out more. "
 sections:
   - hero:
       title: A place to grow
