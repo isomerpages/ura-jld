@@ -8,6 +8,8 @@ links:
     url: /sustainability
   - title: Opportunity
     collection: opportunity
+  - title: Living Lab
+    collection: living-lab
   - title: Events & Resources
     url: /Events-&-resources/
     sublinks:
@@ -28,5 +30,3 @@ links:
         url: /about-ura
       - title: Get in touch
         url: /get-in-touch
-  - title: Living Lab
-    collection: living-lab
