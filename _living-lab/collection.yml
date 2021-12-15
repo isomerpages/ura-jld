@@ -1,4 +1,5 @@
 collections:
   living-lab:
     output: true
-    order: []
+    order:
+      - Space to test new ideas.md
