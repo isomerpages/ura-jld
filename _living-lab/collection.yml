@@ -2,9 +2,9 @@ collections:
   living-lab:
     output: true
     order:
-      - Perennial Business City.md
+      - Space to test new ideas.md
+      - Airbus.md
+      - Eco Lodge.md
       - JTC Summit.md
       - Jurong Lake Gardens.md
-      - Eco Lodge.md
-      - Airbus.md
-      - Space to test new ideas.md
+      - Perennial Business City.md
