@@ -59,8 +59,7 @@ To bring in an additional dimension to the gardens, collaborations with the Nati
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Rasau%20Walk.jpg)
 
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/PAssion%20WaVe%20kayak%20pagoda.jpg)
-*Different activities around Jurong Lake Gardens
-Image credits: NParks*
+*Different activities around Jurong Lake Gardens. Image credits: NParks*
 
 **Re-appreciating older estates**
 
@@ -85,8 +84,7 @@ This has since evolved into an all-weather exercise route that combines window s
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Credit%20Ng%20Teng%20Fong%20General%20Hospital.jpg)
 
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Jwalkers.png)
-*The community enjoying their walk and the J-Walkers Trail
-Image credits: Ng Teng Fong General Hospital*
+*The community enjoying their walk and the J-Walkers Trail. Image credits: Ng Teng Fong General Hospital*
 
 **Connecting place with communities**
 
@@ -101,8 +99,7 @@ As a platform for the realisation of ideas, Bold At Work served as the incubator
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Mural.jpg)
 
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Zine.png)
-*The Kampung Jurong Zine (image on left) and the mural collaboration with Tembusu College students. 
-Image credits: Bold at Work*
+*The Kampung Jurong Zine (image on left) and the mural collaboration with Tembusu College students. Image credits: Bold at Work*
 
 **Banding together**
 
@@ -121,5 +118,5 @@ The good relationship built so far enables such groups to support and render hel
 As Jurong’s physical landscape continues to evolve with new developments in future, placemaking efforts will grow and change in tandem, led by different stakeholders in the area, driven by their passion and love for this distinctive neighbourhood in the west.
 
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Bold%20at%20Work.jpg)
-*Other space activations by Bold at Work such as its PARK(ing) Day participation in Jurong
-Image credit: Bold at Work*
+*Other space activations by Bold at Work such as its PARK(ing) Day participation in Jurong. Image credit: Bold at Work*
+
