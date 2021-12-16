@@ -87,7 +87,7 @@ This has since evolved into an all-weather exercise route that combines window s
 *The community enjoying their walk and the J-Walkers Trail
 Image credits: Ng Teng Fong General Hospital*
 
-**Connecting place with communities **
+**Connecting place with communities**
 
 Placemaking is best carried out by stakeholders and communities within their area.
 
@@ -95,8 +95,11 @@ An active stakeholder in the area is Bold At Work, an innovation studio lab set 
 
 In 2019, they collaborated with Tembusu College to create a seminar on mural-making to discuss the role of art in public spaces and community life. Students went through the theory and conceptualisation and created an actual painting of a mural in the community as part of their course work. The final mural reflected impressions and memories gathered from walking the ground.
 
-As a platform for the realisation of ideas, Bold At Work served as the incubator for the creation of a local magazine for the Yuhua neighbourhood, called Kampung Jurong Zine. Inspired by the distinct identities of the neighbourhoods in Tokyo and the thought that one could map a community through people and stories, the founders are exploring the potential such community stories can have in deepening
-intergenerational connectivity and social health.
+As a platform for the realisation of ideas, Bold At Work served as the incubator for the creation of a local magazine for the Yuhua neighbourhood, called Kampung Jurong Zine. Inspired by the distinct identities of the neighbourhoods in Tokyo and the thought that one could map a community through people and stories, the founders are exploring the potential such community stories can have in deepening intergenerational connectivity and social health.
+
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Mural.jpg)
+
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Zine.png)
 
 **Banding together**
 
