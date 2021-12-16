@@ -101,6 +101,7 @@ As a platform for the realisation of ideas, Bold At Work served as the incubator
 
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Zine.png)
 
+
 **Banding together**
 
 Given Jurong’s expansive scale and gradual development progress across decades, the challenge is how to organise and coordinate placemaking efforts that can have tangible impacts in the shorter and longer term. There are also many different interests and priorities of the diverse stakeholders in the area.
