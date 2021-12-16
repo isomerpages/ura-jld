@@ -38,14 +38,16 @@ The link connected the Jurong East Town Centre to the MRT Station and the Scienc
 Since 2014, many different stakeholders have come forward to experiment with and carry out various placemaking efforts, aspiring to make Jurong even better. Some of these efforts ranged from improving the public realm, to activating public spaces and
 supporting different communities.
 
-Creating good community spaces
+**Creating good community spaces**
+
 A critical part of placemaking is in shaping and creating good community spaces for people to enjoy and gather safely. Thus, in the enhancement of the Jurong East Town Centre as part of the Housing & Development Board’s Remaking Our Heartland programme, there were deliberate efforts to provide well-designed
 community spaces for residents and visitors.
 The improved town centre was renamed J Connect in 2020. Not only did residents and local merchants actively contribute to the two-year effort of redesigning its communal spaces, these spaces are actively used by residents and visitors today.
 
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/J-connect.jpg)
 
-Drawing people to the gardens
+**Drawing people to the gardens**
+
 Given Jurong’s wide range of attractions and spaces, the challenge is how to curate events, activities and trails that can best bring out its identity and help people better appreciate and explore its neighbourhoods and especially its green spaces.
 
 The National Parks Board, People’s Association’s PassionWave (community club offering waterfront lifestyle programmes) and ActiveSG (a national movement for sport) work closely to curate active programmes in Jurong Lake Gardens all year round.
