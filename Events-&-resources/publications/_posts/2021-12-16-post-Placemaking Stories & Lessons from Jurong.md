@@ -52,12 +52,18 @@ The National Parks Board, People’s Association’s PassionWave (community club
 
 The diverse activities from guided tours, children programmes, horticultural talks to paddle boating and even arts, food and health programmes serve to attract different groups of people to the gardens.
 
-Key events such as the annual Sustainable and Mid-Autumn Festivals also bring greater excitement to the green spaces. To manage the interest and crowds, online offerings such as digital concerts and workshops ensure that people continue to stay interested in the gardens even if they may not be able to visit the gardens physically
-all the time.
+Key events such as the annual Sustainable and Mid-Autumn Festivals also bring greater excitement to the green spaces. To manage the interest and crowds, online offerings such as digital concerts and workshops ensure that people continue to stay interested in the gardens even if they may not be able to visit the gardens physically all the time.
 
 To bring in an additional dimension to the gardens, collaborations with the National Arts Council have created new art experiences, exhibitions and activities for people to enjoy. Within the gardens, ad hoc art installations or special displays bring delight and fun to the spaces.
 
-Re-appreciating older estates
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Rasau%20Walk.jpg)
+
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/PAssion%20WaVe%20kayak%20pagoda.jpg)
+*Different activities around Jurong Lake Gardens
+Image credits: NParks*
+
+**Re-appreciating older estates**
+
 To help people further appreciate Taman Jurong, one of the oldest residential estates within the Jurong area, the Taman Jurong Community Club in partnership with the National Arts Council, engaged placemaking group Shophouse & Co to curate a special self-guided art trail.
 
 It presented 23 public art pieces created by artists and residents which were placed in different parts of the estate. The artworks contributed to the visual vibrancy of Taman Jurong while celebrating the estate’s heritage, its connection to nature and the residents’ community spirit.
@@ -66,12 +72,20 @@ According to the feedback received by the Taman Jurong Community Club, those who
 
 Residents and visitors shared that they were also happy that Taman Jurong has become livelier with the many art installations, of which some are even useful as public furniture, such as the tactile expressions benches.
 
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Taman%20jurong.jpg)
+
 **Walking together**
 
 Placemaking is also about bringing communities together based on common interests and causes. One common interest found amongst communities in Jurong was walking.
 To encourage people in the community to walk for health, the Ng Teng Fong General Hospital, supported by JurongHealth Fund, initiated a J-Walkers programme in 2019, by creatively using the J-Walk link bridge as a public space for community walking.
 
 This has since evolved into an all-weather exercise route that combines window shopping with exercise and takes about 5,000 steps (or 50 minutes) to complete. The routes are actively promoted to partners, residents and shoppers.
+
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Credit%20Ng%20Teng%20Fong%20General%20Hospital.jpg)
+
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Jwalkers.png)
+*The community enjoying their walk and the J-Walkers Trail
+Image credits: Ng Teng Fong General Hospital*
 
 **Connecting place with communities **
 
