@@ -102,7 +102,8 @@ As a platform for the realisation of ideas, Bold At Work served as the incubator
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Mural.jpg)
 
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Zine.png)
-
+*The Kampung Jurong Zine (image on left) and the mural collaboration with Tembusu College students. 
+Image credits: Bold at Work*
 
 **Banding together**
 
@@ -116,5 +117,10 @@ Stakeholders who have common interests in sustainability, such as the National P
 
 The good relationship built so far enables such groups to support and render help during more challenging times. An example is during the COVID-19 pandemic in 2020, the partners in this network responded swiftly to Ng Teng Fong Hospital’s urgent call for donation of materials and stationery to provide to its patients.
 
-Placemaking today and beyond
+**Placemaking today and beyond**
+
 As Jurong’s physical landscape continues to evolve with new developments in future, placemaking efforts will grow and change in tandem, led by different stakeholders in the area, driven by their passion and love for this distinctive neighbourhood in the west.
+
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Bold%20at%20Work.jpg)
+*Other space activations by Bold at Work such as its PARK(ing) Day participation in Jurong
+Image credit: Bold at Work*
