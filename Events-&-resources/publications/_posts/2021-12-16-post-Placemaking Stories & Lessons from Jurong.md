@@ -120,6 +120,6 @@ As Jurong’s physical landscape continues to evolve with new developments in fu
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Bold%20at%20Work.jpg)
 *Other space activations by Bold at Work such as its PARK(ing) Day participation in Jurong. Image credit: Bold at Work*
 
-*This feature on Jurong is an excerpt from How To Make A Great Place by Urban Redevelopment Authority. The book charts placemaking efforts in Singapore over the last two decades, and shares various experiences from our designers, architects, planners, and placemaking community.
+This feature on Jurong is an excerpt from ***How To Make A Great Place*** by Urban Redevelopment Authority. The book charts placemaking efforts in Singapore over the last two decades, and shares various experiences from our designers, architects, planners, and placemaking community.
 
-Check out the book [here](http://go.gov.sg/placemakingbook)!*
+Check out the book [here](http://go.gov.sg/placemakingbook)!
