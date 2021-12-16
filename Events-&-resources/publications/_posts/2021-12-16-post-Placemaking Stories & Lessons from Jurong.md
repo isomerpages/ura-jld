@@ -99,7 +99,7 @@ As a platform for the realisation of ideas, Bold At Work served as the incubator
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Mural.jpg)
 
 ![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Zine.png)
-*The Kampung Jurong Zine (image on left) and the mural collaboration with Tembusu College students. Image credits: Bold at Work*
+*The Kampung Jurong Zine and the mural collaboration with Tembusu College students. Image credits: Bold at Work*
 
 **Banding together**
 
