@@ -11,7 +11,7 @@ Over the years, the area has evolved into an attractive place to live, work and 
 Parts of its heritage remain such as the Thow Kwang and Guan Huat Dragon Kilns, reflecting Jurong’s past as a former brickworks industry. 
 A slice of mangroves can be found at the mouth of the Pandan Reservoir. The preservation of landmarks such as the Jurong Town Hall as a national monument also serves as a vivid reminder of the bold ambitions of pioneers in shaping Singapore’s future. Completed in 1974, it served as the headquarters of Jurong Town Corporation (currently known as JTC Corporation) that was tasked to drive Singapore’s industrialisation.
 
-
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Overview%20of%20Jurong%20Lake%20District1.jpg)
 
 **Jurong Lake District**
 
