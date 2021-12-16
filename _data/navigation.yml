@@ -8,8 +8,6 @@ links:
     url: /sustainability
   - title: Opportunity
     collection: opportunity
-  - title: Living Lab
-    collection: living-lab
   - title: Events & Resources
     url: /Events-&-resources/
     sublinks:
