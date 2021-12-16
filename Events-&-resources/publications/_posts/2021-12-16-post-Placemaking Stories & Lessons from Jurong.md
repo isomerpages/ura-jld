@@ -43,6 +43,8 @@ A critical part of placemaking is in shaping and creating good community spaces 
 community spaces for residents and visitors.
 The improved town centre was renamed J Connect in 2020. Not only did residents and local merchants actively contribute to the two-year effort of redesigning its communal spaces, these spaces are actively used by residents and visitors today.
 
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/J-connect.jpg)
+
 Drawing people to the gardens
 Given Jurong’s wide range of attractions and spaces, the challenge is how to curate events, activities and trails that can best bring out its identity and help people better appreciate and explore its neighbourhoods and especially its green spaces.
 
