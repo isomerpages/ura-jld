@@ -17,8 +17,8 @@ A slice of mangroves can be found at the mouth of the Pandan Reservoir. The pres
 
 The area continued to be transformed with the 1991 Concept Plan envisioning it as a major regional centre, providing more jobs closer to homes. In 2017, new plans were unveiled for Jurong Lake District, a core area within Jurong, to further strengthen this place as the largest business hub outside of the city centre.
 
-Jurong Lake District spans 410 hectares comprising the existing commercial node around Jurong East MRT Station; a new mixed-use precinct around the future Cross-Island Line Station; a complementary leisure and recreational precinct surrounding
-Jurong Lake Gardens; and the International Business Park, which will be rejuvenated with more mixed uses in the coming years.
+Jurong Lake District spans 410 hectares comprising the existing commercial node around Jurong East MRT Station; a new mixed-use precinct around the future Cross-Island Line Station; a complementary leisure and recreational precinct surrounding Jurong Lake Gardens; and the International Business Park, which will be rejuvenated with more mixed uses in the coming years.
+
 Anchored by Jurong Lake Gardens, the third national garden of Singapore, Jurong Lake District stands out for its lush greenery and expansive lake. From 2023 to 2028, the redeveloped Chinese and Japanese Gardens, the New Science Centre and future tourism development will be progressively completed and line the waterfront
 with exciting leisure and entertainment offerings.
 
@@ -30,13 +30,11 @@ With Jurong’s proximity to institutions of higher learning, innovation hubs an
 
 Against the backdrop of the various ongoing developments shaping the physical landscape of Jurong, the challenge is to determine how placemaking can bring together its many diverse elements and communities, and enhance the area in meaningful ways.
 
-As placemaking for such a large area like Jurong can be quite daunting, a key approach is to start small first. Some of the initial placemaking efforts in Jurong focused on enhancing its public spaces and involving residents in the process. An example was the development of J-Link in 2014, a 270-metre pedestrian mall that
-sought to celebrate Jurong’s history.
+As placemaking for such a large area like Jurong can be quite daunting, a key approach is to start small first. Some of the initial placemaking efforts in Jurong focused on enhancing its public spaces and involving residents in the process. An example was the development of J-Link in 2014, a 270-metre pedestrian mall that sought to celebrate Jurong’s history.
 
 The link connected the Jurong East Town Centre to the MRT Station and the Science Centre Singapore. Residents contributed to the planning and design of various unique public spaces along this link, including a heritage trail and corner.
 
-Since 2014, many different stakeholders have come forward to experiment with and carry out various placemaking efforts, aspiring to make Jurong even better. Some of these efforts ranged from improving the public realm, to activating public spaces and
-supporting different communities.
+Since 2014, many different stakeholders have come forward to experiment with and carry out various placemaking efforts, aspiring to make Jurong even better. Some of these efforts ranged from improving the public realm, to activating public spaces and supporting different communities.
 
 **Creating good community spaces**
 
@@ -79,6 +77,7 @@ Residents and visitors shared that they were also happy that Taman Jurong has be
 **Walking together**
 
 Placemaking is also about bringing communities together based on common interests and causes. One common interest found amongst communities in Jurong was walking.
+
 To encourage people in the community to walk for health, the Ng Teng Fong General Hospital, supported by JurongHealth Fund, initiated a J-Walkers programme in 2019, by creatively using the J-Walk link bridge as a public space for community walking.
 
 This has since evolved into an all-weather exercise route that combines window shopping with exercise and takes about 5,000 steps (or 50 minutes) to complete. The routes are actively promoted to partners, residents and shoppers.
