@@ -46,3 +46,7 @@ Over the years, every square foot of usable space was sectioned off for office r
 **Design motifs**
 
 In updating spaces for contemporary use, such as breakout rooms and meeting spaces, Tan retained the spirit of the building through décor motifs. Hexagons are instantly noticeable, adorning walls, carpets and glass panels. “If you look at the outside of the building,” he says, “you’ll see that it’s actually shaped like two elongated hexagons, so we replicated that.”
+
+![Alt text for image on Isomer site](/images/jurong-town-hall-by-darren-soh/jurongtownhall_2.jpg)
+
+
