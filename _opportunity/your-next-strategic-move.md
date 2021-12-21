@@ -42,7 +42,7 @@ Jurong Lake District offers a range of workspaces to suit different business nee
 
 <a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/jurong-town-hall.aspx" style="color:#62863a;">Jurong Town Hall</a>
 
-<a href="https://www.perennialholdings.com/properties/singapore/sg-perennial-business-city.html" style="color:#62863a;">Perennial Business City</a>
+<a href="https://perennialbusinesscity.com.sg/" style="color:#62863a;">Perennial Business City</a>
 
 <a href="https://www.mapletreeindustrialtrust.com/Customer-Solutions/Featured-Products/Strategy%20at%20IBP.aspx" style="color:#62863a;">The Strategy (International Business Park)</a>
 

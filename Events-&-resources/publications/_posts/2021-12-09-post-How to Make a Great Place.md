@@ -19,6 +19,4 @@ We are very proud that Jurong has been accorded a special section from Pages 170
 
 As Jurong’s physical landscape continues to evolve, we look forward to growing our placemaking efforts in tandem to continue making Jurong Lake District a distinctive neighbourhood in the west and A Place To Grow.
 
-[![Alt text for image on Isomer site](/images/Placemaking%20Book%20Clickable.jpg)](https://www.ura.gov.sg/-/media/Corporate/Resources/Publications/Books/PlacemakingBook_How-to-make-a-great-place.pdf)
-
 Check out the book [here](http://go.gov.sg/placemakingbook)!
