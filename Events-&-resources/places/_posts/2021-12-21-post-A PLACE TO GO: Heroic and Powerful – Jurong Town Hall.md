@@ -49,4 +49,7 @@ In updating spaces for contemporary use, such as breakout rooms and meeting spac
 
 ![Alt text for image on Isomer site](/images/jurong-town-hall-by-darren-soh/jurongtownhall_2.jpg)
 
+These spaces are also where he has introduced color: brass, chrome, shades of lime, orange and other earthy tones that provide subtle winks to the building’s 70s roots. The maritime theme is continued in the rounded corner detail, or ‘fillet’, of the internal doorways, a style that was popular in the 1970s.
+
+**More on Jurong Town Hall**
 
