@@ -59,10 +59,8 @@ Jurong Town Hall is among the 7 national monuments built after World War II. Acc
 
 The building is also part of Singapore’s modern architecture that reflect the gradual awakenings and aspirations of nation-building after 1945. Through careful balancing of land use needs and in consultation with the Conservation Advisory Panel and other stakeholders and communities, a significant number of modern buildings have been protected over the years. These were presented in URA’s exhibition, ‘Heritage of our modern past’ to celebrate their value and importance to Singapore’s built heritage. The exhibition was on display at the Singapore Heritage Festival in 2017 and 2018.
 
-By Jennifer Eveland
+*By Jennifer Eveland*
 
-Photography by Darren Soh
+*Photography by Darren Soh*
 
-This article was first published in Skyline issue 9.
-
-
+*This article was first published in Skyline issue 9.*
