@@ -53,3 +53,16 @@ These spaces are also where he has introduced color: brass, chrome, shades of li
 
 **More on Jurong Town Hall**
 
+![Alt text for image on Isomer site](/images/jurong-town-hall-by-darren-soh/jurongtownhall_1.jpg)
+
+Jurong Town Hall is among the 7 national monuments built after World War II. According to the National Heritage Board, the building was gazetted as a monument because of its national significance, being built during Singapore’s early years of industrialisation and was the work of a pioneering group of local architects.
+
+The building is also part of Singapore’s modern architecture that reflect the gradual awakenings and aspirations of nation-building after 1945. Through careful balancing of land use needs and in consultation with the Conservation Advisory Panel and other stakeholders and communities, a significant number of modern buildings have been protected over the years. These were presented in URA’s exhibition, ‘Heritage of our modern past’ to celebrate their value and importance to Singapore’s built heritage. The exhibition was on display at the Singapore Heritage Festival in 2017 and 2018.
+
+By Jennifer Eveland
+
+Photography by Darren Soh
+
+This article was first published in Skyline issue 9.
+
+
