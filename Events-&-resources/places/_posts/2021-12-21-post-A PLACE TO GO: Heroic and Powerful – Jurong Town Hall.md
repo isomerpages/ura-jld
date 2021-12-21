@@ -63,4 +63,4 @@ The building is also part of Singapore’s modern architecture that reflect the 
 
 *Photography by Darren Soh*
 
-*This article was first published in Skyline issue 9.*
+*This article was first published in [Skyline issue 9](https://www.ura.gov.sg/-/media/Corporate/Resources/Publications/Skyline/Skyline-PDFs/Skyline_Issue_09.pdf?la=en).*
