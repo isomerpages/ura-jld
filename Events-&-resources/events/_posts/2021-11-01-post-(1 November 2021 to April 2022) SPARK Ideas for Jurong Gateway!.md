@@ -5,9 +5,9 @@ date: 2021-11-01
 layout: post
 description: ""
 ---
-<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.fishermans-dream.com/#intro">The URA-REDAS SPARK Challenge comes to Jurong Lake District!</a></h3>
+<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.ideas.gov.sg/public/sparkchallenge">The URA-REDAS SPARK Challenge comes to Jurong Lake District!</a></h3>
 
-
+*(Entries have closed and submitted proposals are being evaluated by the jury panel. Look out for the prototype exhibitions at our host developments in Jurong Gateway in mid-March 2022!)*
 
 ![Alt text for image on Isomer site](/images/SparkChallenge2021.jpg)
 
