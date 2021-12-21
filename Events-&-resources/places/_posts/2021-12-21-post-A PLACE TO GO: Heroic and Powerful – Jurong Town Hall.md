@@ -35,5 +35,15 @@ In the centre of the concourse, a massive cantilevered white concrete and marble
 
 At the far end of the concourse, 2 walls in original white ceramic tile slope down through narrow voids to the basement below. The voids, likely added for air and light circulation, had been sealed over during previous renovations, but Tan reopened the space and installed sculptural light installations above them. Tidy rows of wires dangling naked bulbs at various lengths, some continuing straight through to the basement, draw the eye to the spaces without overpowering them.
 
+**Retro 70s events**
 
+The ceiling in the main auditorium was of interest, with curious 70s-style curved details that Tan describes as almost marine in appearance. To update the acoustics of the great hall, he chose a wall treatment that referenced the original dark wood walls that flank the stage, creating a herringbone-like texture of wooden planks. A wainscot in matching dark wood covers the lower portion of the walls, providing a further design connection between the stage and hall.
+
+**Functional spaces**
+
+Over the years, every square foot of usable space was sectioned off for office rentals. Glass windows that overlooked the atrium lobby were boarded up. A recessed terrace with stunning views was closed off. Now, the spaces have been stripped back to their original bones and the upper levels reveal airy open spaces and wide corridors illuminated by natural light that streams in through restored windows.
+
+**Design motifs**
+
+In updating spaces for contemporary use, such as breakout rooms and meeting spaces, Tan retained the spirit of the building through décor motifs. Hexagons are instantly noticeable, adorning walls, carpets and glass panels. “If you look at the outside of the building,” he says, “you’ll see that it’s actually shaped like two elongated hexagons, so we replicated that.”
 
