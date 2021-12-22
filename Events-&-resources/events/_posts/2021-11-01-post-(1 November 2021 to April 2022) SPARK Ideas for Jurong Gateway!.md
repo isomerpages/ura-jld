@@ -1,13 +1,13 @@
 ---
-title: 1 November to 17 December 2021 SPARK Ideas for Jurong Gateway!
+title: (1 November 2021 to April 2022) SPARK Ideas for Jurong Gateway!
 permalink: /Events-and-resources/events/ura-redas-spark-2021
 date: 2021-11-01
 layout: post
 description: ""
 ---
-<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.fishermans-dream.com/#intro">The URA-REDAS SPARK Challenge comes to Jurong Lake District!</a></h3>
+<h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://www.ideas.gov.sg/public/sparkchallenge">The URA-REDAS SPARK Challenge comes to Jurong Lake District!</a></h3>
 
-
+*(Entries have closed and submitted proposals are being evaluated by the jury panel. Look out for the prototype exhibitions at our host developments in Jurong Gateway in mid-March 2022!)*
 
 ![Alt text for image on Isomer site](/images/SparkChallenge2021.jpg)
 

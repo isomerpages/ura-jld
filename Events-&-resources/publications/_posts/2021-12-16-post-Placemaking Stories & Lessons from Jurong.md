@@ -5,7 +5,10 @@ date: 2021-12-16
 layout: post
 description: ""
 ---
-The Jurong area is in the western part of Singapore. In the past, it used to be a mangrove swamp and was covered with gambier and rubber plantations like many parts of Singapore. Industrialisation efforts in this area from the 1960s have shaped the lives of many who found work in its factories and a new home to live in.
+The Jurong area is in the western part of Singapore. 
+
+In the past, it used to be a mangrove swamp and was covered with gambier and rubber plantations like many parts of Singapore. Industrialisation efforts in this area from the 1960s have shaped the lives of many who found work in its factories and a new home to live in.
+
 Over the years, the area has evolved into an attractive place to live, work and play in. There is a generous sense of green and open spaces in the area. Gardens and family-friendly attractions have been added over time, such as the Jurong Bird Park, the Science Centre Singapore and the Chinese and Japanese Gardens, contributing to its distinctive identity.
 
 Parts of its heritage remain such as the Thow Kwang and Guan Huat Dragon Kilns, reflecting Jurong’s past as a former brickworks industry. 
