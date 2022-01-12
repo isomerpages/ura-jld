@@ -46,7 +46,7 @@ sections:
       subtitle: Sustainability
       description: Connect to a ready sustainability ecosystem where choosing green is
         easy alongside people and businesses who care
-      button: Read More
+      button: GREENING JURONG LAKE DISTRICT
       url: /sustainability
       image: /images/jld_rasauwalk.jpg
       alt: Sustainable Living
