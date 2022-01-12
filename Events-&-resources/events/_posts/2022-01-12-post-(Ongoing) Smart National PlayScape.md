@@ -43,4 +43,10 @@ A display of seemingly random daily items that actually relate to the various te
 
 ![Alt text for image on Isomer site](/images/smartnation04m.jpg)
 
+**PlayScape Passport – the personalised experience**
 
+Choose to register yourself at the sign-up kiosks via biometric technology (facial recognition). Let the exhibits ‘recognise’ you and have your Playscape journey recorded in a digital Playscape Passport that you can email to yourself!
+
+![Alt text for image on Isomer site](/images/smartnation05m.jpg)
+
+![Alt text for image on Isomer site](/images/smartnation06.jpg)
