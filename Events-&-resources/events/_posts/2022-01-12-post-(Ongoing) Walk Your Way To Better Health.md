@@ -13,6 +13,6 @@ Taking about 50 minutes to complete, you can brisk walk and window shop at the s
 
 ![Alt text for image on Isomer site](/images/jwalkersmap.jpg)
 
-Walk, jog or run anytime, anywhere at your leisure. Set your target, wear a pair of comfortable shoes and start walking today!
+Walk anywhere at your leisure. Set your target, wear a pair of comfortable shoes and start walking today!
 
 *[J.Walkers is an initiative by JurongHealth Fund](https://www.ntfgh.com.sg/Pages/J-Walkers.aspx) in partnership with Health Promotion Board, Urban Redevelopment Authority, IMM, JCube, Westgate and Jem. *
