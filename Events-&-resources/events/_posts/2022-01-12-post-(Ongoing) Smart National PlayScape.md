@@ -5,7 +5,7 @@ date: 2022-01-12
 layout: post
 description: ""
 ---
-# Get a smart start to 2022 at the newest exhibition to launch at Science Centre Singapore in Jurong Lake District!
+# Start smart in 2022 at the newest exhibition at Jurong Lake District!
 
 What makes up a Smart Nation? What are the technologies powering Singapore’s Smart Nation initiatives?
 
