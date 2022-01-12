@@ -44,8 +44,8 @@ sections:
   - infopic:
       title: Sustainable living
       subtitle: Sustainability
-      description: "Connect to a ready sustainability ecosystem \x03where choosing
-        green is easy alongside people and businesses who care"
+      description: Connect to a ready sustainability ecosystem where choosing green is
+        easy alongside people and businesses who care
       button: Read More
       url: /sustainability
       image: /images/jld_rasauwalk.jpg
