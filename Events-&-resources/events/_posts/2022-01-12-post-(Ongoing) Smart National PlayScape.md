@@ -49,4 +49,6 @@ Choose to register yourself at the sign-up kiosks via biometric technology (faci
 
 ![Alt text for image on Isomer site](/images/smartnation05m.jpg)
 
+Entry to Smart Nation PlayScape is complimentary with every Science Centre Singapore admission ticket. [Find out what other exhibitions and programmes are happening at Science Centre Singapore](https://www.science.edu.sg/whats-on) and plan your visit to Jurong Lake District!
+
 ![Alt text for image on Isomer site](/images/smartnation06.jpg)
