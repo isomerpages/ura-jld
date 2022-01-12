@@ -28,7 +28,7 @@ sections:
       subtitle: Potential
       description: Jurong Lake District presents an opportunity for companies to put
         down roots, create a brand-new campus and scale up easily.
-      button: READ MORE
+      button: GROW WITH JURONG LAKE DISTRICT
       url: /potential
       alt: Grow seamless & easily
       image: /images/jld_birdseye.jpg
