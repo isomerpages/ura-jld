@@ -54,7 +54,7 @@ sections:
       title: Your next strategic move
       subtitle: Opportunity
       description: Invest and join the growing network of businesses in Jurong Lake District
-      button: Read More
+      button: FIND OPPORTUNITIES
       url: /opportunity/next-strategic-move
       image: /images/jld_attractions.jpg
       alt: Attractions at night
