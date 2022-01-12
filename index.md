@@ -60,5 +60,5 @@ sections:
       alt: Attractions at night
   - resources:
       title: Events & resources
-      button: Read More
+      button: DISCOVER JURONG LAKE DISTRICT
 ---
