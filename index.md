@@ -28,7 +28,7 @@ sections:
       subtitle: Potential
       description: Jurong Lake District presents an opportunity for companies to put
         down roots, create a brand-new campus and scale up easily.
-      button: READ MORE
+      button: GROW WITH JURONG LAKE DISTRICT
       url: /potential
       alt: Grow seamless & easily
       image: /images/jld_birdseye.jpg
@@ -37,16 +37,16 @@ sections:
       subtitle: Experience
       description: Imagine working, living and playing in the district with familiar
         plazas, intimate public spaces, lush lakefront greenery and wildlife.
-      button: Read More
+      button: EXPLORE JURONG LAKE DISTRICT
       alt: More than a CBD
       url: /experience
       image: /images/jld_experience.jpg
   - infopic:
       title: Sustainable living
       subtitle: Sustainability
-      description: "Connect to a ready sustainability ecosystem \x03where choosing
-        green is easy alongside people and businesses who care"
-      button: Read More
+      description: Connect to a ready sustainability ecosystem where choosing green is
+        easy alongside people and businesses who care
+      button: GREENING JURONG LAKE DISTRICT
       url: /sustainability
       image: /images/jld_rasauwalk.jpg
       alt: Sustainable Living
@@ -54,11 +54,11 @@ sections:
       title: Your next strategic move
       subtitle: Opportunity
       description: Invest and join the growing network of businesses in Jurong Lake District
-      button: Read More
+      button: INVEST IN JURONG LAKE DISTRICT
       url: /opportunity/next-strategic-move
       image: /images/jld_attractions.jpg
       alt: Attractions at night
   - resources:
       title: Events & resources
-      button: Read More
+      button: DISCOVER JURONG LAKE DISTRICT
 ---

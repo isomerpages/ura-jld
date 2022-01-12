@@ -1,9 +1,11 @@
 ---
-title: "[Ongoing Till March 2022] The Bird Colouring Social Club Digital Aviary"
+title: (Ongoing till March 2022) The Bird Colouring Social Club Digital Aviary
 date: 2021-11-15
 permalink: /events-resources/events/bird-colouring-social
 layout: post
+description: ""
 ---
+
 <h3 style="color:#124596; font-weight:bold;"><a style="color:#124596; text-decoration:none;" href="https://artsforall.gov.sg/events/ayn-nov-2021-the-bird-colouring-social-club.aspx">Celebrate our feathered friends through Arts in Your Neighbourhood's first digital aviary!</a></h3>
 
 ![Alt text for image on Isomer site](/images/Bird%20Colouring%20Social%20Club.jpg)
