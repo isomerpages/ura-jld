@@ -5,7 +5,7 @@ date: 2022-01-12
 layout: post
 description: ""
 ---
-# J.WALK with us at Jurong Lake District!
+# Walk your way to better health!
 
 J.Walkers is the first of its kind walking trail that lets you exercise, rain or shine, along a 4km route that links Jurong East MRT Station to Ng Teng Fong General Hospital with Westgate, JEM, IMM and JCube via the J-Walk elevated pedestrian network. 
 
