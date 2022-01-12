@@ -24,4 +24,9 @@ Geospatial technology helps us better understand where things are in relation to
 Add blocks representing different elements such as schools, houses, parks to the city, and observe how the quality-of-life changes!
 ![Alt text for image on Isomer site](/images/smartnation01.jpg)
 
+**Make a Face!**
+
+Do you appear ‘happier’ than your friends? Through biometric technology, computers can analyse your face and determine who makes the best expression!
+![Alt text for image on Isomer site](/images/smartnation02.jpg)
+
 
