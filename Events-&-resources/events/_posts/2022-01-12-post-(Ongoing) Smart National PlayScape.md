@@ -22,11 +22,25 @@ The exhibition also provides an opt-in personalised experience, whereby one coul
 Geospatial technology helps us better understand where things are in relation to one another, and how it can help us plan and build thriving communities.
 
 Add blocks representing different elements such as schools, houses, parks to the city, and observe how the quality-of-life changes!
+
 ![Alt text for image on Isomer site](/images/smartnation01.jpg)
 
 **Make a Face!**
 
 Do you appear ‘happier’ than your friends? Through biometric technology, computers can analyse your face and determine who makes the best expression!
-![Alt text for image on Isomer site](/images/smartnation02.jpg)
+
+![Alt text for image on Isomer site](/images/smartnation2m.jpg)
+
+**Rubik’s Cube solving robot**
+
+Take a look at the steps that this robot takes to solve the Rubik’s cube that you messed up!
+
+![Alt text for image on Isomer site](/images/smartnation3m.jpg)
+
+**The Cabinet of Curiosity**
+
+A display of seemingly random daily items that actually relate to the various technologies and plays a part in building up our Smart Nation.
+
+![Alt text for image on Isomer site](/images/smartnation04m.jpg)
 
 
