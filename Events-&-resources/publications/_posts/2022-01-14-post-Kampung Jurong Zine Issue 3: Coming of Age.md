@@ -7,7 +7,7 @@ description: ""
 ---
 Kampung Jurong Zine is a local magazine for the Yuhua neighbourhood in Jurong Lake District.
 
-Inspired by the distinct identities of the neighbourhoods in Tokyo and the thought that one could map a community through people and stories, the founders - [KAMPUNGMAKERS](https://aboldkampung.wixsite.com/kampung), are exploring the potential such community stories can have in deepening intergenerational connectivity and social health.
+Inspired by the distinct identities of the neighbourhoods in Tokyo and the thought that one could map a community through people and stories, the founders - [KAMPUNGMAKERS](https://aboldkampung.wixsite.com/kampung) are exploring the potential such community stories can have in deepening intergenerational connectivity and social health.
 
 Titled [**Coming of Age, Kampung Jurong Issue 3**](https://aboldkampung.wixsite.com/kampung/issue-3) is part of a intergenerational series produced in collaboration with the seniors of [Loving Heart Multi-service Centre](https://lovingheart.org.sg/). The publications were distributed across different community institutions in Jurong.
 
