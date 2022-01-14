@@ -11,6 +11,7 @@ Inspired by the distinct identities of the neighbourhoods in Tokyo and the thoug
 
 Conceptualised by creators Ong Yuqi and Pok Yue Weng, and catalysed by Bold at Work over 4 months in 2019, 6 contributors underwent workshops and a guided trail to explore their personal point of interest in Jurong. The inaugural edition of Kampung Jurong is a collection of photo interviews, essays and poems as an ode to Jurong, featuring its rooftop gardens, ang ku kuehs and brutalist architecture. 
 
-Read more about [the creative journey behind Kampung Jurong Issue 1](https://aboldkampung.wixsite.com/kampung/issue-1). 
+![Alt text for image on Isomer site](/images/Kg%20Jurong%2001_collage.jpg)
 
+Read more about [the creative journey behind Kampung Jurong Issue 1](https://aboldkampung.wixsite.com/kampung/issue-1).
 
