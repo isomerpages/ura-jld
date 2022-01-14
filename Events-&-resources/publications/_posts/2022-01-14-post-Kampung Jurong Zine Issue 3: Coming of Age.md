@@ -21,5 +21,4 @@ The publication is divided into two parts- the first half features the articles 
 
 All the works were synthesised into a guide to ageing, printed in the middle section of the publication.
 
-Come read these conversations on how do you know you have grown old and what does it mean to age well. As you explore these questions, KAMPUNGMAKERS invites you to come onboard and re-examine our notions towards ageing, and reimagine the possibilities that come with it.
-
+Come read these [conversations](https://aboldkampung.wixsite.com/kampung/issue-3) on how do you know you have grown old and what does it mean to age well. As you explore these questions, KAMPUNGMAKERS invites you to come onboard and re-examine our notions towards ageing, and reimagine the possibilities that come with it.
