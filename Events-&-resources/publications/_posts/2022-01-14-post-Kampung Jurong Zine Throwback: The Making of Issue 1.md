@@ -9,7 +9,7 @@ Kampung Jurong Zine is a local magazine for the Yuhua neighbourhood in Jurong La
 
 Inspired by the distinct identities of the neighbourhoods in Tokyo and the thought that one could map a community through people and stories, the founders - [KAMPUNGMAKERS](https://aboldkampung.wixsite.com/kampung) are exploring the potential such community stories can have in deepening intergenerational connectivity and social health.
 
-Conceptualised by creators Ong Yuqi and Pok Yue Weng, and catalysed by Bold at Work over 4 months in 2019, 6 contributors underwent workshops and a guided trail to explore their personal point of interest in Jurong. The inaugural edition of Kampung Jurong is a collection of photo interviews, essays and poems as an ode to Jurong, featuring its rooftop gardens, ang ku kuehs and brutalist architecture. 
+Conceptualised by creators Ong Yuqi and Pok Yue Weng, and catalysed by Bold at Work over 4 months in 2019, 6 contributors underwent workshops and a guided trail to explore their personal point of interest in Jurong. The [inaugural edition of Kampung Jurong](https://aboldkampung.wixsite.com/kampung/issue-1) is a collection of photo interviews, essays and poems as an ode to Jurong, featuring its rooftop gardens, ang ku kuehs and brutalist architecture. 
 
 ![Alt text for image on Isomer site](/images/Kg%20Jurong%2001_collage.jpg)
 
