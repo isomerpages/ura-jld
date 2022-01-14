@@ -20,7 +20,7 @@ Read how the [stories in Issue 2](https://aboldkampung.wixsite.com/kampung/issue
 
 **About KAMPUNGMAKERS**
 
-KAMPUNGMAKERS is a collaborative platform where creators of different backgrounds intersect, explore and express a community's identity. The output of every collaboration is a publication made available to the public. In every edition, KAMPUNGMAKERS explores a different theme and archive the narrative through a dialogue-driven and socially engaged process. 
+KAMPUNGMAKERS is a collaborative platform where creators of different backgrounds intersect, explore and express a community's identity. The output of every collaboration is a publication made available to the public. In every edition, KAMPUNGMAKERS explores a different theme and archives the narrative through a dialogue-driven and socially engaged process. 
 
 As a simultaneous act of finding and making of identity, KAMPUNGMAKERS serves as a space for contributors to have an internal excavation of their ideas and voices, and an external excavation of stories in the community. It hopes that the publication could evoke in readers a deeper consciousness about the idea of community and invite them to re-look at ordinary spaces with a greater sense of wonder. 
 
