@@ -15,3 +15,5 @@ In light of COVID-19 and the Circuit Breaker measures, [**Kampung Jurong Issue 2
 ![Alt text for image on Isomer site](/images/KampungJurong02.jpg)
 
 The launch of Issue 2 in 2020 took the form of a guided trail to extend the conversation beyond paper and to create tangible outcomes for the business owners. Trail participants got a taste of the food samplings, as well as a kueh making session with Wonderyam.
+
+Read how the [stories in Issue 2](https://aboldkampung.wixsite.com/kampung/issue-2) honour the heroes and voices of the Jurong heartland, and bring to fore the spirit of cheerful self-sufficiency that is this neighbourhood's way of life. 
