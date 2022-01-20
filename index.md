@@ -4,7 +4,9 @@ title: Jurong Lake District
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Discover Jurong Lake District through its people, places, stories
+  and events. Click on 'Events & Resources' to find out what's happening in
+  Jurong Lake District today!
 sections:
   - hero:
       title: A place to grow
