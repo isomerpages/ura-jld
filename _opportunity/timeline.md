@@ -6,8 +6,8 @@ permalink: /opportunity/timeline
 
 ![Alt text for image on Isomer site](/images/mapJLD-01.png)
 
-<h4 style="color:#124596; font-weight:normal;">Detailed timeline under study</h4>
-Ministry of National Development, Ministry of Sustainability and the Environment, Ministry of Transport, Land Transport Authority HQ
+<h4 style="color:#124596; font-weight:normal;">Detailed timelines under study</h4>
+Relocation of Ministry of National Development, Ministry of Sustainability and the Environment, Ministry of Transport, Land Transport Authority to Jurong Lake District
 
 <hr style="margin:2rem 0;">
 
