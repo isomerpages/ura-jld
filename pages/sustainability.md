@@ -35,7 +35,7 @@ Buildings in Jurong Lake District will be planet-friendly, healthy and creativel
 
 Developments will meet higher environmental standards by incorporating green materials and solar panels into their designs, and by being minimally certified Green Mark Super Low Energy. 
 
-Biophilic design will create pleasant indoor environments for better health and well-being.
+Biophilic design will create pleasant indoor environments for better health and well-being. Green leases will encourage higher ownership and accountability for sustainable behaviour between all users in a building. 
 
 Residents and workers can be part of a green community that grows its own gardens, fruits and vegetables in community plots, and aspires towards higher levels of reducing waste through sharing, reusing and recycling. 
 
