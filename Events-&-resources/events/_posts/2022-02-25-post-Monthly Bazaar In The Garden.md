@@ -23,6 +23,6 @@ On-site programmes include the monthly biodiversity tour at Jurong Lake Gardens 
 
 ![](/images/MOLLY_1.jpg)
 
-For more information on bazaar dates and programmes, visit https://www.nparks.gov.sg/juronglakegardens/whats-happening/calendar-of-events
+Visit the [Jurong Lake Gardens calendar of events](https://www.nparks.gov.sg/juronglakegardens/whats-happening/calendar-of-events) for more information on bazaar dates and programmes. 
 
 This event is organised by NParks.
