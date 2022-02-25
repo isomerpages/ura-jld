@@ -6,6 +6,11 @@ permalink: /opportunity/timeline
 
 ![Alt text for image on Isomer site](/images/mapJLD-01.png)
 
+<h4 style="color:#124596; font-weight:normal;">Detailed timeline under study</h4>
+Ministry of National Development, Ministry of Sustainability and the Environment, Ministry of Transport, Land Transport Authority HQ
+
+<hr style="margin:2rem 0;">
+
 <h4 style="color:#124596; font-weight:normal;">2030s</h4>
 Cross Island Line
 
@@ -17,7 +22,7 @@ Jurong Region Line
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2027</h4>
-Jurong East Integrated Transport Hub
+Jurong East Integrated Transport Hub, Land Transport Authority offices
 
 <hr style="margin:2rem 0;">
 
