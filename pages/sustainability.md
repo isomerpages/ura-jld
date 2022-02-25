@@ -27,7 +27,7 @@ In this government-supported Built Environment Living Lab, companies can conveni
 
 <h3 style="color:#124596; font-weight:bold;">Green buildings and communities </h3>
 
-Buildings in Jurong Lake District will be planet-friendly, healthy and creatively designed to replace 100% of their footprint in landscaping and greenery.
+Buildings in Jurong Lake District will be environmentally-friendly, healthy and creatively designed to replace 100% of their footprint in landscaping and greenery.
 
 ![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
 <span style="font-size:12px; font-style:italic;"> Artist impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
