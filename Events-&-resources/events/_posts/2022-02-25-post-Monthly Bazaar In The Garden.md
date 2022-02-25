@@ -5,7 +5,7 @@ date: 2022-02-25
 layout: post
 description: ""
 ---
-Bazaar In the Garden @ Jurong Lake Gardens takes place on every fourth Saturday of the month with a mix of online and on-site activities!
+##### Bazaar In the Garden @ Jurong Lake Gardens takes place on every fourth Saturday of the month with a mix of online and on-site activities!
 
 The sessions start in the morning, where you can kick-start your day with us through fun programmes like storytelling and games to learn more about the biodiversity in Jurong Lake Gardens. 
 
@@ -25,4 +25,4 @@ On-site programmes include the monthly biodiversity tour at Jurong Lake Gardens 
 
 For more information on bazaar dates and programmes, visit https://www.nparks.gov.sg/juronglakegardens/whats-happening/calendar-of-events
 
-This event is organised by NParks. 
+This event is organised by NParks.
