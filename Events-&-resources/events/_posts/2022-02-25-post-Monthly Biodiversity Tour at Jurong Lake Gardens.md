@@ -21,6 +21,6 @@ Cost: Free
 
 Minimum of 8 participants required for the guided walk to proceed. Maximum 10 participants per session.
 
-For more information on tour dates and registration, visit https://www.nparks.gov.sg/juronglakegardens/whats-happening/calendar-of-events. 
+Visit [Jurong Lake Gardens' calendar of events](https://www.nparks.gov.sg/juronglakegardens/whats-happening/calendar-of-events) for more information on tour dates and registration. 
 
 This event is organised by NParks.
