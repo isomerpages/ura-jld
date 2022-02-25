@@ -52,7 +52,7 @@ Opening of Ng Teng Fong General Hospital and Jurong Community Hospital
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2014</h4>
-Opening of Devan Nair Institute &amp; Big Box
+Opening of Devan Nair Institute &amp; Big Box, Building and Construction Authority (BCA) and Agri-Food and Veterinary Authority (re-organised to Singapore Food Agency in 2019) relocate to Jem
 
 <hr style="margin:2rem 0;">
 
