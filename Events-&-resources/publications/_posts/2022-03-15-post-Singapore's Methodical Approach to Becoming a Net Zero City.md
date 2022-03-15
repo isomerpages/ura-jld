@@ -5,7 +5,7 @@ date: 2022-03-15
 layout: post
 description: ""
 ---
-This feature on Jurong Lake District is an excerpt from Singapore's methodical approach to becoming a net-zero city. 
+This feature on Jurong Lake District is an excerpt from Singapore's [methodical approach to becoming a net-zero city](https://www.weforum.org/agenda/2022/03/singapore-methodical-approach-net-zero/). 
 
 The article sets out how Singapore has long taken the approach of adopting innovations methodically, and its approach to becoming a net-zero city is no different. 
 
