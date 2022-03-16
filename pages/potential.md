@@ -27,7 +27,7 @@ The West Region is also home to Singapore’s top two universities, providing a 
 ![Overview map of JLD](/images/jld_overviewmapD.png)
 <span style="font-size:12px; font-style:italic;"></span>
 
-As the district grows, an ecosystem of innovation, collaboration and synergy within the region will emerge.
+As the district grows, an ecosystem of innovation, collaboration and synergy within the region will emerge. Jurong Lake District will be a base for companies with strong Environment, Social, Governance (ESG) ambitions to tap on the West Region for opportunities in sustainability businesses. 
 
 By 2040 to 2050, Jurong Lake District will have 100,000 new jobs and 20,000 new homes, adding to the 1 million residents already in the West Region. 
 

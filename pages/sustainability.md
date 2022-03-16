@@ -21,11 +21,13 @@ Identified as a model for urban sustainability under the Singapore Green Plan 20
 
 Envisaged to attract a new generation of firms from the technology, e-commerce, sustainability and business services sectors, Jurong Lake District will be the epicentre to support talent and companies in creating new growth and new jobs in green innovation.
 
-In this government-supported Built Environment Living Lab, companies can conveniently co-locate R&amp;D and commercial trials in one place to facilitate faster lab-to-market prototyping and scaling.
+Government agencies leading Singapore's sustainability, environmental, development and transport strategies are planning their move to Jurong Lake District in phases, attesting to the government's commitment to making the district a demonstration for sustainable growth. 
+
+In this government-supported Built Environment Living Lab, companies can conveniently co-locate R&amp;D and commercial trials in one place to facilitate faster lab-to-market prototyping and scaling. The district receives interest and supports private-sector pilots in innovations such as ecologically-friendly leisure facilities, structures made from sustainable construction materials, horticulture-waste-to-energy plants and flight trials for unmanned aircraft systems.  
 
 <h3 style="color:#124596; font-weight:bold;">Green buildings and communities </h3>
 
-Buildings in Jurong Lake District will be planet-friendly, healthy and creatively designed to replace 100% of their footprint in landscaping and greenery.
+Buildings in Jurong Lake District will be environmentally-friendly, healthy and creatively designed to replace 100% of their footprint in landscaping and greenery.
 
 ![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
 <span style="font-size:12px; font-style:italic;"> Artist impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
@@ -33,7 +35,7 @@ Buildings in Jurong Lake District will be planet-friendly, healthy and creativel
 
 Developments will meet higher environmental standards by incorporating green materials and solar panels into their designs, and by being minimally certified Green Mark Super Low Energy. 
 
-Biophilic design will create pleasant indoor environments for better health and well-being.
+Biophilic design will create pleasant indoor environments for better health and well-being. Green leases will encourage higher ownership and accountability for sustainable behaviour between all users in a building. 
 
 Residents and workers can be part of a green community that grows its own gardens, fruits and vegetables in community plots, and aspires towards higher levels of reducing waste through sharing, reusing and recycling. 
 
