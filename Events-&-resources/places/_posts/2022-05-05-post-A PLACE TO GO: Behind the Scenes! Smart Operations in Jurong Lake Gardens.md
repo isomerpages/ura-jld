@@ -18,13 +18,13 @@ Look out for this smart, sleek driverless vehicle plying the paths the next time
 ![](/images/AV.png)
 *Autonomous Vehicle on trial at Lakeside Garden (Credit: NParks)*
 
-This 11-seater autonomous vehicle (AV) is part of a people mover system trial at Lakeside Garden. Deployed by NParks in collaboration with ST Engineering Solutions and Willers Pte Ltd, the trial is to test the efficacy, sustainability, and safety of having visitors ride driverless vehicles to experience the expanse of the Gardens more easily. 
+This 11-seater autonomous vehicle (AV) is part of a people mover system trial at Lakeside Garden. Deployed by NParks in collaboration with ST Engineering Solutions and Willers Pte Ltd, the trial is to test the efficacy, sustainability, and safety of visitors riding driverless vehicles to experience the expanse of the Gardens more easily. 
 
-This is the first time that an AV is being tested in a public garden in the heartlands of Singapore. If successful, we could possibly look forward to having more smart mobility options to help us explore and discover Jurong Lake Gardens more easily!
+This is the first time that an AV is being tested in a public garden in the heartlands of Singapore. If successful, we could look forward to having more smart mobility options to help elderly visitors and families with young children enjoy more of the attractions at Jurong Lake Gardens more easily!
 
 **Safety Robots on the Look Out**
 
-The next time you get lost Jurong Lake Gardens, a robot may just help you find your way!
+The next time you get lost in Jurong Lake Gardens, a robot may just help you find your way!
 
 NParks works with partners such as Ngee Ann Polytechnic, IMDA and Xjera Labs to conduct trials of autonomous security and surveillance robots. 
 
@@ -32,7 +32,7 @@ The aim of deploying robots is to reduce the reliance on security manpower and i
 
 These robots are equipped with cameras and video analytics capabilities to detect and alert NParks staff to incidents such as smoking, fishing in non-designated zones and faulty facilities. 
 
-The robots will also be on the lookout for visitor safety and comfort, by providing concierge services such as wayfinding directions to attractions and communicating with security staff should an emergency arise. 
+The robots will also be on the lookout for visitor safety and comfort, by providing concierge services such as wayfinding directions to attractions and communicating with security staff in the event of an emergency. 
 
 ![](/images/Robot%201.jpg)
 
@@ -45,7 +45,7 @@ Who wouldn’t love to stay cool while exploring Jurong Lake Gardens in tropical
 
 Panasonic and NParks are collaborating on an outdoor misting system that aims to lower the ambient temperature through evaporative cooling. 
 
-Compressed air is passed through high pressure water to dispense micro-mist droplets. Due to their small size, the droplets feel cool upon touch and don’t stick to the skin surface. The effect on visitors is that they will always feel cool and dry in the surrounding air. 
+Compressed air is passed through high pressure water to dispense micro-mist droplets. Due to their small size, the droplets feel cool upon touch and don’t stick to skin. The effect on visitors is that they will always feel cool and dry in the surrounding air. 
 
 ![](/images/Mist.jpg)
 
@@ -68,6 +68,6 @@ This is the first time such a system is implemented in a park or garden.
 
 The GMS facilitates staff in monitoring park, building and transport operations, and even allows them to respond to ground situations remotely. For example, building equipment can be remotely controlled and the location of the transport fleet remotely tracked through GPS. 
 
-The GMS also contributes towards sustainable outcomes for Jurong Lake Gardens. For example, the weather monitoring system allows for smart decisions whereby irrigation is automatically reduced in wet weather.  The GMS can also monitor electricity and water usage and alert the staff to any water leakage. 
+The GMS also contributes towards sustainable outcomes for Jurong Lake Gardens. For example, the weather monitoring system allows for smart decisions that automatically reduce irrigation in wet weather.  The GMS can also monitor electricity and water usage and alert the staff to any water leakage. 
 
 Click [here](https://www.nparks.gov.sg/juronglakegardens/who-we-are/jurong-lake-gardens) to learn more about sustainability and smart technology at Jurong Lake Gardens.
