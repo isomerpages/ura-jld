@@ -15,15 +15,15 @@ Keep a lookout for these smart ideas that contribute towards sustainability outc
 
 Water features throughout Jurong Lake Gardens don’t just serve up fun for visitors – they also serve an environmentally friendly purpose!
 
-![](/images/Clusia%20Cove.jpg)
-
-*The interlocking biotope, water playground and ecopond at Clusia Cove at Lakeside Garden (Credit: NParks)*
-
 Located adjacent to Jurong Lake, the Gardens has many features such as swales and bioretention basins to cleanse the water runoff from the rain. 
 
 The cleansed rainwater is collected ponds and used to irrigate the gardens. 
 
-The water is also circulated through phytoremediation ponds and biotopes. These features consist of cleansing cells, which contain aquatic plants in sand beds to filter out particles and clean the water over time. 
+The water is also circulated through phytoremediation ponds and biotopes. These features consist of cleansing cells, which contain aquatic plants in sand beds to filter out particles and clean the water over time.
+
+![](/images/Clusia%20Cove.jpg)
+
+*The interlocking biotope, water playground and ecopond at Clusia Cove at Lakeside Garden (Credit: NParks)*
 
 The next time you’re at Clusia Cove, observe how the water play area links the cleansing biotope, water playground and eco-pond together, forming a closed loop water circulation system. Its smart design reduces water usage by recycling the water, while ensuring that its clean and safe to play in!
 
