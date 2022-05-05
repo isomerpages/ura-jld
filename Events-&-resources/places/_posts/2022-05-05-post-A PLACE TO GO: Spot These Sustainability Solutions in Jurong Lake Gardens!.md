@@ -17,7 +17,7 @@ Water features throughout Jurong Lake Gardens don’t just serve up fun for visi
 
 Located adjacent to Jurong Lake, the Gardens has many features such as swales and bioretention basins to cleanse the water runoff from the rain. 
 
-The cleansed rainwater is collected ponds and used to irrigate the gardens. 
+The cleansed rainwater is collected in ponds and used to irrigate the gardens. 
 
 The water is also circulated through phytoremediation ponds and biotopes. These features consist of cleansing cells, which contain aquatic plants in sand beds to filter out particles and clean the water over time.
 
