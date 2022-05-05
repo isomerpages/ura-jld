@@ -21,7 +21,7 @@ The cleansed rainwater is collected in ponds and used to irrigate the gardens.
 
 The water is also circulated through phytoremediation ponds and biotopes. These features consist of cleansing cells, which contain aquatic plants in sand beds to filter out particles and clean the water over time.
 
-One example of water-sensitive design is Clusia Cove, a three-hectare water playground at Lakeside Garden. 
+One example of water-sensitive design is [Clusia Cove](https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/clusia-cove), a three-hectare water playground at Lakeside Garden. 
 
 ![](/images/Clusia%20Cove.jpg)
 
@@ -35,7 +35,7 @@ The next time you’re at Clusia Cove, observe how the water play area links the
 
 Did you know that Jurong Lake Gardens incorporates initiatives to upcycle waste material?
 
-Within the Butterfly Maze, safety flooring at the end of each slide is made from rubber granules recycled from sport shoes!
+Within the [Butterfly Maze](https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/butterfly-maze), safety flooring at the end of each slide is made from rubber granules recycled from sport shoes!
 
 Using an environmentally friendly water-based binder, these granules are bound with natural cork to create a safe and aesthetically natural landscape.
 
@@ -63,6 +63,6 @@ Look out for the new Multi-Purpose Hall when the redeveloped Japanese Garden ope
 Observe how the wooden structures span large distances without the need for supporting columns. The unique capability and strength of GLULAM (a type of MET) helps to save space and reduce material use, allowing for a spacious, enjoyable, and environmentally friendly experience at Jurong Lake Gardens!
 
 ![](/images/MET%20hall.png)
-*Made of MET< the Multi-Purpose Hall at Japanese Garden will offer a comfortable and environmentally friendly experience for visitors (Credit: NParks)*
+*Made of MET, the Multi-Purpose Hall at Japanese Garden will offer a comfortable and environmentally friendly experience for visitors (Credit: NParks)*
 
 *Click [here](https://www.nparks.gov.sg/juronglakegardens/who-we-are/jurong-lake-gardens) to learn more about sustainability and smart technology at Jurong Lake Gardens*
