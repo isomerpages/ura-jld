@@ -23,7 +23,7 @@ Envisaged to attract a new generation of firms from the technology, e-commerce, 
 
 Government agencies leading Singapore's sustainability, environmental, development and transport strategies are planning their move to Jurong Lake District in phases, attesting to the government's commitment to making the district a demonstration for sustainable growth. 
 
-In this government-supported Built Environment Living Lab, companies can conveniently co-locate R&amp;D and commercial trials in one place to facilitate faster lab-to-market prototyping and scaling. The district receives interest and supports private-sector pilots in innovations such as ecologically-friendly leisure facilities, structures made from sustainable construction materials, horticulture-waste-to-energy plants and flight trials for unmanned aircraft systems.  
+In this government-supported Built Environment Living Lab, companies can conveniently co-locate R&amp;D and commercial trials in one place to facilitate faster lab-to-market prototyping and scaling. The district receives interest and supports private-sector pilots in innovations such as ecologically-friendly leisure facilities, structures made from sustainable construction materials, horticulture-waste-to-energy plants and flight trials for unmanned aircraft systems.  At Jurong Lake Gardens, smart solutions in AVs, security and surveillance robots, outdoor mist systems, new methods of integrating photovoltaic cells into buildings, and new solid-state transformer technology are being trialled. 
 
 <h3 style="color:#124596; font-weight:bold;">Green buildings and communities </h3>
 
