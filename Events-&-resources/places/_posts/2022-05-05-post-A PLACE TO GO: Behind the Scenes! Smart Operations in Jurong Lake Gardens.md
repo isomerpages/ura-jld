@@ -70,4 +70,4 @@ The GMS facilitates staff in monitoring park, building and transport operations,
 
 The GMS also contributes towards sustainable outcomes for Jurong Lake Gardens. For example, the weather monitoring system allows for smart decisions whereby irrigation is automatically reduced in wet weather.  The GMS can also monitor electricity and water usage and alert the staff to any water leakage. 
 
-Click [here](https://www.nparks.gov.sg/juronglakegardens/who-we-are/jurong-lake-gardens) to learn more about sustainability and smart technology at Jurong Lake Gardens. 
+Click [here](https://www.nparks.gov.sg/juronglakegardens/who-we-are/jurong-lake-gardens) to learn more about sustainability and smart technology at Jurong Lake Gardens.
