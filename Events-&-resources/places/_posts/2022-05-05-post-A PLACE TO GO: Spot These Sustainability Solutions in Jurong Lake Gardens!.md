@@ -21,9 +21,13 @@ The cleansed rainwater is collected in ponds and used to irrigate the gardens.
 
 The water is also circulated through phytoremediation ponds and biotopes. These features consist of cleansing cells, which contain aquatic plants in sand beds to filter out particles and clean the water over time.
 
+One example of water-sensitive design is Clusia Cove, a three-hectare water playground at Lakeside Garden. 
+
 ![](/images/Clusia%20Cove.jpg)
 
 *The interlocking biotope, water playground and ecopond at Clusia Cove at Lakeside Garden (Credit: NParks)*
+
+Families cooling off at this wet playground would be pleased to know that the water they are playing in is cleansed by natural treatment methods using a water recycling system.
 
 The next time you’re at Clusia Cove, observe how the water play area links the cleansing biotope, water playground and eco-pond together, forming a closed loop water circulation system. Its smart design reduces water usage by recycling the water, while ensuring that its clean and safe to play in!
 
