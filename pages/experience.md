@@ -32,7 +32,7 @@ New inspiring work campuses that seamlessly integrate with parks, cafes, restaur
 Jurong Lake District will be made up of neighbourhoods where amenities, green spaces and public transport nodes will be within 10-minutes reach.   
 
 ![](/images/July%202022%20Update/Street%20View.png)
-<span style="font-size:12px; font-style:italic;">Artist impression of a pedestrian friendly street connecting people to their daily amenities.<br>(Image by URA)
+<span style="font-size:12px; font-style:italic;">Artist's impression of a pedestrian friendly street connecting people to their daily amenities.<br>(Image by URA)
 </span>
 
 Lively campuses will house business and residential communities, where people meet and interact in generous open spaces and an attractive public realm. Throughout the district, retail, entertainment, healthcare, education, sports and fitness will all be within easy reach.
