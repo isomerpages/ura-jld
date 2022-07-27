@@ -74,6 +74,10 @@ More than 100 hectares of land in Jurong Lake District has been set aside for pa
 
 New buildings will achieve 100% landscape replacement, where greenery lost through development will be fully replaced by vertical greenery, sky terraces and landscaping. 
 
+![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
+<span style="font-size:12px; font-style:italic;"> Artist impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+</span>
+
 ![](/images/July%202022%20Update/Roof%20Terrace.png)
 <span style="font-size:12px; font-style:italic;">Artist's impression of developments with lush roofscapes offering amenities to support healthy lifestyles. <br>(Image by URA)
 </span>
@@ -84,18 +88,24 @@ Thermal comfort, wind flow and shade analyses will be conducted at the developme
 <span style="font-size:12px; font-style:italic;">Greenery and natural ventilation at the Westgate Mall courtyard create a pleasant environment for shoppers. <br>(Photography by Chee Boon Pin)
 </span>
 
-<h3 style="color:#124596; font-weight:bold;">Centralised infrastructure for sustainable outcomes</h3>
+<h3 style="color:#124596; font-weight:bold;">Towards net zero emissions and zero waste</h3>
 
 Embedded from the start, centralised district infrastructure will optimise the use of land and energy resources across Jurong Lake District.
+
+![](/images/July%202022%20Update/net%20zero%20building.png)
+<span style="font-size:12px; font-style:italic;">Artist's impression showing how building design and management can contribute towards achieving net zero emissions. <br>(Image by URA)
+</span>
+
+All new buildings will be required to minimally achieve Green Mark Platinum (Super Low Energy) certification and connect to the District Cooling System. 
+
+Common services tunnels will house District Cooling and District Pneumatic Waste Conveyance Systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the road to lay utilities. 
 
 ![Alt text for image on Isomer site](/images/jld_cwalkcrop.jpg)
 <span style="font-size:12px; font-style:italic;">Artist impression of the pleasant and seamless streetscape created by centralising and housing infrastructure underground. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
 </span>
 
-Common services tunnels will house district cooling and pneumatic waste conveyance systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the road to lay utilities. 
+<h3 style="color:#124596; font-weight:bold;">Advancing sustainability through partnership and innovation</h3>
 
-![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
-<span style="font-size:12px; font-style:italic;"> Artist impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
-</span>
+Sustainability alliances will be formed among existing stakeholders in the district to adopt and share best practices, and work together to deploy solutions that address commonly encountered issues. 
 
-Businesses can tap on these urban technologies to operate more efficiently and sustainably, and collectively demonstrate a greener way of life in an innovative district.
+Businesses can tap on urban technologies to operate more efficiently and sustainably, and collectively demonstrate a greener way of life in an innovative district.
