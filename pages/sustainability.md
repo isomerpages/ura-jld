@@ -30,21 +30,21 @@ The district also acts as a "living lab" and regulatory sandbox, providing oppor
 Jurong Lake District aspires to be a model sustainable district. 
 
 The six pillars encapsulate our ambitions for the district to achieve our net-zero emissions goal by 2050 or earlier. 
+![](/images/Sus%20x%206.png)
 
-![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
-<span style="font-size:12px; font-style:italic;"> Artist impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
-</span>
-
-Developments will meet higher environmental standards by incorporating green materials and solar panels into their designs, and by being minimally certified Green Mark Super Low Energy. 
-
-Biophilic design will create pleasant indoor environments for better health and well-being. Green leases will encourage higher ownership and accountability for sustainable behaviour between all users in a building. 
-
-Residents and workers can be part of a green community that grows its own gardens, fruits and vegetables in community plots, and aspires towards higher levels of reducing waste through sharing, reusing and recycling. 
-
-
-<h3 style="color:#124596; font-weight:bold;">Seamless, driverless, carbonless journeys</h3>
+<h3 style="color:#124596; font-weight:bold;">Pursuing sustainable transport </h3>
 
 Jurong Lake District has high ambitions for green mobility.
+
+By the 2030s, Jurong Lake District will be served by four MRT lines. At least 85% of all trips are targeted to be made by Walk-Cycle-Ride modes of transport by 2035. 
+
+Key roads will be designed as Transit Priority Corridors, with bus-only usage lane, wider footpaths and cycling paths. 
+
+Car parking provisions will also be lowered to reduce traffic and create a people-friendly environment. 
+
+The district will be designed to readily support autonomous vehicles for both passengers and goods. To encourage the electrification of private vehicles, EV charging points will be progressively deployed across the district.
+
+
 
 ![Alt text for image on Isomer site](/images/jld_jwalk_rev.jpg)
 <span style="font-size:12px; font-style:italic;">Artist impression of friendly streets planned to give priority to public transport and to make walking and cycling safe and attractive. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
@@ -70,5 +70,9 @@ Embedded from the start, centralised district infrastructure will optimise the u
 </span>
 
 Common services tunnels will house district cooling and pneumatic waste conveyance systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the road to lay utilities. 
+
+![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
+<span style="font-size:12px; font-style:italic;"> Artist impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+</span>
 
 Businesses can tap on these urban technologies to operate more efficiently and sustainably, and collectively demonstrate a greener way of life in an innovative district.
