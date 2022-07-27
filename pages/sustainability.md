@@ -14,7 +14,7 @@ permalink: /sustainability
 At Jurong Lake District, residents and businesses will collectively shape a sustainable future through shared goals, higher standards and ready technology.
 
 ![Alt text for image on Isomer site](/images/JLD_03_Central_park.jpg)
-<span style="font-size:12px; font-style:italic;">Artist impression of Central Park, an urban park with water features and lawn spaces against a backdrop of green buildings. <br> (Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+<span style="font-size:12px; font-style:italic;">Artist's impression of Central Park, an urban park with water features and lawn spaces against a backdrop of green buildings. <br> (Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
  </span>
 
 Identified as a model for urban sustainability under the Singapore Green Plan 2030, the district will support Singapore’s ambition to be a carbon services hub and a leading centre for green finance in Asia and globally.
@@ -76,7 +76,7 @@ More than 100 hectares of land in Jurong Lake District has been set aside for pa
 New buildings will achieve 100% landscape replacement, where greenery lost through development will be fully replaced by vertical greenery, sky terraces and landscaping. 
 
 ![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
-<span style="font-size:12px; font-style:italic;"> Artist impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+<span style="font-size:12px; font-style:italic;"> Artist's impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
 </span>
 
 ![](/images/July%202022%20Update/Roof%20Terrace.png)
@@ -102,7 +102,7 @@ All new buildings will be required to minimally achieve Green Mark Platinum (Sup
 Common services tunnels will house District Cooling and District Pneumatic Waste Conveyance Systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the road to lay utilities. 
 
 ![Alt text for image on Isomer site](/images/jld_cwalkcrop.jpg)
-<span style="font-size:12px; font-style:italic;">Artist impression of the pleasant and seamless streetscape created by centralising and housing infrastructure underground. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+<span style="font-size:12px; font-style:italic;">Artist's impression of the pleasant and seamless streetscape created by centralising and housing infrastructure underground. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
 </span>
 
 <h3 style="color:#124596; font-weight:bold;">Advancing sustainability through partnership and innovation</h3>
