@@ -30,7 +30,8 @@ The district also acts as a "living lab" and regulatory sandbox, providing oppor
 Jurong Lake District aspires to be a model sustainable district. 
 
 The six pillars encapsulate our ambitions for the district to achieve our net-zero emissions goal by 2050 or earlier. 
-![](/images/Sus%20x%206.png)
+
+![](/images/July%202022%20Update/6%20sust%20(2).jpg)
 
 ![](/images/July%202022%20Update/Sust%20Devt%20District.png)
 <span style="font-size:12px; font-style:italic;">Artist's impression showing how the sustainability aspirations for Jurong Lake District come together in a typical development. <br>(Image by URA)
