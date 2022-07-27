@@ -18,7 +18,7 @@ Look out for this smart, sleek driverless vehicle plying the paths the next time
 ![](/images/July%202022%20Update/AV.jpg)
 *Autonomous Vehicle on trial at Lakeside Garden (Credit: NParks)*
 
-This 11-seater autonomous vehicle (AV) is part of a people mover system trial at Lakeside Garden. Deployed by NParks in collaboration with ST Engineering Solutions and Willers Pte Ltd, the trial is to test the efficacy, sustainability, and safety of visitors riding driverless vehicles in the Garden. 
+This 11-seater autonomous vehicle (AV) is part of a people mover system trial at Lakeside Garden. Deployed by NParks in collaboration with ST Engineering Solutions and Willers Pte Ltd, the trial is to test the efficacy, sustainability and safety of visitors riding driverless vehicles in the Garden. 
 
 This is the first time that an AV is being tested in a public garden in the heartlands of Singapore. If successful, we could look forward to enhanced accessibility for elderly visitors and families with young children, so that they may enjoy the attractions at Jurong Lake Gardens with greater ease!
 
