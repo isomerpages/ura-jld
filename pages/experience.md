@@ -58,8 +58,8 @@ Water-sensitive urban design promotes climate resilience by channeling excess st
 
 Jurong Lake Gardens provides opportunities for birdwatching and nature walks among vast grasslands and restored wetlands.
 
-![](/images/Rasau%20walk%20pano.jpeg)
-<span style="font-size:12px; font-style:italic;">Rasau Walk at Jurong Lake Gardens is a boardwalk through restored wetlands. <br> (Image courtesy of NParks)
+![](/images/Grasslands%204.jpg)
+<span style="font-size:12px; font-style:italic;">Jurong Lake Gardens provides opportunities for birdwatching and nature walks in grasslands. <br> (Image courtesy of NParks)
 </span>
 
 In 2021, Lakeside Garden won an Urban Land Institute Asia Pacific Award for Excellence.
