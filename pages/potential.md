@@ -7,7 +7,7 @@ permalink: /potential
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Jurong Lake District presents an opportunity for companies to put down roots, create a brand-new campus and scale up easily.</h4>
 
 ![](/images/July%202022%20Update/Hero.jpg)
-<span style="font-size:12px; font-style:italic;">Artist's impression of Jurong Lake District – Singapore’s next largest business district and a world-class sustainability district. <br> (Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)</span>
+<span style="font-size:12px; font-style:italic;">Artist's impression of Jurong Lake District – Singapore’s next largest business district and a world-class sustainability district. <br> (Image by URA)</span>
 
 <h3 style="color:#124596; font-weight:bold;">Our next largest business district</h3>
 
