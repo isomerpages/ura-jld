@@ -18,9 +18,9 @@ Look out for this smart, sleek driverless vehicle plying the paths the next time
 ![](/images/AV.png)
 *Autonomous Vehicle on trial at Lakeside Garden (Credit: NParks)*
 
-This 11-seater autonomous vehicle (AV) is part of a people mover system trial at Lakeside Garden. Deployed by NParks in collaboration with ST Engineering Solutions and Willers Pte Ltd, the trial is to test the efficacy, sustainability, and safety of visitors riding driverless vehicles to experience the expanse of the Gardens more easily. 
+This 11-seater autonomous vehicle (AV) is part of a people mover system trial at Lakeside Garden. Deployed by NParks in collaboration with ST Engineering Solutions and Willers Pte Ltd, the trial is to test the efficacy, sustainability, and safety of visitors riding driverless vehicles in the Garden. 
 
-This is the first time that an AV is being tested in a public garden in the heartlands of Singapore. If successful, we could look forward to having more smart mobility options to help elderly visitors and families with young children enjoy more of the attractions at Jurong Lake Gardens more easily!
+This is the first time that an AV is being tested in a public garden in the heartlands of Singapore. If successful, we could look forward to enhanced accessibility for elderly visitors and families with young children, so that they may enjoy the attractions at Jurong Lake Gardens with greater ease!
 
 **Safety Robots on the Look Out**
 
@@ -30,7 +30,7 @@ NParks works with partners such as Ngee Ann Polytechnic, IMDA and Xjera Labs to 
 
 The aim of deploying robots is to reduce the reliance on security manpower and improve response time to security situations. 
 
-These robots are equipped with cameras and video analytics capabilities to detect and alert NParks staff to incidents such as smoking, fishing in non-designated zones and faulty facilities. 
+These robots are equipped with cameras and video analytics capabilities to detect and alert NParks staff to incidents such as drone flying, fishing in non-designated zones and faulty facilities. 
 
 The robots will also be on the lookout for visitor safety and comfort, by providing concierge services such as wayfinding directions to attractions and communicating with security staff in the event of an emergency. 
 
@@ -38,20 +38,6 @@ The robots will also be on the lookout for visitor safety and comfort, by provid
 
 ![](/images/Robot%202.jpg)
 *We're here to help! Autonomous security and surveillance robots within Lakeside Garden (Credit: NParks)*
-
-**Keeping Cool Outdoors**
-
-Who wouldn’t love to stay cool while exploring Jurong Lake Gardens in tropical weather?
-
-Panasonic and NParks are collaborating on an outdoor misting system that aims to lower the ambient temperature through evaporative cooling. 
-
-Compressed air is passed through high pressure water to dispense micro-mist droplets. Due to their small size, the droplets feel cool upon touch and don’t stick to skin. The effect on visitors is that they will always feel cool and dry in the surrounding air. 
-
-![](/images/Mist.jpg)
-
-*An outdoor mist system at the Lakeside Garden Entrance Pavilion keeps visitors cool. This system is temporarily not operational due to COVID (Credit: NParks)*
-
-This smart idea helps to make spending the day at Jurong Lake Gardens an enjoyable and comfortable experience for everyone!
 
 **Smooth Operations**
 
@@ -61,8 +47,7 @@ The staff at Jurong Lake Gardens can do just that with the help of an integrated
 
 The GMS consists of a central monitoring and control system, that integrates a suite of environmental and facility monitoring sensor systems.
 
-![](/images/system.png)
-*The Garden Management System allows staff to keep tabs on everything in Jurong Lake Gardens all in one place (Credit: NParks)*
+The Garden Management System allows staff to keep tabs on the functionality of smart sensors installed around the gardens and also the security of Jurong Lake Gardens all in one place. 
 
 This is the first time such a system is implemented in a park or garden. 
 
