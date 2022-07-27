@@ -16,7 +16,15 @@ Jurong Lake District will be the largest of all business districts outside of th
 ![](/images/July%202022%20Update/PANO_100_0315-Pano.jpg)
 <span style="font-size:12px; font-style:italic;">Jurong Lake District will offer space for people and businesses to grow, in a unique lake setting that blends the vibrancy and attractions of a CBD with greenery and water.</span>
 
-The new district will have more than 120 hectares of land available for development over the next 30 years. With more flexibility in zoning, land tenure and phasing compared to other districts, companies can experiment with new development concepts and innovative ways to integrate live, work and play.
+The area around Jurong East MRT station today comprises offices, retail and institution uses. By 2028, more offices and community uses, a new Jurong Region Line station and an integrated transport hub will be built next to Jurong East MRT station. 
+
+![](/images/(A1)%20JE%20ITH.jpg)
+<span style="font-size:12px; font-style:italic;">Located at the heart of Jurong East, the Integrated Transport Hub comprises civic and community institutions, retail amenities and an office tower on top of a bus interchange. (Image courtesy of LTA)</span>
+
+A new district 120-ha precinct will connect seamlessly to the existing commercial centre and existing MRT station via elevated pedestrian linkages and lushly planted streets. It will have a mix of offices, housing and amenities in a car-lite and park setting. With more flexibility in zoning, land tenure and phasing compared to other districts, companies can experiment with new development concepts and innovative ways to integrate live, work and play.
+
+![](/images/PBC.jpg)
+<span style="font-size:12px; font-style:italic;">Singapore's first business park development to be certified Green Mark Platinum (Super Low Energy) is located in Jurong Lake District (Image courtesy of Perennial Holdings Private Limited)</span>
 
 Jurong Lake District will be the focus of new development in the next two decades, with the government prioritising the sale of sites within the district.
 
