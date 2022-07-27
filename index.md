@@ -37,8 +37,9 @@ sections:
   - infopic:
       title: More than a CBD
       subtitle: Experience
-      description: Imagine working, living and playing in the district with familiar
-        plazas, intimate public spaces, lush lakefront greenery and wildlife.
+      description: Imagine working, living and playing in the district with convivial
+        plazas, intimate public spaces, lush lakefront greenery and native
+        fauna.
       button: EXPLORE JURONG LAKE DISTRICT
       alt: More than a CBD
       url: /experience
