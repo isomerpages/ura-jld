@@ -12,16 +12,17 @@ Amidst a fast-changing landscape, our commitment remains steadfast. Investors ca
 
 <h3 style="color:#124596; font-weight:bold;">Precinct plan</h3>
 
-Jurong Gateway is the current commercial core of Jurong Lake District, comprising mainly offices, retail and institution uses. By 2028, we can look forward to more offices and community uses, a new Jurong Region Line station and two new bus interchanges (Jurong East Integrated Transport Hub and Bus Interchange at Venture Drive) to further enhance bus connectivity. 
+The current commercial core comprises mainly offices, retail and institution uses. By 2028, we can look forward to more offices and community uses, a new Jurong Region Line station and two new bus interchanges (Jurong East Integrated Transport Hub and Bus Interchange at Venture Drive) to further enhance bus connectivity. 
 
 ![](/images/New%20Devts.png)
+<span style="font-size:12px; font-style:italic;">Upcoming developments in Jurong Lake District.<br>(Image by URA)
+</span>
 
-
-The commercial core will extend seamlessly into Lakeside East, which will have a balanced mix of offices, housing, and amenities in a car-lite and park setting. This 120-hectare precinct will be developed over the next 30 years and served by two new MRT stations. We will have the opportunity to introduce new development concepts and redesign ways to integrate live, work and play. 
+The commercial core will extend seamlessly into a new 120-hectare precinct, which will have a balanced mix of offices, housing, and amenities in a car-lite and park setting. This precinct will be developed over the next 30 years and served by two new MRT stations. We will have the opportunity to introduce new development concepts and redesign ways to integrate live, work and play. 
 
 International Business Park is Singapore’s pioneer business park supporting R&D and knowledge-based activities since the 1990s. In the coming years, the business park will be progressively rejuvenated with more mixed uses to support the needs of new economic sectors and complement the commercial core. The area around the upcoming Jurong Town Hall MRT station will also see more mixed uses to cater to the thriving tech community. 
 
-Lakeside West embraces Jurong Lake and Singapore’s third national garden, Jurong Lake Gardens - a collection of three unique gardens. A new science centre and tourist development will add to the attractions at Lakeside Garden, Chinese Garden and Japanese Garden. This will make Lakeside West a place for leisure and recreation and a destination for events and entertainment.
+Jurong Lake Gardens is Singapore’s third national garden and a collection of three unique gardens. A new Science Centre and tourist development will add to the attractions at Lakeside Garden, Chinese Garden and Japanese Garden. This will make Jurong Lake District a place for leisure and recreation and a destination for events and entertainment.
 
 
 <h3 style="color:#124596; font-weight:bold;">Business sectors in the district today</h3>
