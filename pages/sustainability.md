@@ -42,28 +42,47 @@ Jurong Lake District has high ambitions for green mobility.
 
 By the 2030s, Jurong Lake District will be served by four MRT lines. At least 85% of all trips are targeted to be made by Walk-Cycle-Ride modes of transport by 2035. 
 
+![](/images/July%202022%20Update/barney.jpg)
+<span style="font-size:12px; font-style:italic;">People can walk to their destinations comfortably along the J-Walk, an elevated weather-proof pedestrian network that links buildings, transit stations and public spaces throughout the district. <br>(Photography by Chee Boon Pin)
+</span>
+
+![](/images/July%202022%20Update/MRT%20station.jpg)
+<span style="font-size:12px; font-style:italic;">Walk-Cycle-Ride trips will make up at least 85% of all trips to and from Jurong Lake District. <br>(Photography by Chee Boon Pin)
+</span>
+
 Key roads will be designed as Transit Priority Corridors, with bus-only usage lane, wider footpaths and cycling paths. 
+
+![](/images/July%202022%20Update/Street%20View.png)
+<span style="font-size:12px; font-style:italic;">Artist's impression of comfortable walkable streets lined with amenities. <br>(Image by URA)
+</span>
 
 Car parking provisions will also be lowered to reduce traffic and create a people-friendly environment. 
 
 The district will be designed to readily support autonomous vehicles for both passengers and goods. To encourage the electrification of private vehicles, EV charging points will be progressively deployed across the district.
 
-
-
-![Alt text for image on Isomer site](/images/jld_jwalk_rev.jpg)
-<span style="font-size:12px; font-style:italic;">Artist impression of friendly streets planned to give priority to public transport and to make walking and cycling safe and attractive. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+![](/images/July%202022%20Update/AV.jpg)
+<span style="font-size:12px; font-style:italic;">Autonomous vehicles at Jurong Lake Gardens are an example of a trial to prepare for the wider future deployment of AVs in the district. <br>(Image courtesy of NParks)
 </span>
 
-Planned to be car-lite, at least 85% of all trips are targeted to be made by Walk-Cycle-Ride modes of transport by 2035. 
+<h3 style="color:#124596; font-weight:bold;">Enabling healthy living & building a city in nature</h3>
 
-New roads in the district will be planned with dedicated cycling paths to encourage people to cycle and use greener active mobility options. Some roads within the district will also be designed as Transit Priority Corridors that will be accessible only to buses, bicycles, and pedestrians. 
+More than 100 hectares of land in Jurong Lake District has been set aside for parks and green spaces. 
 
-People can walk to their destinations comfortably along the J-Walk, an elevated weather-proof pedestrian network that links buildings, transit stations and public spaces throughout the district. 
+![](/images/July%202022%20Update/Yoga.jpg)
+<span style="font-size:12px; font-style:italic;">Creating active communities through people-centric design at Jurong Lake District. <br>(Photography by Chee Boon Pin)
+</span>
 
-Jurong Lake District will be planned to readily support autonomous vehicles (AV) for both passengers and goods. New developments will have dedicated pick-up drop-off points that are well-sized, conveniently sited and designed to create a seamless and efficient transport experience. Electric vehicle (EV) charging points will be progressively deployed in all developments and HDB carparks in the district. 
+New buildings will achieve 100% landscape replacement, where greenery lost through development will be fully replaced by vertical greenery, sky terraces and landscaping. 
 
-New developments will also be designed to support emerging technologies such as the use of Autonomous Mobile Robots for last-mile deliveries. 
+![](/images/July%202022%20Update/Roof%20Terrace.png)
+<span style="font-size:12px; font-style:italic;">Artist's impression of developments with lush roofscapes offering amenities to support healthy lifestyles. <br>(Image by URA)
+</span>
 
+Thermal comfort, wind flow and shade analyses will be conducted at the development design phase to combat urban heat island effect, reduce energy consumed for cooling and create a comfortable environment for occupants. 
+
+![](/images/July%202022%20Update/Westgate.jpg)
+<span style="font-size:12px; font-style:italic;">Greenery and natural ventilation at the Westgate Mall courtyard create a pleasant environment for shoppers. <br>(Photography by Chee Boon Pin)
+</span>
 
 <h3 style="color:#124596; font-weight:bold;">Centralised infrastructure for sustainable outcomes</h3>
 
