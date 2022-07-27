@@ -43,6 +43,8 @@ As the district grows, an ecosystem of innovation, collaboration and synergy wit
 By 2040 to 2050, Jurong Lake District will have 100,000 new jobs and 20,000 new homes, adding to the 1 million residents already in the West Region. 
 
 ![](/images/July%202022%20Update/_1IV7288_EDIT.jpg)
+
+![](/images/July%202022%20Update/_1IV7288_EDIT.jpg)
 <span style="font-size:12px; font-style:italic;">Jurong Lake District is located alongside mature and established residential estates in the West Region.<br> (Photography by Darren Soh)</span>
 
 <h3 style="color:#124596; font-weight:bold;">Fast connections to major hubs</h3>
