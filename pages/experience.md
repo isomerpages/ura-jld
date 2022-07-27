@@ -4,7 +4,7 @@ permalink: /experience
 ---
 <h3 style="color:#124596; font-weight:bold;">More than a CBD</h3>
 
-<h4 style="color:#484848; font-weight:normal;margin-top: 0;">Imagine working, living and playing in the district with familiar plazas, intimate public spaces, lush lakefront greenery and wildlife.</h4>
+<h4 style="color:#484848; font-weight:normal;margin-top: 0;">Imagine working, living and playing in the district with convivial plazas, intimate public spaces, lush lakefront greenery and native fauna.</h4>
 
 ![Statistics](/images/jld_experience.jpg)
 <span style="font-size:12px; font-style:italic;">Artist impression of a continuous waterfront created around the lake with a variety of spaces for living, working and recreation.<br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
@@ -27,8 +27,8 @@ New inspiring work campuses that seamlessly integrate with parks, cafes, restaur
 
 Jurong Lake District will be made up of neighbourhoods where amenities, green spaces and public transport nodes will be within 10-minutes reach.   
 
-![Car-lite environment](/images/jld_carlite.jpg)
-<span style="font-size:12px; font-style:italic;">Artist impression of a pedestrian friendly street connecting people to their daily amenities.<br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+![](/images/July%202022%20Update/Street%20View.png)
+<span style="font-size:12px; font-style:italic;">Artist impression of a pedestrian friendly street connecting people to their daily amenities.<br>(Image by URA)
 </span>
 
 Lively campuses will house business and residential communities, where people meet and interact in generous open spaces and an attractive public realm. Throughout the district, retail, entertainment, healthcare, education, sports and fitness will all be within easy reach.
@@ -36,7 +36,7 @@ Lively campuses will house business and residential communities, where people me
 <h3 style="color:#124596; font-weight:bold;">A district of gardens and water</h3>
 
 <!--<img style="float: right; width:50%; padding:0px 20px 20px;" src="/images/jld_neramstreamscrop.jpg">-->
-Jurong Lake District will have more than 100 hectares of park and greenery, and a 70-hectare lake with 17 kilometres of active waterfront.
+Jurong Lake District will have more than 100 hectares of park and greenery, and a 70-hectare lake with more than 10 kilometres of active waterfront.
 
 ![Car-lite environment](/images/jld_neramstreams.jpg)
 <span style="font-size:12px; font-style:italic;">Neram Streams, a series of naturalised streams converted from a concrete drain, cleanses and channels stormwater runoff from the surrounding gardens into Jurong Lake. <br> (Image courtesy of NParks)
@@ -61,6 +61,6 @@ Unique attractions will surround Jurong Lake, adding to the variety of recreatio
 
 Ongoing till 2028, the redeveloped Chinese and Japanese Gardens, the New Science Centre and a future tourism development will be progressively completed and line the waterfront with exciting leisure and entertainment offerings.
 
-A recreation corridor with active public spaces will link Jurong Town Hall to the existing Science Centre.
+A recreation corridor with active public spaces will link Jurong Town Hall to the existing Science Centre building.
 
-These landmarks will take on new uses, continue to anchor the district and create a strong sense of place. They could become centres for co-working, innovation, museums, art studios, theatres, event grounds and playscapes with open spaces for the  community to enjoy.
+These distinctive landmark buildings will take on new uses, continue to anchor the district and create a strong sense of place. They could become centres for co-working, innovation, museums, art studios, theatres, event grounds and playscapes with open spaces for the  community to enjoy.
