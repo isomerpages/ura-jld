@@ -28,6 +28,9 @@ A new 120-hectare precinct will connect seamlessly to the existing commercial ce
 
 Jurong Lake District will be the focus of new development in the next two decades, with the government prioritising the sale of sites within the district.
 
+A new, broad planning approach will be adopted for Jurong Lake District where flexi-use sites will be interspersed with business park uses. This will allow companies to locate all
+their activities and teams in one place. Large sites will give developers the flexibility to create scalable campuses tailored to business needs at competitive rents.
+
 <h3 style="color:#124596; font-weight:bold;">A dynamic ecosystem to grow your business </h3>
 
 The West Region is also home to Singapore’s top two universities, providing a deep talent pool. Tuas Port, Jurong Innovation District and one-north are close by, making Jurong Lake District the ideal location to tap on academia for cutting-edge R&D, and to provide business and professional services to the maritime and high-value industries.
@@ -38,10 +41,6 @@ The West Region is also home to Singapore’s top two universities, providing a 
 As the district grows, an ecosystem of innovation, collaboration and synergy within the region will emerge. Jurong Lake District will be a base for companies with strong Environment, Social, Governance (ESG) ambitions to tap on the West Region for opportunities in sustainability businesses. 
 
 By 2040 to 2050, Jurong Lake District will have 100,000 new jobs and 20,000 new homes, adding to the 1 million residents already in the West Region. 
-
-A new, broad planning approach will be adopted for Jurong Lake District where flexi-use sites will be interspersed with business park uses. This will allow companies to locate all
-their activities and teams in one place. Large sites will give developers the flexibility to create scalable campuses tailored to business needs at competitive rents.
-
 
 <h3 style="color:#124596; font-weight:bold;">Fast connections to major hubs</h3>
 
