@@ -29,7 +29,7 @@ One example of water-sensitive design is [Clusia Cove](https://www.nparks.gov.sg
 
 Families cooling off at this wet playground would be pleased to know that the water they are playing in is cleansed by natural treatment methods using a water recycling system.
 
-The next time you’re at Clusia Cove, observe how the water play area links the cleansing biotope, water playground and eco-pond together, forming a closed loop water circulation system. Its smart design reduces water usage by recycling the water, while ensuring that its clean and safe to play in!
+The water in Clusia Cove is in a closed loop circulation that links the cleansing biotope, water playground and eco-pond. Its smart design reduces water usage by recycling the water, while ensuring that its clean and safe to play in!
 
 **Floors from Recycled Shoes**
 
@@ -39,10 +39,10 @@ Within the [Butterfly Maze](https://www.nparks.gov.sg/juronglakegardens/explore-
 
 Using an environmentally friendly water-based binder, these granules are bound with natural cork to create a safe and aesthetically natural landscape.
 
-Feel the gentle bounce of the ground the next time you slide at the Butterfly Maze Garden!
+Feel the gentle bounce of the ground the next time you slide at the Butterfly Maze!
 
 ![](/images/Slide.jpg)
-*Rubber granules recycled from sports shoes lend a soft landing at the Butterfly Maze Garden (Credit: NParks)*
+*Rubber granules recycled from sports shoes lend a soft landing at the Butterfly Maze (Credit: NParks)*
 
 This green project is initiated and sponsored by the Landscape Industry Association of Singapore and Dow. 
 
@@ -63,6 +63,6 @@ Look out for the new Multi-Purpose Hall when the redeveloped Japanese Garden ope
 Observe how the wooden structures span large distances without the need for supporting columns. The unique capability and strength of GLULAM (a type of MET) helps to save space and reduce material use, allowing for a spacious, enjoyable, and environmentally friendly experience at Jurong Lake Gardens!
 
 ![](/images/MET%20hall.png)
-*Made of MET, the Multi-Purpose Hall at Japanese Garden will offer a comfortable and environmentally friendly experience for visitors (Credit: NParks)*
+*Visitors will be able to observe the beauty and functionality of MET, which is used to construct the Multi-Purpose Hall at the upcoming Japanese Garden (Credit: NParks)*
 
 *Click [here](https://www.nparks.gov.sg/juronglakegardens/who-we-are/jurong-lake-gardens) to learn more about sustainability and smart technology at Jurong Lake Gardens*
