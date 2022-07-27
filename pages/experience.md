@@ -20,7 +20,7 @@ Jurong Lake District is ideal for the next generation of businesses and talent t
 
 At Jurong Gateway, residences at J-Gateway and offices at JEM, Westgate and Vision Exchange connect seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.
 
-![](/images/F&B.png)
+![](/images/July%202022%20Update/Yi%20Lin.jpg)
 <span style="font-size:12px; font-style:italic;">A wide variety of retail and food & beverage options are available at Jurong Lake District.<br>(Photography by Chee Boon Pin)
 </span>
 
