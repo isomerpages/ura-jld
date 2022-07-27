@@ -10,7 +10,7 @@ notification: We are calling for proposals for an integrated tourism development
 sections:
   - hero:
       title: A place to grow
-      background: /images/jld_headerhero.jpg
+      background: /images/July 2022 Update/Hero.jpg
       url: /contact-us/
       key_highlights:
         - title: Grow seamlessly & easily
@@ -65,4 +65,3 @@ sections:
       title: Events & resources
       button: DISCOVER JURONG LAKE DISTRICT
 ---
-
