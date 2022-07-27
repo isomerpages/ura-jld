@@ -21,7 +21,7 @@ The area around Jurong East MRT station today comprises offices, retail and inst
 ![](/images/(A1)%20JE%20ITH.jpg)
 <span style="font-size:12px; font-style:italic;">Located at the heart of Jurong East, the Integrated Transport Hub comprises civic and community institutions, retail amenities and an office tower on top of a bus interchange. (Image courtesy of LTA)</span>
 
-A new district 120-ha precinct will connect seamlessly to the existing commercial centre and existing MRT station via elevated pedestrian linkages and lushly planted streets. It will have a mix of offices, housing and amenities in a car-lite and park setting. With more flexibility in zoning, land tenure and phasing compared to other districts, companies can experiment with new development concepts and innovative ways to integrate live, work and play.
+A new 120-ha precinct will connect seamlessly to the existing commercial centre and existing MRT station via elevated pedestrian linkages and lushly planted streets. It will have a mix of offices, housing and amenities in a car-lite and park setting. With more flexibility in zoning, land tenure and phasing compared to other districts, companies can experiment with new development concepts and innovative ways to integrate live, work and play.
 
 ![](/images/PBC.jpg)
 <span style="font-size:12px; font-style:italic;">Singapore's first business park development to be certified Green Mark Platinum (Super Low Energy) is located in Jurong Lake District (Image courtesy of Perennial Holdings Private Limited)</span>
