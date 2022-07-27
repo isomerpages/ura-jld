@@ -37,6 +37,10 @@ Jurong Lake District will be made up of neighbourhoods where amenities, green sp
 
 Lively campuses will house business and residential communities, where people meet and interact in generous open spaces and an attractive public realm. Throughout the district, retail, entertainment, healthcare, education, sports and fitness will all be within easy reach.
 
+![](/images/Picture2.jpg)
+<span style="font-size:12px; font-style:italic;">Opportunities for sport, exercise and recreation will be within easy reach.<br>(Photography by Chee Boon Pin)
+</span>
+
 <h3 style="color:#124596; font-weight:bold;">A district of gardens and water</h3>
 
 <!--<img style="float: right; width:50%; padding:0px 20px 20px;" src="/images/jld_neramstreamscrop.jpg">-->
