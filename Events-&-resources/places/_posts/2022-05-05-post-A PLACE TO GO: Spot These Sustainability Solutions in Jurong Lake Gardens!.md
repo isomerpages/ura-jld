@@ -23,7 +23,7 @@ The water is also circulated through phytoremediation ponds and biotopes. These 
 
 One example of water-sensitive design is [Clusia Cove](https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/clusia-cove), a three-hectare water playground at Lakeside Garden. 
 
-![](/images/Clusia%20Cove.jpg)
+![](/images/July%202022%20Update/clusia.jpg)
 
 *The interlocking biotope, water playground and ecopond at Clusia Cove at Lakeside Garden (Credit: NParks)*
 
@@ -62,7 +62,7 @@ Look out for the new Multi-Purpose Hall when the redeveloped Japanese Garden ope
 
 Observe how the wooden structures span large distances without the need for supporting columns. The unique capability and strength of GLULAM (a type of MET) helps to save space and reduce material use, allowing for a spacious, enjoyable, and environmentally friendly experience at Jurong Lake Gardens!
 
-![](/images/MET%20hall.png)
+![](/images/July%202022%20Update/met.jpg)
 *Visitors will be able to observe the beauty and functionality of MET, which is used to construct the Multi-Purpose Hall at the upcoming Japanese Garden (Credit: NParks)*
 
 *Click [here](https://www.nparks.gov.sg/juronglakegardens/who-we-are/jurong-lake-gardens) to learn more about sustainability and smart technology at Jurong Lake Gardens*
