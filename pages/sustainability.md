@@ -23,11 +23,13 @@ Envisaged to attract a new generation of firms from the technology, e-commerce, 
 
 Government agencies leading Singapore's sustainability, environmental, development and transport strategies are planning their move to Jurong Lake District in phases, attesting to the government's commitment to making the district a demonstration for sustainable growth. 
 
-In this government-supported Built Environment Living Lab, companies can conveniently co-locate R&amp;D and commercial trials in one place to facilitate faster lab-to-market prototyping and scaling. The district receives interest and supports private-sector pilots in innovations such as ecologically-friendly leisure facilities, structures made from sustainable construction materials, horticulture-waste-to-energy plants and flight trials for unmanned aircraft systems.  At Jurong Lake Gardens, smart solutions in AVs, security and surveillance robots, outdoor mist systems, new methods of integrating photovoltaic cells into buildings, and new solid-state transformer technology are being trialled. 
+The district also acts as a "living lab" and regulatory sandbox, providing opportunities to pilot new urban solutions and refine sustainability-centric initiatives. These include pilots in ecologically-friendly leisure facilities, structures made from sustainable construction materials, horticulture-waste-to-energy plants and flight trials for unmanned aircraft systems.  
 
-<h3 style="color:#124596; font-weight:bold;">Green buildings and communities </h3>
+<h3 style="color:#124596; font-weight:bold;">Building a model sustainable district </h3>
 
-Buildings in Jurong Lake District will be environmentally-friendly, healthy and creatively designed to replace 100% of their footprint in landscaping and greenery.
+Jurong Lake District aspires to be a model sustainable district. 
+
+The six pillars encapsulate our ambitions for the district to achieve our net-zero emissions goal by 2050 or earlier. 
 
 ![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
 <span style="font-size:12px; font-style:italic;"> Artist impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
