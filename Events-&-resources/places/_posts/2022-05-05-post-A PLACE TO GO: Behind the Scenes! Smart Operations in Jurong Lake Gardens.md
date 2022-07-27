@@ -35,7 +35,7 @@ These robots are equipped with cameras and video analytics capabilities to detec
 The robots will also be on the lookout for visitor safety and comfort, by providing concierge services such as wayfinding directions to attractions and communicating with security staff in the event of an emergency. 
 
 ![](/images/July%202022%20Update/robot.jpg)
-*I'm here to help! Autonomous security and surveillance robot within Lakeside Garden (Credit: NParks)*
+*I'm here to help! An autonomous security and surveillance robot within Lakeside Garden (Credit: NParks)*
 
 **Smooth Operations**
 
