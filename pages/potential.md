@@ -14,7 +14,7 @@ permalink: /potential
 Jurong Lake District will be the largest of all business districts outside of the central area.
 
 ![](/images/July%202022%20Update/PANO_100_0315-Pano.jpg)
-<span style="font-size:12px; font-style:italic;">Jurong Lake District will offer space for people and businesses to grow, in a unique lake setting that blends the vibrancy and attractions of a CBD with greenery and water.</span>
+<span style="font-size:12px; font-style:italic;">Jurong Lake District will offer space for people and businesses to grow, in a unique lake setting that blends the vibrancy and attractions of a CBD with greenery and water. <br> (Photography by Darren Soh)</span>
 
 The area around Jurong East MRT station today comprises offices, retail and institution uses. By 2028, more offices and community uses, a new Jurong Region Line station and an integrated transport hub will be built next to Jurong East MRT station. 
 
