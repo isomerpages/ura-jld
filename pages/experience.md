@@ -7,7 +7,7 @@ permalink: /experience
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Imagine working, living and playing in the district with convivial plazas, intimate public spaces, lush lakefront greenery and native fauna.</h4>
 
 ![Statistics](/images/jld_experience.jpg)
-<span style="font-size:12px; font-style:italic;">Artist impression of a continuous waterfront created around the lake with a variety of spaces for living, working and recreation.<br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+<span style="font-size:12px; font-style:italic;">Artist's impression of a continuous waterfront created around the lake with a variety of spaces for living, working and recreation.<br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
 </span>
 
 <h3 style="color:#124596; font-weight:bold;">A place to redefine live, work, play and learn</h3>
@@ -15,10 +15,10 @@ permalink: /experience
 Jurong Lake District is ideal for the next generation of businesses and talent to redesign the way we live, work, play and learn.
 
 ![Nightlife in JLD](/images/jld_nightlife.jpg)
-<span style="font-size:12px; font-style:italic;">Artist impression of vibrant streets and spaces that will provide a variety of retail, F&B and entertainment options.<br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+<span style="font-size:12px; font-style:italic;">Artist's impression of vibrant streets and spaces that will provide a variety of retail, F&B and entertainment options.<br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
 </span>
 
-At Jurong Gateway, residences at J-Gateway and offices at JEM, Westgate and Vision Exchange connect seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.
+Around Jurong East MRT station, residences at J-Gateway and offices at Jem, Westgate and Vision Exchange connect seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.
 
 ![](/images/July%202022%20Update/Yi%20Lin.jpg)
 <span style="font-size:12px; font-style:italic;">A wide variety of retail and food & beverage options are available at Jurong Lake District.<br>(Photography by Chee Boon Pin)
