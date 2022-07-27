@@ -24,7 +24,7 @@ The area around Jurong East MRT station today comprises offices, retail and inst
 A new 120-hectare precinct will connect seamlessly to the existing commercial centre and existing MRT station via elevated pedestrian linkages and lushly planted streets. It will have a mix of offices, housing and amenities in a car-lite and park setting. With more flexibility in zoning, land tenure and phasing compared to other districts, companies can experiment with new development concepts and innovative ways to integrate live, work and play.
 
 ![](/images/PBC.jpg)
-<span style="font-size:12px; font-style:italic;">Singapore's first business park development to be certified Green Mark Platinum (Super Low Energy) is located in Jurong Lake District<br>  (Image courtesy of Perennial Holdings Private Limited)</span>
+<span style="font-size:12px; font-style:italic;">Singapore's first business park development to be certified Green Mark Platinum (Super Low Energy) is located in Jurong Lake District<br> (Image courtesy of Perennial Holdings Private Limited)</span>
 
 Jurong Lake District will be the focus of new development in the next two decades, with the government prioritising the sale of sites within the district.
 
@@ -41,6 +41,8 @@ The West Region is also home to Singapore’s top two universities, providing a 
 As the district grows, an ecosystem of innovation, collaboration and synergy within the region will emerge. Jurong Lake District will be a base for companies with strong Environment, Social, Governance (ESG) ambitions to tap on the West Region for opportunities in sustainability businesses. 
 
 By 2040 to 2050, Jurong Lake District will have 100,000 new jobs and 20,000 new homes, adding to the 1 million residents already in the West Region. 
+
+![](/images/July%202022%20Update/_1IV7288_EDIT.jpg) <span style="font-size:12px; font-style:italic;">Jurong Lake District is located alongside mature and established residential estates in the West Region.<br> (Photography by Darren Soh)</span>
 
 <h3 style="color:#124596; font-weight:bold;">Fast connections to major hubs</h3>
 
