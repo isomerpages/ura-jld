@@ -13,7 +13,7 @@ permalink: /potential
 
 Jurong Lake District will be the largest of all business districts outside of the central area.
 
-![Drone Shot of JLD](/images/jld_droneover.jpg)
+![](/images/July%202022%20Update/PANO_100_0315-Pano.jpg)
 <span style="font-size:12px; font-style:italic;">Jurong Lake District will offer space for people and businesses to grow, in a unique lake setting that blends the vibrancy and attractions of a CBD with greenery and water.</span>
 
 The new district will have more than 120 hectares of land available for development over the next 30 years. With more flexibility in zoning, land tenure and phasing compared to other districts, companies can experiment with new development concepts and innovative ways to integrate live, work and play.
@@ -22,7 +22,7 @@ Jurong Lake District will be the focus of new development in the next two decade
 
 <h3 style="color:#124596; font-weight:bold;">A dynamic ecosystem to grow your business </h3>
 
-The West Region is also home to Singapore’s top two universities, providing a deep talent pool. Tuas Port, Jurong Innovation District and one-north are close by, making Jurong Lake District the ideal location to tap on academia, port and maritime industries.
+The West Region is also home to Singapore’s top two universities, providing a deep talent pool. Tuas Port, Jurong Innovation District and one-north are close by, making Jurong Lake District the ideal location to tap on academia, port and high-value industries.
 
 ![Overview map of JLD](/images/jld_overviewmapD.png)
 <span style="font-size:12px; font-style:italic;"></span>
