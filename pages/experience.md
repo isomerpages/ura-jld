@@ -46,17 +46,21 @@ Lively campuses will house business and residential communities, where people me
 <!--<img style="float: right; width:50%; padding:0px 20px 20px;" src="/images/jld_neramstreamscrop.jpg">-->
 Jurong Lake District will have more than 100 hectares of park and greenery, and a 70-hectare lake with more than 10 kilometres of active waterfront.
 
-![Car-lite environment](/images/jld_neramstreams.jpg)
-<span style="font-size:12px; font-style:italic;">Neram Streams, a series of naturalised streams converted from a concrete drain, cleanses and channels stormwater runoff from the surrounding gardens into Jurong Lake. <br> (Image courtesy of NParks)
-</span>
-
 Throughout the district, streets are lined with canopy trees, forming green corridors that provide shade and act as nature ways for wildlife.
 
 A central green spine will link every development to the edge of Jurong Lake, drawing in parks and forests to cool the urban spaces.
 
 Water-sensitive urban design promotes climate resilience by channeling excess stormwater from urban spaces into the surrounding Jurong Lake.
 
+![Car-lite environment](/images/jld_neramstreams.jpg)
+<span style="font-size:12px; font-style:italic;">Neram Streams, a series of naturalised streams converted from a concrete drain, cleanses and channels stormwater runoff from the surrounding gardens into Jurong Lake. <br> (Image courtesy of NParks)
+</span>
+
 Jurong Lake Gardens provides opportunities for birdwatching and nature walks among vast grasslands and restored wetlands.
+
+![](/images/Rasau%20walk%20pano.jpeg)
+<span style="font-size:12px; font-style:italic;">Rasau Walk at Jurong Lake Gardens is a boardwalk through restored wetlands. <br> (Image courtesy of NParks)
+</span>
 
 In 2021, Lakeside Garden won an Urban Land Institute Asia Pacific Award for Excellence.
 
@@ -68,6 +72,9 @@ Unique attractions will surround Jurong Lake, adding to the variety of recreatio
 <span style="font-size:12px; font-style:italic;"> Artist impression of the new event lawn at Chinese Garden with views of the Pagoda and Jurong Lake. <br> (Image courtesy of NParks)</span>
 
 Ongoing till 2028, the redeveloped Chinese and Japanese Gardens, the New Science Centre and a future tourism development will be progressively completed and line the waterfront with exciting leisure and entertainment offerings.
+
+![](/images/NSC%203.png)
+<span style="font-size:12px; font-style:italic;"> The New Science Centre will feature exhibits where visitors can learn how technology supports sustainability efforts in Jurong Lake District and in Singapore. <br> (Image courtesy of MOE / SCB, for illustrative purposes only)</span>
 
 A recreation corridor with active public spaces will link Jurong Town Hall to the existing Science Centre building.
 
