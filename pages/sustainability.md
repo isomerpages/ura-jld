@@ -79,7 +79,7 @@ New buildings will achieve 100% landscape replacement, where greenery lost throu
 </span>
 
 ![](/images/July%202022%20Update/Roof%20Terrace.png)
-<span style="font-size:12px; font-style:italic;">Artist's impression of developments with lush roofscapes offering amenities to support healthy lifestyles. <br>(Image by URA)
+<span style="font-size:12px; font-style:italic;">Artist's impression of developments with lush roofscapes offering amenities to support healthy lifestyles. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker and URA)
 </span>
 
 Thermal comfort, wind flow and shade analyses will be conducted at the development design phase to combat urban heat island effect, reduce energy consumed for cooling and create a comfortable environment for occupants. 
