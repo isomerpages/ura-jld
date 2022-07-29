@@ -23,7 +23,7 @@ Envisaged to attract a new generation of firms from the technology, e-commerce, 
 
 Government agencies leading Singapore's sustainability, environmental, development and transport strategies are planning their move to Jurong Lake District in phases, attesting to the government's commitment to making the district a demonstration for sustainable growth. 
 
-The district also acts as a "living lab" and regulatory sandbox, providing opportunities to pilot new urban solutions and refine sustainability-centric initiatives. The district has received interest to pilot proposals such as ecologically-friendly leisure facilities, structures made from sustainable construction materials, horticulture-waste-to-energy plants and flight trials for unmanned aircraft systems.  
+The district also acts as a "living lab" and regulatory sandbox, providing opportunities to pilot new urban solutions and refine sustainability-centric initiatives. The district has received interest to pilot proposals such as autonomous vehicle trials, ecologically-friendly leisure facilities and structures made from sustainable construction materials.  
 
 <h3 style="color:#124596; font-weight:bold;">Building a model sustainable district </h3>
 
