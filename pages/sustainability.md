@@ -33,7 +33,7 @@ The six pillars encapsulate our ambitions for the district to achieve our net-ze
 
 ![](/images/July%202022%20Update/6%20sust%20(2).jpg)
 
-![](/images/July%202022%20Update/Sust%20Devt%20District.png)
+![](/images/July%202022%20Update/Image%20C%20-%20Sustainable%20District%20Model%20Infographic.jpg)
 <span style="font-size:12px; font-style:italic;">Artist's impression showing how the sustainability aspirations for Jurong Lake District come together in a typical development. <br>(Image by URA)
 </span>
 
@@ -93,7 +93,7 @@ Thermal comfort, wind flow and shade analyses will be conducted at the developme
 
 Embedded from the start, centralised district infrastructure will optimise the use of land and energy resources across Jurong Lake District.
 
-![](/images/July%202022%20Update/net%20zero%20building.png)
+![](/images/July%202022%20Update/Image%20C'%20-%20Net%20Zero%20Emissions%20Graphic.jpg)
 <span style="font-size:12px; font-style:italic;">Artist's impression showing how building design and management can contribute towards achieving net zero emissions. <br>(Image by URA)
 </span>
 
