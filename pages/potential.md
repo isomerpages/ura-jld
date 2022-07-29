@@ -51,4 +51,4 @@ Jurong Lake District will have excellent connectivity via two new train lines, J
 
 <img src="/images/Travel_Times.png" style="width:75%;">
 
-Jurong Region Line will link the district to academic expertise, R&D and skilled talent at Nanyang Technological University, Jurong Innovation District and Jurong Industrial Estate, where many high value-add industries are located. The Cross Island Line will serve e
+Jurong Region Line will link the district to academic expertise, R&D and skilled talent at Nanyang Technological University, Jurong Innovation District and Jurong Industrial Estate, where many high-value industries are located. The Cross Island Line will serve existing and future developments in the eastern, western and north-eastern corridors and connect Jurong Lake District to other major hubs such as Punggol Digital District and Changi Airport. 
