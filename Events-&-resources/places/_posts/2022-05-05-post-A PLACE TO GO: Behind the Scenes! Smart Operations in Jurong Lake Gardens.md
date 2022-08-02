@@ -37,6 +37,9 @@ The robots will also be on the lookout for visitor safety and comfort, by provid
 ![](/images/July%202022%20Update/robot.jpg)
 *I'm here to help! An autonomous security and surveillance robot within Lakeside Garden (Credit: NParks)*
 
+![](/images/July%202022%20Update/Ngee%20Ann%20Polytechnic%20robot.jpg)
+*A robot developed by Ngee Ann Polytechnic (Credit: NParks)*
+
 **Smooth Operations**
 
 How do you keep sight of 90 hectares of gardens 24 hours a day, 7 days a week? 
