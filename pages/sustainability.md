@@ -14,7 +14,7 @@ permalink: /sustainability
 At Jurong Lake District, residents and businesses will collectively shape a sustainable future through shared goals, higher standards and ready technology.
 
 ![Alt text for image on Isomer site](/images/JLD_03_Central_park.jpg)
-<span style="font-size:12px; font-style:italic;">Artist impression of Central Park, an urban park with water features and lawn spaces against a backdrop of green buildings. <br> (Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+<span style="font-size:12px; font-style:italic;">Artist's impression of Central Park, an urban park with water features and lawn spaces against a backdrop of green buildings. <br> (Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
  </span>
 
 Identified as a model for urban sustainability under the Singapore Green Plan 2030, the district will support Singapore’s ambition to be a carbon services hub and a leading centre for green finance in Asia and globally.
@@ -23,50 +23,90 @@ Envisaged to attract a new generation of firms from the technology, e-commerce, 
 
 Government agencies leading Singapore's sustainability, environmental, development and transport strategies are planning their move to Jurong Lake District in phases, attesting to the government's commitment to making the district a demonstration for sustainable growth. 
 
-In this government-supported Built Environment Living Lab, companies can conveniently co-locate R&amp;D and commercial trials in one place to facilitate faster lab-to-market prototyping and scaling. The district receives interest and supports private-sector pilots in innovations such as ecologically-friendly leisure facilities, structures made from sustainable construction materials, horticulture-waste-to-energy plants and flight trials for unmanned aircraft systems.  
+The district also acts as a "living lab" and regulatory sandbox, providing opportunities to pilot new urban solutions and refine sustainability-centric initiatives. The district has received interest to pilot proposals such as autonomous vehicle trials, ecologically-friendly leisure facilities and structures made from sustainable construction materials.  
 
-<h3 style="color:#124596; font-weight:bold;">Green buildings and communities </h3>
+<h3 style="color:#124596; font-weight:bold;">Building a model sustainable district </h3>
 
-Buildings in Jurong Lake District will be environmentally-friendly, healthy and creatively designed to replace 100% of their footprint in landscaping and greenery.
+Jurong Lake District aspires to be a model sustainable district. 
 
-![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
-<span style="font-size:12px; font-style:italic;"> Artist impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+The six pillars encapsulate our ambitions for the district to achieve our net-zero emissions goal by 2050 or earlier. 
+
+![](/images/July%202022%20Update/6%20sust%20(2).jpg)
+
+![](/images/July%202022%20Update/Image%20C%20-%20Sustainable%20District%20Model%20Infographic.jpg)
+<span style="font-size:12px; font-style:italic;">Artist's impression showing how the sustainability aspirations for Jurong Lake District come together in a typical development. <br>(Image by URA)
 </span>
 
-Developments will meet higher environmental standards by incorporating green materials and solar panels into their designs, and by being minimally certified Green Mark Super Low Energy. 
-
-Biophilic design will create pleasant indoor environments for better health and well-being. Green leases will encourage higher ownership and accountability for sustainable behaviour between all users in a building. 
-
-Residents and workers can be part of a green community that grows its own gardens, fruits and vegetables in community plots, and aspires towards higher levels of reducing waste through sharing, reusing and recycling. 
-
-
-<h3 style="color:#124596; font-weight:bold;">Seamless, driverless, carbonless journeys</h3>
+<h3 style="color:#124596; font-weight:bold;">Pursuing sustainable transport </h3>
 
 Jurong Lake District has high ambitions for green mobility.
 
-![Alt text for image on Isomer site](/images/jld_jwalk_rev.jpg)
-<span style="font-size:12px; font-style:italic;">Artist impression of friendly streets planned to give priority to public transport and to make walking and cycling safe and attractive. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+By the 2030s, Jurong Lake District will be served by four MRT lines. At least 85% of all trips are targeted to be made by Walk-Cycle-Ride modes of transport by 2035. 
+
+![](/images/July%202022%20Update/barney.jpg)
+<span style="font-size:12px; font-style:italic;">People can walk to their destinations comfortably along the J-Walk, an elevated weather-proof pedestrian network that links buildings, transit stations and public spaces throughout the district. <br>(Photography by Chee Boon Pin)
 </span>
 
-Planned to be car-lite, at least 85% of all trips are targeted to be made by Walk-Cycle-Ride modes of transport by 2035. 
+![](/images/July%202022%20Update/MRT%20station.jpg)
+<span style="font-size:12px; font-style:italic;">Walk-Cycle-Ride trips will make up at least 85% of all trips to and from Jurong Lake District. <br>(Photography by Chee Boon Pin)
+</span>
 
-New roads in the district will be planned with dedicated cycling paths to encourage people to cycle and use greener active mobility options. Some roads within the district will also be designed as Transit Priority Corridors that will be accessible only to buses, bicycles, and pedestrians. 
+Key roads will be designed as Transit Priority Corridors, with bus-only usage lane, wider footpaths and cycling paths. 
 
-People can walk to their destinations comfortably along the J-Walk, an elevated weather-proof pedestrian network that links buildings, transit stations and public spaces throughout the district. 
+![](/images/July%202022%20Update/Street%20View.png)
+<span style="font-size:12px; font-style:italic;">Artist's impression of comfortable walkable streets lined with amenities. <br>(Image by URA)
+</span>
 
-Jurong Lake District will be planned to readily support autonomous vehicles (AV) for both passengers and goods. New developments will have dedicated pick-up drop-off points that are well-sized, conveniently sited and designed to create a seamless and efficient transport experience. Electric vehicle (EV) charging points will be progressively deployed in all developments and HDB carparks in the district. 
+Car parking provisions will also be lowered to reduce traffic and create a people-friendly environment. 
 
-New developments will also be designed to support emerging technologies such as the use of Autonomous Mobile Robots for last-mile deliveries. 
+The district will be designed to readily support autonomous vehicles for both passengers and goods. To encourage the electrification of private vehicles, EV charging points will be progressively deployed across the district.
 
+![](/images/July%202022%20Update/AV.jpg)
+<span style="font-size:12px; font-style:italic;">Autonomous vehicles at Jurong Lake Gardens are an example of a trial to prepare for the wider future deployment of AVs in the district. <br>(Image courtesy of NParks)
+</span>
 
-<h3 style="color:#124596; font-weight:bold;">Centralised infrastructure for sustainable outcomes</h3>
+<h3 style="color:#124596; font-weight:bold;">Enabling healthy living & building a city in nature</h3>
+
+More than 100 hectares of land in Jurong Lake District has been set aside for parks and green spaces. 
+
+![](/images/July%202022%20Update/Yoga.jpg)
+<span style="font-size:12px; font-style:italic;">Creating active communities through people-centric design at Jurong Lake District. <br>(Photography by Chee Boon Pin)
+</span>
+
+New buildings will achieve 100% landscape replacement, where greenery lost through development will be fully replaced by vertical greenery, sky terraces and landscaping. 
+
+![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
+<span style="font-size:12px; font-style:italic;"> Artist's impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+</span>
+
+![](/images/July%202022%20Update/Roof%20Terrace.png)
+<span style="font-size:12px; font-style:italic;">Artist's impression of developments with lush roofscapes offering amenities to support healthy lifestyles. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker and URA)
+</span>
+
+Thermal comfort, wind flow and shade analyses will be conducted at the development design phase to combat urban heat island effect, reduce energy consumed for cooling and create a comfortable environment for occupants. 
+
+![](/images/July%202022%20Update/Westgate.jpg)
+<span style="font-size:12px; font-style:italic;">Greenery and natural ventilation at the Westgate Mall courtyard create a pleasant environment for shoppers. <br>(Photography by Chee Boon Pin)
+</span>
+
+<h3 style="color:#124596; font-weight:bold;">Towards net zero emissions and zero waste</h3>
 
 Embedded from the start, centralised district infrastructure will optimise the use of land and energy resources across Jurong Lake District.
 
-![Alt text for image on Isomer site](/images/jld_cwalkcrop.jpg)
-<span style="font-size:12px; font-style:italic;">Artist impression of the pleasant and seamless streetscape created by centralising and housing infrastructure underground. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+![](/images/July%202022%20Update/Image%20C'%20-%20Net%20Zero%20Emissions%20Graphic.jpg)
+<span style="font-size:12px; font-style:italic;">Artist's impression showing how building design and management can contribute towards achieving net zero emissions. <br>(Image by URA)
 </span>
 
-Common services tunnels will house district cooling and pneumatic waste conveyance systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the road to lay utilities. 
+All new buildings will be required to minimally achieve Green Mark Platinum (Super Low Energy) certification and connect to the District Cooling System. 
 
-Businesses can tap on these urban technologies to operate more efficiently and sustainably, and collectively demonstrate a greener way of life in an innovative district.
+Common services tunnels will house District Cooling and District Pneumatic Waste Conveyance Systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the road to lay utilities. 
+
+![Alt text for image on Isomer site](/images/jld_cwalkcrop.jpg)
+<span style="font-size:12px; font-style:italic;">Artist's impression of the pleasant and seamless streetscape created by centralising and housing infrastructure underground. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+</span>
+
+<h3 style="color:#124596; font-weight:bold;">Advancing sustainability through partnership and innovation</h3>
+
+Sustainability alliances will be formed among existing stakeholders in the district to adopt and share best practices, and work together to deploy solutions that address commonly encountered issues. 
+
+Businesses can tap on urban technologies to operate more efficiently and sustainably, and collectively demonstrate a greener way of life in an innovative district.

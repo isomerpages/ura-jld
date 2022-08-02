@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Jurong Lake District
-description: Brief site description here
-image: /images/isomer-logo.svg
+description: A Place To Grow
+image: /images/July 2022 Update/Hero.jpg
 permalink: /
 notification: We are calling for proposals for an integrated tourism development
   at Jurong Lake District! Click on 'Opportunity' for information on how to
@@ -10,7 +10,7 @@ notification: We are calling for proposals for an integrated tourism development
 sections:
   - hero:
       title: A place to grow
-      background: /images/jld_headerhero.jpg
+      background: /images/July 2022 Update/Hero.jpg
       url: /contact-us/
       key_highlights:
         - title: Grow seamlessly & easily
@@ -37,8 +37,9 @@ sections:
   - infopic:
       title: More than a CBD
       subtitle: Experience
-      description: Imagine working, living and playing in the district with familiar
-        plazas, intimate public spaces, lush lakefront greenery and wildlife.
+      description: Imagine working, living and playing in the district with convivial
+        plazas, intimate public spaces, lush lakefront greenery and native
+        fauna.
       button: EXPLORE JURONG LAKE DISTRICT
       alt: More than a CBD
       url: /experience

@@ -1,6 +1,6 @@
 title: Jurong Lake District
-url: "https://www.jld.gov.sg"
-favicon: /images/favicon-isomer.ico
+url: https://www.jld.gov.sg
+favicon: /images/July 2022 Update/Hero.jpg
 colors:
   primary-color: "#225828"
   secondary-color: "#124596"
@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#62863a"
 resources_name: Events-&-resources
-description: An Isomer site of the Singapore Government
+description: A Place To Grow
 permalink: none
 baseurl: ""
 exclude:
@@ -52,3 +52,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://ura-jld-staging.netlify.app
 prod: https://ura-jld-prod.netlify.app
+shareicon: /images/July 2022 Update/Hero.jpg
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
