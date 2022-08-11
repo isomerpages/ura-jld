@@ -25,4 +25,3 @@ URA is proud to be part of the Singapore Pavilion at World Cities Summit 2022.
 
 We look forward to more opportunities to showcase our plans for Jurong Lake District in making it
 **A Place To Grow**.
-
