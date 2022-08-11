@@ -33,9 +33,15 @@ Visitors also showed keen interest in the new developments in Jurong Lake Distri
 *_Visitors showing keen interest in the new developments and growth opportunities in Jurong Lake District._*
 
 
+![](/images/IMG-20220802-WA0012.jpg)
 
+![](/images/image008%20(1).jpg)
+*_The exhibition was an excellent meeting point and discussion space for visitors to the World Cities Summit keen to learn about Jurong Lake District._*
 
 URA is proud to be part of the Singapore Pavilion at World Cities Summit 2022.
 
 We look forward to more opportunities to showcase our plans for Jurong Lake District in making it
 **A Place To Grow**.
+
+![](/images/IMG-20220801-WA0017.jpg)
+*URA is proud to be part of the Singapore Pavilion at World Cities Summit 2022.*
