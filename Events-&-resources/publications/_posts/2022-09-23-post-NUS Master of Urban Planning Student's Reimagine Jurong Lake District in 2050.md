@@ -14,7 +14,7 @@ The NUS MUP students envisioned planning approaches for JLD in line with the dis
 
 Interesting ideas explored by the students include:
 
-<p style="margin-left: 40px">a. Weaving Nature</p>
+<p style="margin-left: 40px"><b>a. Weaving Nature</b></p>
 
 Exploring the potential of improving accessibility to greenery within the district by re-aligning the Jurong River. This would be done through reclamation, and by extending the river east-wards into Pandan Reservoir. This bold move would connect JLD to other green sites such as Teban Gardens and Jurong Lake Gardens through the Park Connector Network (PCN). This could create a potential for a new eco-trail and support eco-tourism in the area.
 
@@ -22,7 +22,7 @@ Exploring the potential of improving accessibility to greenery within the distri
 *Figure 1 - Proposed realignment of Jurong River and connections to PCNs proposed by Group 3*
 
 
-<p style="margin-left: 40px">b. Industrial-Living Cluster Model </p>
+<p style="margin-left: 40px"><b>b. Industrial-Living Cluster Model </b></p>
 
 JLD could potentially spearhead Jurong’s industrial transformation by redefining industrial communities
 and spaces as a healthy, vibrant and life-giving oasis.
@@ -36,7 +36,7 @@ The model proposed by the students moves JLD away from the traditional segregati
 *Figure 3 - Industrial Identity and Cluster Model proposed by Group 5*
 
 
-<p style="margin-left: 40px">c. Mobility and Amenities </p>
+<p style="margin-left: 40px"><b>c. Mobility and Amenities </b></p>
 
 In line with the sustainable living vision of JLD, mobility paths within the community will be restricted to cycling and walking, encouraging active mobility while still being equipped with a road adjacent to each community for emergency access. The communities will also be integrated with other supporting functions such as co-working spaces and retail facilities.
 
@@ -44,7 +44,7 @@ In line with the sustainable living vision of JLD, mobility paths within the com
 *Figure 4 - Walkable Neighbourhoods and Access to Amenities proposed by Group 2*
 
 
-<p style="margin-left: 40px">d. Flexibility </p>
+<p style="margin-left: 40px"><b>d. Flexibility </b></p>
 
 The flexible grid system proposed by the students was designed based on the geographic and physical context. Boundaries are formed by vehicle paths that provide the necessary connections to nearby cells and create the backbone of the road network. This basic model allows the flexibility to change the type or location of the interior lanes to create numerous permutations. The interior lanes can be converted into car lanes, making different network traffic volumes possible. In addition, these interior lanes can vary in density to accommodate different scales of development.
 
@@ -52,7 +52,7 @@ The flexible grid system proposed by the students was designed based on the geog
 *Figure 5 - Flexible Grid System Illustration as proposed by Group 6*
 
 
-<p style="margin-left: 40px">e. Dynamic Land Use </p>
+<p style="margin-left: 40px"><b>e. Dynamic Land Use </b></p>
 
 In line with JLD’s positioning as a mixed-use business district, the students also proposed flexible and adaptable land use type dubbed the ‘Dynamic Land Use’ - composed of open spaces and light-touch structures. Under normal circumstances, they can function as stores and offices, but these could be easily removed when new needs arise. Planners could potentially start by creating a basic structure of dynamic land use on a network or axis, where light-touch structures adapted to different uses will be developed as default.
 
@@ -60,7 +60,7 @@ In line with JLD’s positioning as a mixed-use business district, the students 
 *Figure 6 - Dynamic Land Use Illustration as proposed by Group 6*
 
 
-<p style="margin-left: 40px">f. Sustainability and Passive Urban Design</p>
+<p style="margin-left: 40px"><b>f. Sustainability and Passive Urban Design </b></p>
 
 Roofscapes in JLD will be equipped with solar panels to generate and supplement local energy supply. Passive design should also be considered by considering the predominant wind direction within JLD to ensure cross-ventilation between the built-up areas. The abundance of urban greeneries also mitigates against excessive energy consumption while ensuring optimal thermal comfort for pedestrians closer to the ground level.
 
@@ -73,7 +73,7 @@ Through this studio project, the students have provided the URA Jurong Lake Dist
 
 *For more information on the NUS Master of Urban Planning programme, please visit https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/*
 
-Acknowledgements:
+<b>Acknowledgements:</b>
 <br>Group 1 – Ms Ashley Elizabeth Kwan Ka-Yan, Ms Lina Liu, Mr Liang Xiucheng, Ms Wang Jiaxuan, Ms Zou Hongyi
 <br>Group 2 – Ms Chen Shuting, Mr Yang Jindian, Ms Zhang Xinyuan, Mr Zhang Yikai
 <br>Group 3 – Mr Alex Yeung Hey, Ms Chen Minglu, Mr Francoise John Espares Ying, Ms Vanessa Ho <br>Group 4 – Mr Archisman Chattopadhyay, Ms Huang Ke, Ms Siti Nurfarah Nadhirah, Mr Wen Ruiwen <br>Group 5 – Ms Gu Qianhua, Mr Huang Zhiye, Ms Wang Shiyu, Mr Wong Yi Suen
