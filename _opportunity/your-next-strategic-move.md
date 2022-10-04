@@ -52,4 +52,4 @@ Jurong Lake District offers a range of workspaces to suit different business nee
 
 <a href="https://www.simlian.com.sg/portfolio/integrated/projects-for-salelease/vision-exchange/additional-info/" style="color:#62863a;">Vision Exchange</a>
 
-<a href="https://sunventure.com/westgate-tower-gallery/" style="color:#62863a;">Westgate Tower</a>
+<a href="https://www.westgate-tower.com.sg/" style="color:#62863a;">Westgate Tower</a>
