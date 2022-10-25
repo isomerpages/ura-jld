@@ -79,6 +79,6 @@ Through this studio project, the students have provided the URA Jurong Lake Dist
 <br>Group 3 – Mr Alex Yeung Hey, Ms Chen Minglu, Mr Francoise John Espares Ying, Ms Vanessa Ho <br>Group 4 – Mr Archisman Chattopadhyay, Ms Huang Ke, Ms Siti Nurfarah Nadhirah, Mr Wen Ruiwen <br>Group 5 – Ms Gu Qianhua, Mr Huang Zhiye, Ms Wang Shiyu, Mr Wong Yi Suen
 <br>Group 6 – Mr Alviedo Dionne Robin Menez, Ms Athira Radhakrishnan, Ms Chen Bingling, Ms Wang Jing
 <br>
-<br>Master of Urban Planning Programme Director: Associate Professor Cho Im Sik Studio 
-<br>Tutors: Mr Jeffrey Ho, Mr Rahul Mittal, Mr John Achari
+<br>Master of Urban Planning Programme Director: Associate Professor Cho Im Sik  
+<br>Studio Tutors: Mr Jeffrey Ho, Mr Rahul Mittal, Mr John Achari
 <br>Teaching Assistant: Mr Ahmad Osman
