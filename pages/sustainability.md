@@ -1,6 +1,6 @@
 ---
 title: Sustainability
-permalink: /sustainability
+permalink: /sustainability/
 ---
 <h3 style="color:#124596; font-weight:bold;">Sustainable living</h3>
 
@@ -29,7 +29,7 @@ The district also acts as a "living lab" and regulatory sandbox, providing oppor
 
 Jurong Lake District aspires to be a model sustainable district. 
 
-The six pillars encapsulate our ambitions for the district to achieve our net-zero emissions goal by 2050 or earlier. 
+The six pillars encapsulate our ambitions for the district to achieve our net-zero emissions goal around 2045 for all new developments. 
 
 ![](/images/July%202022%20Update/6%20sust%20(2).jpg)
 
@@ -51,7 +51,7 @@ By the 2030s, Jurong Lake District will be served by four MRT lines. At least 85
 <span style="font-size:12px; font-style:italic;">Walk-Cycle-Ride trips will make up at least 85% of all trips to and from Jurong Lake District. <br>(Photography by Chee Boon Pin)
 </span>
 
-Key roads will be designed as Transit Priority Corridors, with bus-only usage lane, wider footpaths and cycling paths. 
+Key roads will be designed as Transit Priority Corridors, with bus-only usage lane, wider footpaths and cycling paths. The bus fleet serving JLD will also comprise cleaner energy buses, including fully electric buses that will be deployed on feeder buses by 2030.
 
 ![](/images/July%202022%20Update/Street%20View.png)
 <span style="font-size:12px; font-style:italic;">Artist's impression of comfortable walkable streets lined with amenities. <br>(Image by URA)
@@ -97,9 +97,9 @@ Embedded from the start, centralised district infrastructure will optimise the u
 <span style="font-size:12px; font-style:italic;">Artist's impression showing how building design and management can contribute towards achieving net zero emissions. <br>(Image by URA)
 </span>
 
-All new buildings will be required to minimally achieve Green Mark Platinum (Super Low Energy) certification and connect to the District Cooling System. 
+All new buildings will be required to minimally achieve Green Mark Platinum (Super Low Energy) certification. Where feasible, we will aim for some developments to include Zero Energy Buildings. We will also deploy solar on all suitable surfaces within the district, not only on rooftops or building facades but also on vacant plots of land as a transitory measure to offset the district's emissions while the national grid is decarbonised over time.
 
-Common services tunnels will house District Cooling and District Pneumatic Waste Conveyance Systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the road to lay utilities. 
+All new developments will also be required to connect to the District Cooling System. Common services tunnels will house District Cooling and District Pneumatic Waste Conveyance Systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the road to lay utilities. 
 
 ![Alt text for image on Isomer site](/images/jld_cwalkcrop.jpg)
 <span style="font-size:12px; font-style:italic;">Artist's impression of the pleasant and seamless streetscape created by centralising and housing infrastructure underground. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
