@@ -4,9 +4,7 @@ title: Jurong Lake District
 description: A Place To Grow
 image: /images/July 2022 Update/Hero.jpg
 permalink: /
-notification: We are calling for proposals for an integrated tourism development
-  at Jurong Lake District! Click on 'Opportunity' for information on how to
-  participate.
+notification: ""
 sections:
   - hero:
       title: A place to grow
