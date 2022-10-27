@@ -13,4 +13,4 @@ Jurong Lake District will also aim to achieve net zero emissions for new develop
 
 These revised climate targets and plans were announced at the Singapore International Energy Week (SIEW) 2022.
 
-Read the full speech [here](https://www.pmo.gov.sg/Newsroom/2022/10/25/DPM-Wong-at-Singapore-International-Energy-Week).
+Read the full speech [here.](https://www.pmo.gov.sg/Newsroom/DPM-Wong-at-Singapore-International-Energy-Week)

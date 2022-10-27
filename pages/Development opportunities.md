@@ -1,8 +1,9 @@
 ---
 title: Development opportunities
-permalink: /opportunity/development-opportunities-tobepublishedwhenready/
+permalink: /opportunity/development-opportunities/
 description: ""
 ---
+
 
 
 
