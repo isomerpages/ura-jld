@@ -2,7 +2,6 @@ collections:
   opportunity:
     output: true
     order:
-      - development-opportunities.md
       - your-next-strategic-move.md
       - timeline.md
       - why-singapore.md
