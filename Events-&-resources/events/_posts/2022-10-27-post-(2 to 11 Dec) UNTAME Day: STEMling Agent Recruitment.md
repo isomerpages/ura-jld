@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: /images/05_untame-2022-day-(web-banner).jpg
 ---
-
-![](/images/05_untame-2022-day-(web-banner).jpg)
+![](/images/metanu_event-description.jpg)
 
 Held at Science Centre Singapore from 10am to 5pm, UNTAME Day features an exciting, limited time only event, where guests can put their speed and wits to the test.
 
@@ -41,4 +40,4 @@ Those who prefer more laidback activities can enjoy film screenings from the Sci
 
 Book your tickets [HERE](https://www.gevme.com/untame-2022?_ga=2.102235783.789022292.1666851596-647106083.1664527797&_gac=1.150999371.1666851596.Cj0KCQjwteOaBhDuARIsADBqRegRdR8gTix7w0sSC8_z0AotS_Nw9MeBbkAjNpyiG5sukJ0WJGEdaOcaAqcNEALw_wcB)
 
-UNTAME is organised by Science Centre Singapore. 
+UNTAME is organised by Science Centre Singapore.
