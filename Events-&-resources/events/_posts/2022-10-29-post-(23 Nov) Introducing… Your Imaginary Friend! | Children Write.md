@@ -33,5 +33,4 @@ This programme is part of the Children Write series, where children aged 7 to 12
 
 This programme is part of Love Our Libraries and Archives (LOLA) 2022 celebrations and organised by NLB. 
 
-Click [HERE](https://www.eventbrite.sg/e/introducing-your-imaginary-friend-children-write-tickets-441497710537?aff=ebdssbdestsearch&fbclid=IwAR2cAJ8mkIII4dk_vhrBSdIOLO1PZykEjvkiv01I_Y29FDpmnJCWLN05egY) for more information and to register.
-
+This is a free event. Click [HERE](https://www.eventbrite.sg/e/introducing-your-imaginary-friend-children-write-tickets-441497710537?aff=ebdssbdestsearch&fbclid=IwAR2cAJ8mkIII4dk_vhrBSdIOLO1PZykEjvkiv01I_Y29FDpmnJCWLN05egY) for more information and to register.
