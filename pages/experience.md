@@ -1,6 +1,6 @@
 ---
 title: Experience
-permalink: /experience
+permalink: /experience/
 ---
 <h3 style="color:#124596; font-weight:bold;">More than a CBD</h3>
 
@@ -71,11 +71,22 @@ Unique attractions will surround Jurong Lake, adding to the variety of recreatio
 ![Alt text for image on Isomer site](/images/JLG_Event_Lawn.jpg) 
 <span style="font-size:12px; font-style:italic;"> Artist's impression of the new event lawn at Chinese Garden with views of the Pagoda and Jurong Lake. <br> (Image courtesy of NParks)</span>
 
-Ongoing till 2028, the redeveloped Chinese and Japanese Gardens, the New Science Centre and a future tourism development will be progressively completed and line the waterfront with exciting leisure and entertainment offerings.
+Ongoing till 2028, the redeveloped Chinese and Japanese Gardens, the new Science Centre and a future tourism development will be progressively completed and line the waterfront with exciting leisure and entertainment offerings.
 
-![](/images/NSC%203.png)
-<span style="font-size:12px; font-style:italic;"> The New Science Centre will feature exhibits where visitors can learn how technology supports sustainability efforts in Jurong Lake District and in Singapore. <br> (Image courtesy of MOE / SCB, for illustrative purposes only)</span>
+Designed by Zaha Hadid Architects in collaboration with Architects 61, the new Science Centre will be Singapore’s biggest living lab to showcase real-world applications of science and technology. Its facilities, programmes and lush lakeside location will create an immersive learning experience in a one-of-a-kind space for visitors and residents in Jurong Lake District.
 
-A recreation corridor with active public spaces will link Jurong Town Hall to the existing Science Centre building.
+![](/images/New%20Science%20Centre/NSC%2002.jpg)
+<span style="font-size:12px; font-style:italic;"> With its convenient location at the doorstep of Chinese Garden MRT station, visitors will be able to spend the day exploring both Jurong Lake Gardens and the new Science Centre when it is completed. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
+
+![](/images/New%20Science%20Centre/NSC%2004.jpg)
+<span style="font-size:12px; font-style:italic;"> Artist’s impression offering a closer view of the outdoor activity plaza, where there will be STEM programmes and community events adding buzz to Jurong Lake District. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
+
+![](/images/New%20Science%20Centre/NSC%2006.jpg)
+<span style="font-size:12px; font-style:italic;"> Artist’s impression of the new Observatory for budding astronomers to learn about astronomical events. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
+
+![](/images/New%20Science%20Centre/NSC%2007.jpg)
+<span style="font-size:12px; font-style:italic;"> Artist’s impression of gallery exhibits showcasing core scientific concepts. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
+
+A new recreation corridor with active public spaces will link Jurong Town Hall to the existing Science Centre building.
 
 These distinctive landmark buildings will take on new uses, continue to anchor the district and create a strong sense of place. They could become centres for co-working, innovation, museums, art studios, theatres, event grounds and playscapes with open spaces for the  community to enjoy.
