@@ -75,14 +75,14 @@ Ongoing till 2028, the redeveloped Chinese and Japanese Gardens, the new Science
 
 Designed by Zaha Hadid Architects in collaboration with Architects 61, the new Science Centre will be Singapore’s biggest living lab to showcase real-world applications of science and technology. Its facilities, programmes and lush lakeside location will create an immersive learning experience in a one-of-a-kind space for visitors and residents in Jurong Lake District.
 
-![](/images/New%20Science%20Centre/NSC%2002.jpg)
+![](/images/New%20Science%20Centre/Image%201%20-%20Bird's%20Eye%20View.jpg)
+<span style="font-size:12px; font-style:italic;"> A bird's eye view of the new Science Centre. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
+
+![](/images/New%20Science%20Centre/Image%202%20-%20Accesible%20from%20Chinese%20Garden%20MRT.jpg)
 <span style="font-size:12px; font-style:italic;"> With its convenient location at the doorstep of Chinese Garden MRT station, visitors will be able to spend the day exploring both Jurong Lake Gardens and the new Science Centre when it is completed. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
 
-![](/images/New%20Science%20Centre/NSC%2004.jpg)
-<span style="font-size:12px; font-style:italic;"> Artist’s impression offering a closer view of the outdoor activity plaza, where there will be STEM programmes and community events adding buzz to Jurong Lake District. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
-
-![](/images/New%20Science%20Centre/NSC%2006.jpg)
-<span style="font-size:12px; font-style:italic;"> Artist’s impression of the new Observatory for budding astronomers to learn about astronomical events. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
+![](/images/New%20Science%20Centre/Image%207%20-%20Lake%20view.jpg)
+<span style="font-size:12px; font-style:italic;"> Artist's impression of the new Science Centre from across Jurong Lake in the evening. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
 
 ![](/images/New%20Science%20Centre/NSC%2007.jpg)
 <span style="font-size:12px; font-style:italic;"> Artist’s impression of gallery exhibits showcasing core scientific concepts. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
