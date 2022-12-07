@@ -71,7 +71,7 @@ Unique attractions will surround Jurong Lake, adding to the variety of recreatio
 ![Alt text for image on Isomer site](/images/JLG_Event_Lawn.jpg) 
 <span style="font-size:12px; font-style:italic;"> Artist's impression of the new event lawn at Chinese Garden with views of the Pagoda and Jurong Lake. <br> (Image courtesy of NParks)</span>
 
-Ongoing till 2028, the redeveloped Chinese and Japanese Gardens, the new Science Centre and a future tourism development will be progressively completed and line the waterfront with exciting leisure and entertainment offerings.
+The redeveloped Chinese and Japanese Gardens will be completed in 2023 / 2024. The new Science Centre, when completed in 2027, and a future tourism development will line the waterfront with exciting leisure and entertainment offerings.
 
 Designed by Zaha Hadid Architects in collaboration with Architects 61, the new Science Centre will be Singapore’s biggest living lab to showcase real-world applications of science and technology. Its facilities, programmes and lush lakeside location will create an immersive learning experience in a one-of-a-kind space for visitors and residents in Jurong Lake District.
 
