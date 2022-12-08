@@ -21,4 +21,5 @@ This comprises three plots of land linking the Jurong East MRT interchange stati
 
 With a potential yield of about 150,000 sqm of office space, 1,760 private residential units and 75,000 sqm GFA of complementary uses such as retail, hotel or community uses, the proposed integrated development will be progressively developed over the next 5 to 10 years to cater to market demand. The successful tenderer will be required to build at least 70,000 sqm GFA of office space and 600 private housing units as part of the first phase of the development, but will have some flexibility to phase out the remaining supply according to market demand.
 
-Invest now in Singapore's tourism landscape and participate in the Request for Proposal. For more information, visit [go.gov.sg/jldtourismdev](https://go.gov.sg/jldtourismdev) or contact Singapore Tourism Board at [JLD@stb.gov.sg](JLD@stb.gov.sg).
+The site is expected to be launched in June 2023. 
+
