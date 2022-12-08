@@ -3,7 +3,7 @@ title: Development Opportunities
 permalink: /opportunity/developmentopportunities/
 description: ""
 ---
-<h3 style="color:#124596; font-weight:bold;">Development opportunities:<br>
+<h3 style="color:#124596; font-weight:bold;"><br>
 White Site to be released for sale to Master Developer in 1H2023 </h3>
 
 Jurong Lake District will be progressively developed into Singapore’s largest business district outside the city centre to cater to business needs and support decentralisation. It will be a model sustainability district with a goal to achieve net-zero emissions for new developments around 2045. 
@@ -21,5 +21,8 @@ This comprises three plots of land linking the Jurong East MRT interchange stati
 
 With a potential yield of about 150,000 sqm of office space, 1,760 private residential units and 75,000 sqm GFA of complementary uses such as retail, hotel or community uses, the proposed integrated development will be progressively developed over the next 5 to 10 years to cater to market demand. The successful tenderer will be required to build at least 70,000 sqm GFA of office space and 600 private housing units as part of the first phase of the development, but will have some flexibility to phase out the remaining supply according to market demand.
 
-The site is expected to be launched in June 2023. 
+The site is expected to be launched in June 2023.
 
+For more details of the 1H2023 GLS Programme, read the full media release [here](https://www.mnd.gov.sg/newsroom/press-releases/view/release-of-first-half-of-2023-government-land-sales-(gls)-programme).
+
+Parties interested in development and investment opportunities in Jurong Lake District may get in touch [here](https://www.jld.gov.sg/get-in-touch). 
