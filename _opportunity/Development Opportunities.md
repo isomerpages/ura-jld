@@ -16,7 +16,6 @@ To kickstart the next phase of development in Jurong Lake District, the Governme
 
 This comprises three plots of land linking the Jurong East MRT interchange station and the future Jurong Lake District station of the Cross Island Line. The intention is for a single developer to comprehensively master plan the site and use district-level urban solutions (such as a district cooling system) that will be integrated within the mixed-use development.
 
-![Business Centres in Singapore](/images/jld_businessregionsC.png)
 
 <span style="font-size:12px; font-style:italic;">The future mixed-use development will be integrated with the Jurong East MRT interchange station and the future Jurong Lake District station of the Cross Island Line <br>(Image by URA)</span>
 
