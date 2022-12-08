@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - your-next-strategic-move.md
+      - Development Opportunities.md
       - timeline.md
       - why-singapore.md

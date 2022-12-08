@@ -4,7 +4,8 @@ title: Jurong Lake District
 description: A Place To Grow
 image: /images/July 2022 Update/Hero.jpg
 permalink: /
-notification: ""
+notification: "White site in Jurong Lake District to be released for sale to a
+  Master Developer in 1H2023. Details in Events & Resources > Media Releases. "
 sections:
   - hero:
       title: A place to grow

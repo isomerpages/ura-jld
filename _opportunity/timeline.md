@@ -1,6 +1,6 @@
 ---
 title: Timeline
-permalink: /opportunity/timeline
+permalink: /opportunity/timeline/
 ---
 <h3 style="color:#124596; font-weight:bold;">Transforming Jurong Lake District</h3>
 
@@ -11,7 +11,7 @@ Relocation of Ministry of National Development, Ministry of Sustainability and t
 
 <hr style="margin:2rem 0;">
 
-<h4 style="color:#124596; font-weight:normal;">2030s</h4>
+<h4 style="color:#124596; font-weight:normal;">2032</h4>
 Cross Island Line
 
 <hr style="margin:2rem 0;">
@@ -23,6 +23,8 @@ Jurong Region Line
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2027</h4>
 Jurong East Integrated Transport Hub, Land Transport Authority offices
+
+New Science Centre
 
 <hr style="margin:2rem 0;">
 
