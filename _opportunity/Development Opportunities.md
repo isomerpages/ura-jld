@@ -16,12 +16,12 @@ To kickstart the next phase of development in Jurong Lake District, the Governme
 
 This comprises three plots of land linking the Jurong East MRT interchange station and the future Jurong Lake District station of the Cross Island Line. The intention is for a single developer to comprehensively master plan the site and use district-level urban solutions (such as a district cooling system) that will be integrated within the mixed-use development.
 
-
+![](/images/MD_site_1a.jpg)
 <span style="font-size:12px; font-style:italic;">The future mixed-use development will be integrated with the Jurong East MRT interchange station and the future Jurong Lake District station of the Cross Island Line. <br>(Image by URA)</span>
 
 With a potential yield of about 150,000 sqm of office space, 1,760 private residential units and 75,000 sqm GFA of complementary uses such as retail, hotel or community uses, the proposed integrated development will be progressively developed over the next 5 to 10 years to cater to market demand. The successful tenderer will be required to build at least 70,000 sqm GFA of office space and 600 private housing units as part of the first phase of the development, but will have some flexibility to phase out the remaining supply according to market demand.
 
-![](/images/jld_md2.jpg)
+![](/images/MD_site_2.jpg)
 <span style="font-size:12px; font-style:italic;">The proposed integrated development can potentially yield about 150,000 sqm of office space, 1,760 private residential units and 75,000 sqm GFA of complementary uses such as retail, hotel or community uses. <br>(Image by URA)</span>
 
 The site is expected to be launched in June 2023.
