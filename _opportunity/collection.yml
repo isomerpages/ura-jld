@@ -2,6 +2,7 @@ collections:
   opportunity:
     output: true
     order:
+      - Jurong Lake District Innovation Challenge 2023.md
       - your-next-strategic-move.md
       - Development Opportunities.md
       - timeline.md
