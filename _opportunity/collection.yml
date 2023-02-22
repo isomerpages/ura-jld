@@ -2,8 +2,8 @@ collections:
   opportunity:
     output: true
     order:
-      - Innovation Challenge 2023/.keep
       - your-next-strategic-move.md
       - Development Opportunities.md
+      - Innovation Challenge 2023/.keep
       - timeline.md
       - why-singapore.md
