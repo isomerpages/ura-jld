@@ -6,7 +6,7 @@ image: /images/July 2022 Update/Hero.jpg
 permalink: /
 notification: Do you have a solution to address sustainability challenges in
   Jurong Lake District? Join our Innovation Challenge 2023 now! Find out more in
-  Opportunity > Innovation Challenge 2023
+  Opportunity > Jurong Lake District Innovation Challenge
 sections:
   - hero:
       title: A place to grow
