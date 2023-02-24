@@ -4,7 +4,6 @@ permalink: /opportunity/jldchallenge2023/
 description: ""
 ---
 ![](/images/Innovation%20Challenge%202023/jld_challenge_logo.jpeg)
-
 To realise our sustainability ambition, we must work with relevant stakeholders such as landlords, businesses, residents, and urban solution providers to innovate and experiment with new ideas and solutions to shape our collective, sustainable future.
 
 We are calling for all start-ups, companies, institutes of higher learning, and research institutes to propose novel solutions to address the sustainability challenges facing the district.
