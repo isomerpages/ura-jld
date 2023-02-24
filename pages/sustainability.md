@@ -99,7 +99,7 @@ Embedded from the start, centralised district infrastructure will optimise the u
 
 All new buildings will be required to minimally achieve Green Mark Platinum (Super Low Energy) certification. Where feasible, we will aim for some developments to include Zero Energy Buildings. We will also deploy solar on all suitable surfaces within the district, not only on rooftops or building facades but also on vacant plots of land as a transitory measure to offset the district's emissions while the national grid is decarbonised over time.
 
-All new developments will also be required to connect to the District Cooling System. Common services tunnels will house District Cooling and District Pneumatic Waste Conveyance Systems to deliver cleaner and more efficient urban services to all buildings. These underground systems also make our streetscape more pleasant by eliminating the need to dig up the road to lay utilities. 
+Jurong Lake District will be served by the District Cooling and District Pneumatic Waste Conveyance Systems. These systems could be housed in underground Common Services Tunnels to deliver cleaner and more efficient urban services to all buildings, which would also make our streets more pleasant by eliminating the need to dig up the road to lay utilities. 
 
 ![Alt text for image on Isomer site](/images/jld_cwalkcrop.jpg)
 <span style="font-size:12px; font-style:italic;">Artist's impression of the pleasant and seamless streetscape created by centralising and housing infrastructure underground. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
