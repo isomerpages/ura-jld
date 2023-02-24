@@ -96,3 +96,12 @@ Submit your proposals at [IMDA’s Open Innovation Platform](https://www.openin
 ![](/images/Innovation%20Challenge%202023/jld-temasek.jpeg)
 
 # With support from
+![](/images/Innovation%20Challenge%202023/jld-bca.jpeg)
+![](/images/Innovation%20Challenge%202023/jld-ema.jpeg)
+![](/images/Innovation%20Challenge%202023/jld-lta.jpeg)
+![](/images/Innovation%20Challenge%202023/jld-pub.jpeg)
+![](/images/Innovation%20Challenge%202023/jld-nea.jpeg)
+![](/images/Innovation%20Challenge%202023/jld-jtc.jpeg)
+
+# Powered by
+![](/images/Innovation%20Challenge%202023/jld_imda_oip.jpeg)
