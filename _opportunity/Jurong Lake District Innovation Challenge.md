@@ -83,7 +83,16 @@ The prizes for the Jurong Lake District Innovation challenge are as follows:
 Submit your proposals at [IMDA’s Open Innovation Platform](https://www.openinnovation.sg/imda) by 21 Apr 2023.
 
 # Organised by
+![](/images/Innovation%20Challenge%202023/jld-sndgo.jpeg)
+![](/images/Innovation%20Challenge%202023/jld-ura.jpeg)
 
+# In partnership with
+![](/images/Innovation%20Challenge%202023/jld-capitaland.jpeg)
+![](/images/Innovation%20Challenge%202023/jld-lendlease.jpeg)
+![](/images/Innovation%20Challenge%202023/jld-ngtengfong.jpeg)
+![](/images/Innovation%20Challenge%202023/jld-juronghospital.jpeg)
+![](/images/Innovation%20Challenge%202023/jld-sc.jpeg)
+![](/images/Innovation%20Challenge%202023/jld-smrt.jpeg)
+![](/images/Innovation%20Challenge%202023/jld-temasek.jpeg)
 
-
-
+# With support from
