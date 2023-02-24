@@ -5,7 +5,6 @@ description: ""
 ---
 ![](/images/Innovation%20Challenge%202023/jld_challenge_logo.jpeg)
 
-
 # About the Jurong Lake District Innovation challenge
 
 To realise our sustainability ambition, we must work with relevant stakeholders such as landlords, businesses, residents, and urban solution providers to innovate and experiment with new ideas and solutions to shape our collective, sustainable future.
@@ -41,4 +40,3 @@ Today, getting to Jurong Lake District is convenient using the established publi
 Smart technologies and automation will support a more efficient and connected way to live and work and has the potential to conserve and optimise water resources. In the long run, it could also reduce reliance on manpower for repetitive tasks and enhance the well-being of employees.  
   
 [Challenge Statements](https://www.smartnation.gov.sg/jldchallenge2023/#water-system-optimisation)
-
