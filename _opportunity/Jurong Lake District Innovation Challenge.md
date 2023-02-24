@@ -47,13 +47,20 @@ Smart technologies and automation will support a more efficient and connected wa
 
 *How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?*
 
+[Read challenge brief](https://go.gov.sg/jld-challenge-brief-lowcarbon-sciencecentre)
+
 [Lendlease Global Commercial REIT](https://www.lendleaseglobalcommercialreit.com/) is sponsoring the following challenge statement on optimising energy usage:
 
 *How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?*
 
+[Read challenge brief](https://go.gov.sg/jld-challenge-brief-lowcarbon-lendlease)
+
+
 [Ng Teng Fong General Hospital](https://www.ntfgh.com.sg/) and [Jurong Community Hospital](https://www.jch.com.sg/) are co-sponsoring the following challenge statement on reducing energy consumption in hospitals:
 
 *How might we optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements?*
+
+[Read challenge brief](https://go.gov.sg/jld-challenge-brief-lowcarbon-hospital)
 
 **Waste Management**
 
@@ -61,17 +68,23 @@ Smart technologies and automation will support a more efficient and connected wa
 
 *How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties?*
 
+[Read challenge brief](https://go.gov.sg/jld-challenge-brief-wastemanagement)
+
 **Car-lite**
 
 [SMRT](https://www.smrt.com.sg/) is sponsoring the following challenge statement to explore solutions in encouraging drivers to go car-lite and adopting Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District:
 
 *How might we encourage drivers to go car-lite and promote more Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District?*
 
+[Read challenge brief](https://go.gov.sg/jld-challenge-brief-carlite)
+
 **Waste Water Optimisation**
 
 [CapitaLand](https://www.capitaland.com/) and [Lendlease Global Commercial REIT](https://www.lendleaseglobalcommercialreit.com/) are co-sponsoring the following challenge statement on using pre-emptive and predictive systems to improve the safety and productivity in maintenance work, while reducing the wastage of water resources in the process:
 
 *How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work?*
+
+[Read challenge brief](https://go.gov.sg/jld-challenge-brief-watersystem)
 
 # Prizes
 The prizes for the Jurong Lake District Innovation challenge are as follows:
