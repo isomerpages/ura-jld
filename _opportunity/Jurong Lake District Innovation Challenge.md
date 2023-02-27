@@ -94,7 +94,7 @@ The prizes for the Jurong Lake District Innovation challenge are as follows:
 *   An additional [Temasek Foundation](https://www.temasekfoundation.org.sg/) Liveability Solutions Prize of $50,000 will be awarded to the team with the most impactful solution to pilot their solution in Jurong Lake District
 
 # How to Participate
-Submit your proposals at [IMDA’s Open Innovation Platform](https://www.openinnovation.sg/imda) by 21 Apr 2023.
+Submit your proposals at [IMDA’s Open Innovation Platform](https://www.openinnovation.sg/imda) by 21 Apr 2023, 4pm SGT.
 
 # Organised by
 ![](/images/Innovation%20Challenge%202023/jld-sndgo.jpeg)
