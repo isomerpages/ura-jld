@@ -58,8 +58,8 @@ sections:
       description: Invest and join the growing network of businesses in Jurong Lake District
       button: INVEST IN JURONG LAKE DISTRICT
       url: /opportunity/next-strategic-move
-      image: /images/jld_attractions.jpg
-      alt: Attractions at night
+      image: /images/MD_site_2.jpg
+      alt: MD Site
   - resources:
       title: Events & resources
       button: DISCOVER JURONG LAKE DISTRICT
