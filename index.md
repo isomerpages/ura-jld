@@ -4,9 +4,8 @@ title: Jurong Lake District
 description: A Place To Grow
 image: /images/July 2022 Update/Hero.jpg
 permalink: /
-notification: Do you have a solution to address sustainability challenges in
-  Jurong Lake District? Join our Innovation Challenge 2023 now! Find out more in
-  Opportunity > Jurong Lake District Innovation Challenge
+notification: URA has launched the tender for a Master Developer site at Jurong
+  Lake District. Find out more in Opportunity > Development Opportunities
 sections:
   - hero:
       title: A place to grow
