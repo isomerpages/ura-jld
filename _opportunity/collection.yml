@@ -2,7 +2,6 @@ collections:
   opportunity:
     output: true
     order:
-      - Development opportunities.md
       - your-next-strategic-move.md
       - Development Opportunities.md
       - Jurong Lake District Innovation Challenge.md
