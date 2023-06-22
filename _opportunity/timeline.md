@@ -12,44 +12,42 @@ Relocation of Ministry of National Development, Ministry of Sustainability and t
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;">2032</h4>
-Cross Island Line
+Expected completion of Cross Island Line
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2029</h4>
-Jurong Region Line
+Expected completion of Jurong Region Line
  <br> <span style="font-size:12px; font-style:italic;">Jurong Region Line (JRL) will be completed in three phases from 2027 to 2029. The JRL Jurong East station is estimated to complete in 2028.</span>
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2027</h4>
-Jurong East Integrated Transport Hub, Land Transport Authority offices
-
-New Science Centre
+Expected completion of Jurong East Integrated Transport Hub, New Science Centre
 
 <hr style="margin:2rem 0;">
 
-<h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2022</h4>
-Perennial Business City
+<h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2024</h4>
+Complete rejuvenation of Jurong Lake Gardens (Chinese Garden and Japanese Garden) 
+
+<hr style="margin:2rem 0;">
+
+<h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2023</h4>
+Opening of Jurong Lake Gardens (Northern Section), Completion of Perennial Business City<br><br> Appointed Keppel as District Cooling System Operator for JLD
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2019</h4>
-Opening of Lakeside Garden
+Opening of Jurong Lake Gardens (Lakeside Garden)
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2017</h4>
-Opening of Vision Exchange
-
-<hr style="margin:2rem 0;">
-
-<h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2016</h4>
-Completion of J Gateway
+Opening of Vision Exchange, Completion of J Gateway Condominium <br> <br>Launch and public exhibition of updated Master Plan for Jurong Lake District
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2015</h4>
-Opening of Ng Teng Fong General Hospital and Jurong Community Hospital
+Opening of Ng Teng Fong General Hospital and Jurong Community Hospital, Genting Hotel Jurong
 
 <hr style="margin:2rem 0;">
 
@@ -60,11 +58,6 @@ Opening of Devan Nair Institute &amp; Big Box, Building and Construction Authori
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2013</h4>
 Opening of Westgate, Jem 
-
-<hr style="margin:2rem 0;">
-
-<h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2012</h4>
-Opening of JCube
 
 <hr style="margin:2rem 0;">
 
