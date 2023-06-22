@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/jld_ud_guide.jpg)
+
 This Jurong Lake District (JLD) Planning and Urban
 Design Guide presents the planning and urban
 design considerations for Jurong Lake District to
