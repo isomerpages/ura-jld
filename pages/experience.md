@@ -6,8 +6,8 @@ permalink: /experience/
 
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Imagine working, living and playing in the district with convivial plazas, intimate public spaces, lush lakefront greenery and native fauna.</h4>
 
-![](/images/202306%20JLD%20Website%20Update/16_lake%20attractions_main%20render.png)
-<span style="font-size:12px; font-style:italic;">Artist's impression of an activated, pedestrian-friendly promenade along the water’s edge. </span>
+![](/images/jth_monument_view.jpg)
+<span style="font-size:12px; font-style:italic;"> Artist’s impression of the view corridor with the Jurong Town Hall monument. </span>
 
 <h3 style="color:#124596; font-weight:bold;">A place to redefine live, work, play and learn</h3>
 
@@ -84,9 +84,6 @@ Designed by Zaha Hadid Architects in collaboration with Architects 61, the new S
 <span style="font-size:12px; font-style:italic;"> Artist’s impression of gallery exhibits showcasing core scientific concepts. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
 
 A new recreation corridor with active public spaces will link Jurong Town Hall to the existing Science Centre building.
-
-![](/images/jth_monument_view.jpg)
-<span style="font-size:12px; font-style:italic;"> Artist’s impression of the view corridor with the Jurong Town Hall monument. </span>
 
 These distinctive landmark buildings will take on new uses, continue to anchor the district and create a strong sense of place. They could become centres for co-working, innovation, museums, art studios, theatres, event grounds and playscapes with open spaces for the  community to enjoy.
 
