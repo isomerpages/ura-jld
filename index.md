@@ -9,7 +9,7 @@ notification: URA launches tender for a Master Developer site at Jurong Lake
 sections:
   - hero:
       title: A place to grow
-      background: /images/July 2022 Update/Hero.jpg
+      background: /images/202306 JLD Website Update/37_primed green economy_render.jpg
       url: /contact-us/
       key_highlights:
         - title: Grow seamlessly & easily
@@ -32,7 +32,8 @@ sections:
       button: GROW WITH JURONG LAKE DISTRICT
       url: /potential
       alt: Grow seamless & easily
-      image: /images/jld_birdseye.jpg
+      image: /images/202306 JLD Website Update/18_attractive
+        lakefront_render_small.jpg
   - infopic:
       title: More than a CBD
       subtitle: Experience
@@ -42,7 +43,7 @@ sections:
       button: EXPLORE JURONG LAKE DISTRICT
       alt: More than a CBD
       url: /experience
-      image: /images/jld_experience.jpg
+      image: /images/202306 JLD Website Update/16_lake attractions_main render.png
   - infopic:
       title: Sustainable living
       subtitle: Sustainability
@@ -58,7 +59,8 @@ sections:
       description: Invest and join the growing network of businesses in Jurong Lake District
       button: INVEST IN JURONG LAKE DISTRICT
       url: /opportunity/next-strategic-move
-      image: /images/MD_site_2.jpg
+      image: /images/202306 JLD Website Update/8_transforming jld_render_with
+        labels.jpg
       alt: MD Site
   - resources:
       title: Events & resources
