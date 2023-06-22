@@ -98,7 +98,7 @@ All new buildings will be required to minimally achieve Green Mark Platinum (Sup
 Jurong Lake District will be served by the District Cooling and District Pneumatic Waste Conveyance Systems. These systems could be housed in underground Common Services Tunnels to deliver cleaner and more efficient urban services to all buildings, which would also make our streets more pleasant by eliminating the need to dig up the road to lay utilities. 
 
 ![](/images/202306%20JLD%20Website%20Update/36_centralised%20district%20infra_section%20render.jpg)
-<span style="font-size:12px; font-style:italic;">Artist's impression of a building section for a development in JLD. </span>
+<span style="font-size:12px; font-style:italic;">Artist's impression of how district infrastructure, vehicular circulation, deliveries and servicing will be located at the basement levels, freeing up the ground floor for more vibrant street life. </span>
 
 <h3 style="color:#124596; font-weight:bold;">Advancing sustainability through partnership and innovation</h3>
 
