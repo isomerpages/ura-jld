@@ -4,7 +4,7 @@ permalink: /opportunity/developmentopportunities/
 description: ""
 ---
 <h3 style="color:#124596; font-weight:bold;"><br>
-White Site to be released for sale to Master Developer in 1H2023 </h3>
+White Site released for sale to Master Developer by public tender </h3>
 
 Jurong Lake District will be progressively developed into Singapore’s largest business district outside the city centre to cater to business needs and support decentralisation. It will be a model sustainability district with a goal to achieve net-zero emissions for new developments around 2045. 
 
@@ -12,20 +12,17 @@ Today, the area around the Jurong East MRT interchange station comprises spaces 
 
 The Government will sustain the development momentum at Jurong Lake District, through the release of sites for sale, with the supply carefully paced to take into account economic and market conditions.
 
-To kickstart the next phase of development in Jurong Lake District, the Government will be releasing, via the 1H2023 Confirmed List, a 6.8 hectare White site in the precinct for sale to a Master Developer. 
+To kickstart the next phase of development in Jurong Lake District, the Government has released, via the 1H2023 Confirmed List, a 6.5 hectare White site in the precinct for sale to a Master Developer. 
 
-This comprises three plots of land linking the Jurong East MRT interchange station and the future Jurong Lake District station of the Cross Island Line. The intention is for a single developer to comprehensively master plan the site and use district-level urban solutions (such as a district cooling system) that will be integrated within the mixed-use development.
+This comprises three plots of land linking the existing commercial centre at the Jurong East MRT interchange station to the new precinct and the future Jurong Lake District station of the Cross Island Line. The intention is for a single developer to comprehensively master plan the site and use district-level urban solutions (such as a district cooling system and district pneumatic waste conveyancing system) that will be integrated within the mixed-use development.
 
 ![](/images/MD_site_1a.jpg)
 <span style="font-size:12px; font-style:italic;">The future mixed-use development will be integrated with the Jurong East MRT interchange station and the future Jurong Lake District station of the Cross Island Line. <br>(Image by URA)</span>
 
-With a potential yield of about 150,000 sqm of office space, 1,760 private residential units and 75,000 sqm GFA of complementary uses such as retail, hotel or community uses, the proposed integrated development will be progressively developed over the next 5 to 10 years to cater to market demand. The successful tenderer will be required to build at least 70,000 sqm GFA of office space and 600 private housing units as part of the first phase of the development, but will have some flexibility to phase out the remaining supply according to market demand.
+With a potential yield of about 146,000 sqm of office space, 166,000 sqm of residential use and the remaining gross floor area for complementary uses such as shops, restaurants, entertainment, hotel,  community or more offices, the proposed integrated development will be progressively completed over the next 10 to 15 years and provide the critical mass to propel the development of this future business district. The successful tenderer will be required to build at least 70,000 sqm GFA of office space and 51,000 sqm GFA of residential use as part of the first phase of the development, but will have flexibility to phase out the remaining supply according to market demand via an option scheme drawn up by URA.
 
 ![](/images/MD_site_2.jpg)
-<span style="font-size:12px; font-style:italic;">The proposed integrated development can potentially yield about 150,000 sqm of office space, 1,760 private residential units and 75,000 sqm GFA of complementary uses such as retail, hotel or community uses. <br>(Image by URA)</span>
+<span style="font-size:12px; font-style:italic;">The proposed integrated development can potentially yield about 146,000 sqm of office space, 166,000 sqm of residential use and the remaining gross floor area for complementary uses such as shops, restaurants, entertainment, hotel,  community or more offices. <br>(Image by URA)</span>
 
-The site is expected to be launched in June 2023.
 
-For more details of the 1H2023 GLS Programme, read the full media release [here](https://www.mnd.gov.sg/newsroom/press-releases/view/release-of-first-half-of-2023-government-land-sales-(gls)-programme).
-
-Parties interested in development and investment opportunities in Jurong Lake District may get in touch [here](https://www.jld.gov.sg/get-in-touch).
+View the media release [here](https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr23-19).
