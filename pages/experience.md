@@ -6,22 +6,21 @@ permalink: /experience/
 
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Imagine working, living and playing in the district with convivial plazas, intimate public spaces, lush lakefront greenery and native fauna.</h4>
 
-![Statistics](/images/jld_experience.jpg)
-<span style="font-size:12px; font-style:italic;">Artist's impression of a continuous waterfront created around the lake with a variety of spaces for living, working and recreation.<br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
-</span>
+![](/images/202306%20JLD%20Website%20Update/16_lake%20attractions_main%20render.png)
+<span style="font-size:12px; font-style:italic;">Artist's impression of an activated, pedestrian-friendly promenade along the water’s edge. </span>
 
 <h3 style="color:#124596; font-weight:bold;">A place to redefine live, work, play and learn</h3>
 
 Jurong Lake District is ideal for the next generation of businesses and talent to redesign the way we live, work, play and learn.
 
-![Nightlife in JLD](/images/jld_nightlife.jpg)
-<span style="font-size:12px; font-style:italic;">Artist's impression of vibrant streets and spaces that will provide a variety of retail, F&B and entertainment options.<br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+![](/images/202306%20JLD%20Website%20Update/14_courtyard_render_1.jpg)
+<span style="font-size:12px; font-style:italic;">Artist's impression of an open-to-sky courtyard that is designed as a extension of the surrounding streets.
 </span>
 
 Around Jurong East MRT station, residences at J-Gateway and offices at Jem, Westgate and Vision Exchange connect seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.
 
 ![](/images/July%202022%20Update/Yi%20Lin.jpg)
-<span style="font-size:12px; font-style:italic;">A wide variety of retail and food & beverage options are available at Jurong Lake District.<br>(Photography by Chee Boon Pin)
+<span style="font-size:12px; font-style:italic;">A wide variety of retail and food &amp; beverage options are available at Jurong Lake District.<br>(Photography by Chee Boon Pin)
 </span>
 
 New inspiring work campuses that seamlessly integrate with parks, cafes, restaurants, retail, schools and homes will capitalise on the existing infrastructure to appeal to diverse and modern lifestyles.
@@ -31,8 +30,8 @@ New inspiring work campuses that seamlessly integrate with parks, cafes, restaur
 
 Jurong Lake District will be made up of neighbourhoods where amenities, green spaces and public transport nodes will be within 10-minutes reach.   
 
-![](/images/jld_jwalk.jpg)
-<span style="font-size:12px; font-style:italic;">Artist's impression of a pedestrian friendly street connecting people to their daily amenities.<br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+![](/images/202306%20JLD%20Website%20Update/28_overall%20connectivity%20plan_render.jpg)
+<span style="font-size:12px; font-style:italic;">Artist's impression of the pedestrian networks coming together to form a fast-lane pedestrian route between the existing Jurong East MRT Station and the future Jurong Lake District MRT Station.
 </span>
 
 Lively campuses will house business and residential communities, where people meet and interact in generous open spaces and an attractive public realm. Throughout the district, retail, entertainment, healthcare, education, sports and fitness will all be within easy reach.
