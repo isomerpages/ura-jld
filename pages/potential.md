@@ -1,13 +1,13 @@
 ---
 title: Potential
-permalink: /potential
+permalink: /potential/
 ---
 <h3 style="color:#124596; font-weight:bold;">Grow seamlessly &amp; easily</h3>
 
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Jurong Lake District presents an opportunity for companies to put down roots, create a brand-new campus and scale up easily.</h4>
 
 ![](/images/July%202022%20Update/Hero.jpg)
-<span style="font-size:12px; font-style:italic;">Artist's impression of Jurong Lake District – Singapore’s next largest business district and a world-class sustainability district. <br> (Image by URA)</span>
+<span style="font-size:12px; font-style:italic;">Artist's impression of Jurong Lake District – Singapore’s next largest business district and a world-class sustainability district. </span>
 
 <h3 style="color:#124596; font-weight:bold;">Our next largest business district</h3>
 
@@ -33,7 +33,7 @@ their activities and teams in one place. Large sites will give developers the fl
 
 <h3 style="color:#124596; font-weight:bold;">A dynamic ecosystem to grow your business </h3>
 
-The West Region is also home to Singapore’s top two universities, providing a deep talent pool. Tuas Port, Jurong Innovation District and one-north are close by, making Jurong Lake District the ideal location to tap on academia for cutting-edge R&D, and to provide business and professional services to the maritime and high-value industries.
+The West Region is also home to Singapore’s top two universities, providing a deep talent pool. Tuas Port, Jurong Innovation District and one-north are close by, making Jurong Lake District the ideal location to tap on academia for cutting-edge R&amp;D, and to provide business and professional services to the maritime and high-value industries.
 
 ![Overview map of JLD](/images/jld_overviewmapD.png)
 <span style="font-size:12px; font-style:italic;"></span>
@@ -47,8 +47,8 @@ By 2040 to 2050, Jurong Lake District will have 100,000 new jobs and 20,000 new 
 
 <h3 style="color:#124596; font-weight:bold;">Fast connections to major hubs</h3>
 
-Jurong Lake District will have excellent connectivity via two new train lines, Jurong Region Line and Cross Island Line, which will be fully completed by 2029 and in 2030s, respectively. Together with the existing East-West Line and North-South Line, these new lines will connect people to major business centres and education hubs in the West and Central regions within 30 minutes. 
+Jurong Lake District will have excellent connectivity via two new train lines, Jurong Region Line and Cross Island Line, which are expected to be completed by 2029 and 2032 (for Phase 2) respectively. Together with the existing East-West Line and North-South Line, these new lines will connect people to major business centres and education hubs in the West and Central regions within 30 minutes. 
 
 <img src="/images/Travel_Times.png" style="width:75%;">
 
-Jurong Region Line will link the district to academic expertise, R&D and skilled talent at Nanyang Technological University, Jurong Innovation District and Jurong Industrial Estate, where many high-value industries are located. The Cross Island Line will serve existing and future developments in the eastern, western and north-eastern corridors and connect Jurong Lake District to other major hubs such as Punggol Digital District and Changi Airport. 
+Jurong Region Line will link the district to academic expertise, R&amp;D and skilled talent at Nanyang Technological University, Jurong Innovation District and Jurong Industrial Estate, where many high-value industries are located. The Cross Island Line will serve existing and future developments in the eastern, western and north-eastern corridors and connect Jurong Lake District to other major hubs such as Punggol Digital District and Changi Airport.
