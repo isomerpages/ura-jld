@@ -6,8 +6,8 @@ permalink: /sustainability/
 
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Connect to a ready sustainability ecosystem with people and businesses who care.</h4>
 
-![Alt text for image on Isomer site](/images/jld_rasauwalk.jpg)
-<span style="font-size:12px; font-style:italic;">Rasau Walk is a 300m boardwalk situated along the edge of Jurong Lake that meanders through a restored freshwater wetland. <br> (Image courtesy of NParks)</span>
+![](/images/202306%20JLD%20Website%20Update/16_lake%20attractions_main%20render.png)
+<span style="font-size:12px; font-style:italic;">Artist's impression of an activated, pedestrian-friendly promenade along the water’s edge. </span>
 
 <h3 style="color:#124596; font-weight:bold;">Primed for the green economy </h3>
 
