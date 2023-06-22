@@ -39,7 +39,7 @@ The six pillars encapsulate our ambitions for the district to achieve our net-ze
 
 Jurong Lake District has high ambitions for green mobility.
 
-By the 2030s, Jurong Lake District will be served by four MRT lines. At least 85% of all trips are targeted to be made by Walk-Cycle-Ride modes of transport by 2035. 
+By 2032, Jurong Lake District will be served by four MRT lines. At least 85% of all trips are targeted to be made by Walk-Cycle-Ride modes of transport by 2035. 
 
 ![](/images/July%202022%20Update/barney.jpg)
 <span style="font-size:12px; font-style:italic;">People can walk to their destinations comfortably along the J-Walk, an elevated weather-proof pedestrian network that links buildings, transit stations and public spaces throughout the district. <br>(Photography by Chee Boon Pin)
