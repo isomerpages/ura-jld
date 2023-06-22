@@ -4,8 +4,8 @@ title: Jurong Lake District
 description: A Place To Grow
 image: /images/July 2022 Update/Hero.jpg
 permalink: /
-notification: URA has launched the tender for a Master Developer site at Jurong
-  Lake District. Find out more in Opportunity > Development Opportunities
+notification: URA launches tender for a Master Developer site at Jurong Lake
+  District. Find out more in Opportunity > Development Opportunities
 sections:
   - hero:
       title: A place to grow
