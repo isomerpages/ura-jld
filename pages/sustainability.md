@@ -14,7 +14,7 @@ permalink: /sustainability/
 At Jurong Lake District, residents and businesses will collectively shape a sustainable future through shared goals, higher standards and ready technology.
 
 ![Alt text for image on Isomer site](/images/JLD_03_Central_park.jpg)
-<span style="font-size:12px; font-style:italic;">Artist's impression of Central Park, an urban park with water features and lawn spaces against a backdrop of green buildings. <br> (Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+<span style="font-size:12px; font-style:italic;">Artist's impression of Central Park, an urban park with water features and lawn spaces against a backdrop of green buildings. <br> (Image courtesy of KCAP Architects &amp; Planners, SAA Architects, Arup, S333 and Lekker)
  </span>
 
 Identified as a model for urban sustainability under the Singapore Green Plan 2030, the district will support Singapore’s ambition to be a carbon services hub and a leading centre for green finance in Asia and globally.
@@ -34,8 +34,7 @@ The six pillars encapsulate our ambitions for the district to achieve our net-ze
 ![](/images/July%202022%20Update/6%20sust%20(2).jpg)
 
 ![](/images/July%202022%20Update/Image%20C%20-%20Sustainable%20District%20Model%20Infographic.jpg)
-<span style="font-size:12px; font-style:italic;">Artist's impression showing how the sustainability aspirations for Jurong Lake District come together in a typical development. <br>(Image by URA)
-</span>
+<span style="font-size:12px; font-style:italic;">Artist's impression showing how the sustainability aspirations for Jurong Lake District come together in a typical development. </span>
 
 <h3 style="color:#124596; font-weight:bold;">Pursuing sustainable transport </h3>
 
@@ -54,8 +53,7 @@ By the 2030s, Jurong Lake District will be served by four MRT lines. At least 85
 Key roads will be designed as Transit Priority Corridors, with bus-only usage lane, wider footpaths and cycling paths. The bus fleet serving JLD will also comprise cleaner energy buses, including fully electric buses that will be deployed on feeder buses by 2030.
 
 ![](/images/July%202022%20Update/Street%20View.png)
-<span style="font-size:12px; font-style:italic;">Artist's impression of comfortable walkable streets lined with amenities. <br>(Image by URA)
-</span>
+<span style="font-size:12px; font-style:italic;">Artist's impression of comfortable walkable streets lined with amenities. </span>
 
 Car parking provisions will also be lowered to reduce traffic and create a people-friendly environment. 
 
@@ -65,7 +63,7 @@ The district will be designed to readily support autonomous vehicles for both pa
 <span style="font-size:12px; font-style:italic;">Autonomous vehicles at Jurong Lake Gardens are an example of a trial to prepare for the wider future deployment of AVs in the district. <br>(Image courtesy of NParks)
 </span>
 
-<h3 style="color:#124596; font-weight:bold;">Enabling healthy living & building a city in nature</h3>
+<h3 style="color:#124596; font-weight:bold;">Enabling healthy living &amp; building a city in nature</h3>
 
 More than 100 hectares of land in Jurong Lake District has been set aside for parks and green spaces. 
 
@@ -76,11 +74,11 @@ More than 100 hectares of land in Jurong Lake District has been set aside for pa
 New buildings will achieve 100% landscape replacement, where greenery lost through development will be fully replaced by vertical greenery, sky terraces and landscaping. 
 
 ![Alt text for image on Isomer site](/images/jld_rooftopterraceB.png)
-<span style="font-size:12px; font-style:italic;"> Artist's impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
+<span style="font-size:12px; font-style:italic;"> Artist's impression of skyrise and rooftop greenery on buildings collectively forming a ‘green carpet’ in the sky. <br>(Image courtesy of KCAP Architects &amp; Planners, SAA Architects, Arup, S333 and Lekker)
 </span>
 
 ![](/images/July%202022%20Update/Roof%20Terrace.png)
-<span style="font-size:12px; font-style:italic;">Artist's impression of developments with lush roofscapes offering amenities to support healthy lifestyles. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker and URA)
+<span style="font-size:12px; font-style:italic;">Artist's impression of developments with lush roofscapes offering amenities to support healthy lifestyles. <br>(Image courtesy of KCAP Architects &amp; Planners, SAA Architects, Arup, S333 and Lekker and URA)
 </span>
 
 Thermal comfort, wind flow and shade analyses will be conducted at the development design phase to combat urban heat island effect, reduce energy consumed for cooling and create a comfortable environment for occupants. 
@@ -101,9 +99,8 @@ All new buildings will be required to minimally achieve Green Mark Platinum (Sup
 
 Jurong Lake District will be served by the District Cooling and District Pneumatic Waste Conveyance Systems. These systems could be housed in underground Common Services Tunnels to deliver cleaner and more efficient urban services to all buildings, which would also make our streets more pleasant by eliminating the need to dig up the road to lay utilities. 
 
-![Alt text for image on Isomer site](/images/jld_cwalkcrop.jpg)
-<span style="font-size:12px; font-style:italic;">Artist's impression of the pleasant and seamless streetscape created by centralising and housing infrastructure underground. <br>(Image courtesy of KCAP Architects & Planners, SAA Architects, Arup, S333 and Lekker)
-</span>
+![](/images/202306%20JLD%20Website%20Update/36_centralised%20district%20infra_section%20render.jpg)
+<span style="font-size:12px; font-style:italic;">Artist's impression of a building section for a development in JLD. </span>
 
 <h3 style="color:#124596; font-weight:bold;">Advancing sustainability through partnership and innovation</h3>
 
