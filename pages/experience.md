@@ -85,4 +85,10 @@ Designed by Zaha Hadid Architects in collaboration with Architects 61, the new S
 
 A new recreation corridor with active public spaces will link Jurong Town Hall to the existing Science Centre building.
 
+![](/images/jth_monument_view.jpg)
+<span style="font-size:12px; font-style:italic;"> Artist’s impression of the view corridor with the Jurong Town Hall monument. </span>
+
 These distinctive landmark buildings will take on new uses, continue to anchor the district and create a strong sense of place. They could become centres for co-working, innovation, museums, art studios, theatres, event grounds and playscapes with open spaces for the  community to enjoy.
+
+![](/images/2nd%20storey%20courtyard.jpg)
+<span style="font-size:12px; font-style:italic;"> Artist’s impression of the view corridor with the Science Centre Singapore main building. </span>
