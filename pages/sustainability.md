@@ -91,8 +91,7 @@ Thermal comfort, wind flow and shade analyses will be conducted at the developme
 Embedded from the start, centralised district infrastructure will optimise the use of land and energy resources across Jurong Lake District.
 
 ![](/images/July%202022%20Update/Image%20C'%20-%20Net%20Zero%20Emissions%20Graphic.jpg)
-<span style="font-size:12px; font-style:italic;">Artist's impression showing how building design and management can contribute towards achieving net zero emissions. <br>(Image by URA)
-</span>
+<span style="font-size:12px; font-style:italic;">Artist's impression showing how building design and management can contribute towards achieving net zero emissions. </span>
 
 All new buildings will be required to minimally achieve Green Mark Platinum (Super Low Energy) certification. Where feasible, we will aim for some developments to include Zero Energy Buildings. We will also deploy solar on all suitable surfaces within the district, not only on rooftops or building facades but also on vacant plots of land as a transitory measure to offset the district's emissions while the national grid is decarbonised over time.
 
