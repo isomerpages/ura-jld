@@ -16,13 +16,12 @@ To kickstart the next phase of development in Jurong Lake District, the Governme
 
 This comprises three plots of land linking the existing commercial centre at the Jurong East MRT interchange station to the new precinct and the future Jurong Lake District station of the Cross Island Line. The intention is for a single developer to comprehensively master plan the site and use district-level urban solutions (such as a district cooling system and district pneumatic waste conveyancing system) that will be integrated within the mixed-use development.
 
-![](/images/MD_site_1a.jpg)
-<span style="font-size:12px; font-style:italic;">The future mixed-use development will be integrated with the Jurong East MRT interchange station and the future Jurong Lake District station of the Cross Island Line. <br>(Image by URA)</span>
+![](/images/202306%20JLD%20Website%20Update/8_transforming%20jld_render_with%20labels.jpg)
+<span style="font-size:12px; font-style:italic;">The future mixed-use development will be integrated with the existing commercial centre at the Jurong East MRT interchange station to the new precinct and the future Jurong Lake District station of the Cross Island Line. <br>(Image by URA)</span>
 
 With a potential yield of about 146,000 sqm of office space, 166,000 sqm of residential use and the remaining gross floor area for complementary uses such as shops, restaurants, entertainment, hotel,  community or more offices, the proposed integrated development will be progressively completed over the next 10 to 15 years and provide the critical mass to propel the development of this future business district. The successful tenderer will be required to build at least 70,000 sqm GFA of office space and 51,000 sqm GFA of residential use as part of the first phase of the development, but will have flexibility to phase out the remaining supply according to market demand via an option scheme drawn up by URA.
 
-![](/images/MD_site_2.jpg)
-<span style="font-size:12px; font-style:italic;">The proposed integrated development can potentially yield about 146,000 sqm of office space, 166,000 sqm of residential use and the remaining gross floor area for complementary uses such as shops, restaurants, entertainment, hotel,  community or more offices. <br>(Image by URA)</span>
-
+![](/images/jld%20sale%20site.jpg)
+<span style="font-size:12px; font-style:italic;">Location of Master Developer site at Jurong Lake District. </span>
 
 View the media release [here](https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr23-19).
