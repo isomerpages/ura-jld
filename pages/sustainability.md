@@ -49,7 +49,7 @@ By the 2030s, Jurong Lake District will be served by four MRT lines. At least 85
 <span style="font-size:12px; font-style:italic;">Walk-Cycle-Ride trips will make up at least 85% of all trips to and from Jurong Lake District. <br>(Photography by Chee Boon Pin)
 </span>
 
-Key roads will be designed as Transit Priority Corridors, with bus-only usage lane, wider footpaths and cycling paths. The bus fleet serving JLD will also comprise cleaner energy buses, including fully electric buses that will be deployed on feeder buses by 2030.
+Key roads will be designed as Transit Priority Corridors, with bus-only usage lane, wider footpaths and cycling paths. The bus fleet serving the district will also comprise cleaner energy buses, including fully electric buses that will be deployed on feeder buses by 2030.
 
 ![](/images/July%202022%20Update/Street%20View.png)
 <span style="font-size:12px; font-style:italic;">Artist's impression of comfortable walkable streets lined with amenities. </span>
