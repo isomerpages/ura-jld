@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/jld_ud_guide.jpg)
+![](/images/microsoftteams-image.jpeg)
 
 This Jurong Lake District (JLD) Planning and Urban
 Design Guide presents the planning and urban
@@ -17,4 +17,4 @@ It aims to visually communicate the desired outcomes of the planning and urban d
 
 Please note that all the plans shown in this guide are conceptual and indicative only. Please refer to the URA Master Plan for the specified land use and development intensity of the various sites in JLD.
 
-The Jurong Lake District Planning and Urban Design Guide can be downloaded [here].(/files/jld%20planning%20and%20urban%20design%20guide.pdf)
+The Jurong Lake District Planning and Urban Design Guide can be downloaded [here](/files/jld%20planning%20and%20urban%20design%20guide.pdf).
