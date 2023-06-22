@@ -8,7 +8,7 @@ permalink: /opportunity/next-strategic-move/
 
 Amidst a fast-changing landscape, our commitment remains steadfast. Investors can be confident in the government’s commitment to focus investment and development in Jurong Lake District for the next two decades.
 
-![](/images/202306%20JLD%20Website%20Update/4_islandwide%20office%20gfa_diagram.jpg)
+![](/images/4_islandwide%20office%20gfa_diagram.jpg)
 
 <h3 style="color:#124596; font-weight:bold;">Precinct plan</h3>
 
