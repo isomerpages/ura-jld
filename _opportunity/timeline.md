@@ -32,7 +32,8 @@ Complete rejuvenation of Jurong Lake Gardens (Chinese Garden and Japanese Garden
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2023</h4>
-Opening of Jurong Lake Gardens (Northern Section), Completion of Perennial Business City<br><br> Appointed Keppel as District Cooling System Operator for JLD
+Opening of Jurong Lake Gardens (Northern Section), Completion of Perennial Business City<br><br> Appointed Keppel as District Cooling System Operator for JLD<br><br> 
+Launch of Master Developer sale site
 
 <hr style="margin:2rem 0;">
 
