@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+This is our planning and urban design guide.
+
+[www](/files/jld%20planning%20and%20urban%20design%20guide.pdf)
