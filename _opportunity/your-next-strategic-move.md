@@ -49,6 +49,6 @@ Jurong Lake District offers a range of workspaces to suit different business nee
 
 <a href="https://www.mapletreeindustrialtrust.com/Customer-Solutions/Featured-Products/Synergy%20at%20IBP.aspx" style="color:#62863a;">The Synergy (International Business Park)</a>
 
-<a href="https://www.simlian.com.sg/portfolio/integrated/projects-for-salelease/vision-exchange/additional-info/" style="color:#62863a;">Vision Exchange</a>
+[Vision Exchange](https://www.simlian.com.sg/property/vision-exchange/)
 
 <a href="https://www.westgate-tower.com.sg/" style="color:#62863a;">Westgate Tower</a>
