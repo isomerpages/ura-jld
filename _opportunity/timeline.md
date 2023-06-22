@@ -12,7 +12,7 @@ Relocation of Ministry of National Development, Ministry of Sustainability and t
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;">2032</h4>
-Expected completion of Cross Island Line
+Expected completion of Cross Island Line (Phase 2)
 
 <hr style="margin:2rem 0;">
 
