@@ -6,7 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/microsoftteams-image.jpeg)
+
+![](/images/202306%20JLD%20Website%20Update/jld%20ud%20guide%20cover.jpg)
 
 This Jurong Lake District (JLD) Planning and Urban
 Design Guide presents the planning and urban
