@@ -43,7 +43,7 @@ sections:
       button: EXPLORE JURONG LAKE DISTRICT
       alt: More than a CBD
       url: /experience
-      image: /images/jth_monument_view.jpg
+      image: /images/202306 JLD Website Update/jth_monument_view.jpg
   - infopic:
       title: Sustainable living
       subtitle: Sustainability
