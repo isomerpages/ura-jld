@@ -12,4 +12,6 @@ Organised by the Urban Redevelopment Authority (URA) and Smart Nation & Digital 
 
 A public-private collaboration effort, the challenge statements were identified by the district’s stakeholders, including CapitaLand, Ng Teng Fong General Hospital and Jurong Community Hospital, Lendlease Global Commercial REIT, Science Centre Singapore, SMRT and the Land Transport Authority.
 
+The winning solutions will be exhibited at the URA Centre until 12 August.
+
 View the media release [here](https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr23-24).
