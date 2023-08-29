@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://ura-jld-staging.netlify.app
-prod: https://ura-jld-prod.netlify.app
+staging: https://staging.d3n6guo2svnb73.amplifyapp.com/
+prod: https://master.d3n6guo2svnb73.amplifyapp.com/
 shareicon: /images/July 2022 Update/Hero.jpg
 is_government: true
 facebook-pixel: ""
