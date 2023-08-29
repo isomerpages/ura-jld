@@ -15,7 +15,7 @@ Heritage is often recounted on a grand scale. However, much of our identity comp
 
 Issue 4 is an ode to the heritage behind ordinary preloved objects and traces its renewed lives with new owners. 
 
-![Alt text for image on Isomer site](/images/KampungJurong04.jpg)
+![Alt text for image on Isomer site](/images/kampungjurong04.jpg)
 
 Five youth contributors are paired with five seniors who have objects they are ready to part with. The youth contributors then inherit a selected item respectively and explore its renewed life from their personal point of view, and the hidden narratives that come along with it. 
 

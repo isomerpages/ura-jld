@@ -9,7 +9,7 @@ The vibrancy of our spaces enhances our connection and appreciation towards plac
 
 This first-ever book by Urban Redevelopment Authority on placemaking in Singapore charts these efforts over the last two decades, and shares various experiences from our designers, architects, planners, and placemaking community.
 
-![Alt text for image on Isomer site](/images/Placemaking%20Book%20Cover.jpg)
+![Alt text for image on Isomer site](/images/placemaking%20book%20cover.jpg)
 
 Indeed, placemaking must take a collaborative approach, with public, private and people sectors coming together to enliven our public spaces. Successful placemaking is more than just getting stakeholders to organise or coordinate activities, it is about drawing in the community and meaningfully involving people in the activities. 
 

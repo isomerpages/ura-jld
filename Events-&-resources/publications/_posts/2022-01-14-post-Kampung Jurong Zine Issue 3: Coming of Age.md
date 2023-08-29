@@ -15,7 +15,7 @@ The topic of ageing is commonly associated with the elderly but rarely drawn in 
 
 [Issue 3](https://aboldkampung.wixsite.com/kampung/issue-3) is a guide to ageing that showcases the reflections of five pairings of youth and elderly as they explore thematic questions on ageing and growing up. 
 
-![Alt text for image on Isomer site](/images/KampungJurong03.jpg)
+![Alt text for image on Isomer site](/images/kampungjurong03.jpg)
 
 The publication is divided into two parts- the first half features the articles / works by the youths, while the other half features the elderly's perspectives in elderly-friendly text. 
 

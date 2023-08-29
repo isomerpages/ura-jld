@@ -4,7 +4,7 @@ permalink: /opportunity/timeline/
 ---
 <h3 style="color:#124596; font-weight:bold;">Transforming Jurong Lake District</h3>
 
-![](/images/202306%20JLD%20Website%20Update/8_transforming%20jld_render_with%20labels.jpg)
+![](/images/202306%20jld%20website%20update/8_transforming%20jld_render_with%20labels.jpg)
 
 <h4 style="color:#124596; font-weight:normal;">Detailed timelines under study</h4>
 Relocation of Ministry of National Development, Ministry of Sustainability and the Environment, Ministry of Transport, Land Transport Authority to Jurong Lake District

@@ -6,20 +6,20 @@ permalink: /experience/
 
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Imagine working, living and playing in the district with convivial plazas, intimate public spaces, lush lakefront greenery and native fauna.</h4>
 
-![](/images/202306%20JLD%20Website%20Update/jth_monument_view.jpg)
+![](/images/202306%20jld%20website%20update/jth_monument_view.jpg)
 <span style="font-size:12px; font-style:italic;"> Artist’s impression of the view corridor with the Jurong Town Hall monument. </span>
 
 <h3 style="color:#124596; font-weight:bold;">A place to redefine live, work, play and learn</h3>
 
 Jurong Lake District is ideal for the next generation of businesses and talent to redesign the way we live, work, play and learn.
 
-![](/images/202306%20JLD%20Website%20Update/14_courtyard_render_1.jpg)
+![](/images/202306%20jld%20website%20update/14_courtyard_render_1.jpg)
 <span style="font-size:12px; font-style:italic;">Artist's impression of an open-to-sky courtyard that is designed as a extension of the surrounding streets.
 </span>
 
 Around Jurong East MRT station, residences at J-Gateway and offices at Jem, Westgate and Vision Exchange connect seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.
 
-![](/images/July%202022%20Update/Yi%20Lin.jpg)
+![](/images/july%202022%20update/yi%20lin.jpg)
 <span style="font-size:12px; font-style:italic;">A wide variety of retail and food &amp; beverage options are available at Jurong Lake District.<br>(Photography by Chee Boon Pin)
 </span>
 
@@ -30,13 +30,13 @@ New inspiring work campuses that seamlessly integrate with parks, cafes, restaur
 
 Jurong Lake District will be made up of neighbourhoods where amenities, green spaces and public transport nodes will be within 10-minutes reach.   
 
-![](/images/202306%20JLD%20Website%20Update/28_overall%20connectivity%20plan_render.jpg)
+![](/images/202306%20jld%20website%20update/28_overall%20connectivity%20plan_render.jpg)
 <span style="font-size:12px; font-style:italic;">Artist's impression of the pedestrian networks coming together to form a fast-lane pedestrian route between the existing Jurong East MRT Station and the future Jurong Lake District MRT Station.
 </span>
 
 Lively campuses will house business and residential communities, where people meet and interact in generous open spaces and an attractive public realm. Throughout the district, retail, entertainment, healthcare, education, sports and fitness will all be within easy reach.
 
-![](/images/Picture2.jpg)
+![](/images/picture2.jpg)
 <span style="font-size:12px; font-style:italic;">Opportunities for sport, exercise and recreation will be within easy reach.<br>(Photography by Chee Boon Pin)
 </span>
 
@@ -57,7 +57,7 @@ Water-sensitive urban design promotes climate resilience by channeling excess st
 
 Jurong Lake Gardens provides opportunities for birdwatching and nature walks among vast grasslands and restored wetlands.
 
-![](/images/Grasslands%204.jpg)
+![](/images/grasslands%204.jpg)
 <span style="font-size:12px; font-style:italic;">Jurong Lake Gardens provides opportunities for birdwatching and nature walks in grasslands. <br> (Image courtesy of NParks)
 </span>
 
@@ -67,25 +67,25 @@ In 2021, Lakeside Garden won an Urban Land Institute Asia Pacific Award for Exce
 
 Unique attractions will surround Jurong Lake, adding to the variety of recreation and water activities around the lake.
 
-![Alt text for image on Isomer site](/images/JLG_Event_Lawn.jpg) 
+![Alt text for image on Isomer site](/images/jlg_event_lawn.jpg) 
 <span style="font-size:12px; font-style:italic;"> Artist's impression of the new event lawn at Chinese Garden with views of the Pagoda and Jurong Lake. <br> (Image courtesy of NParks)</span>
 
 The redeveloped Chinese and Japanese Gardens will be completed in 2024. The new Science Centre, when completed around 2027, and a future tourism development will line the waterfront with exciting leisure and entertainment offerings.
 
 Designed by Zaha Hadid Architects in collaboration with Architects 61, the new Science Centre will be Singapore’s biggest living lab to showcase real-world applications of science and technology. Its facilities, programmes and lush lakeside location will create an immersive learning experience in a one-of-a-kind space for visitors and residents in Jurong Lake District.
 
-![](/images/202306%20JLD%20Website%20Update/17_lake%20attractions_new%20science%20centre_render_1.jpg)
+![](/images/202306%20jld%20website%20update/17_lake%20attractions_new%20science%20centre_render_1.jpg)
 <span style="font-size:12px; font-style:italic;"> A bird's eye view of the new Science Centre. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
 
-![](/images/New%20Science%20Centre/Image%202%20-%20Accesible%20from%20Chinese%20Garden%20MRT.jpg)
+![](/images/new%20science%20centre/image%202%20-%20accesible%20from%20chinese%20garden%20mrt.jpg)
 <span style="font-size:12px; font-style:italic;"> With its convenient location at the doorstep of Chinese Garden MRT station, visitors will be able to spend the day exploring both Jurong Lake Gardens and the new Science Centre when it is completed. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
 
-![](/images/New%20Science%20Centre/NSC%2007.jpg)
+![](/images/new%20science%20centre/nsc%2007.jpg)
 <span style="font-size:12px; font-style:italic;"> Artist’s impression of gallery exhibits showcasing core scientific concepts. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
 
 A new recreation corridor with active public spaces will link Jurong Town Hall to the existing Science Centre building.
 
 These distinctive landmark buildings will take on new uses, continue to anchor the district and create a strong sense of place. They could become centres for co-working, innovation, museums, art studios, theatres, event grounds and playscapes with open spaces for the  community to enjoy.
 
-![](/images/202306%20JLD%20Website%20Update/2nd%20storey%20courtyard.jpg)
+![](/images/202306%20jld%20website%20update/2nd%20storey%20courtyard.jpg)
 <span style="font-size:12px; font-style:italic;"> Artist’s impression of the view corridor with the Science Centre Singapore main building. </span>
