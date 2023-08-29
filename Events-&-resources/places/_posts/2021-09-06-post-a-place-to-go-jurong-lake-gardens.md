@@ -1,7 +1,7 @@
 ---
 title: "A PLACE TO GO: Jurong Lake Gardens"
 date: 2021-09-06
-permalink: /events-resources/places/a-place-to-go-jlg
+permalink: /events-resources/places/a-place-to-go-jlg/
 layout: post
 ---
 <h3 style="color:#124596; font-weight:bold;">Jurong Lake Gardens</h3>

@@ -1,6 +1,6 @@
 ---
 title: Get in touch
-permalink: /get-in-touch
+permalink: /get-in-touch/
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: (Ongoing) JWALK at Jurong Lake District!
-permalink: /Events-and-resources/events/j-walkers
+permalink: /events-and-resources/events/j-walkers/
 date: 2022-01-12
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: About URA
-permalink: /about-ura
+permalink: /about-ura/
 ---
 <h3 style="color:#484848; font-weight:bold;">Urban Redevelopment Authority (URA)</h3>
 

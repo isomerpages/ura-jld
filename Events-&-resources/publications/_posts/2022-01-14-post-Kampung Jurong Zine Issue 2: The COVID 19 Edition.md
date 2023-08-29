@@ -1,6 +1,6 @@
 ---
 title: "Kampung Jurong Zine Issue 2: The COVID 19 Edition"
-permalink: /Events-and-resources/publications/kampung-jurong-issue-2
+permalink: /events-and-resources/publications/kampung-jurong-issue-2/
 date: 2022-01-14
 layout: post
 description: ""

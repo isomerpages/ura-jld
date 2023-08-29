@@ -1,6 +1,6 @@
 ---
 title: Why Singapore?
-permalink: /opportunity/why-singapore
+permalink: /opportunity/why-singapore/
 ---
 Singapore’s robust economy, highly-educated workforce, excellent connectivity and high standard of living makes it an ideal location for business and residency.
 

@@ -1,6 +1,6 @@
 ---
 title: "Kampung Jurong Zine Throwback: The Making of Issue 1"
-permalink: /Events-and-resources/publications/kampung-jurong-1
+permalink: /events-and-resources/publications/kampung-jurong-1/
 date: 2022-01-14
 layout: post
 description: ""
