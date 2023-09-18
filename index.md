@@ -2,14 +2,14 @@
 layout: homepage
 title: Jurong Lake District
 description: A Place To Grow
-image: /images/July 2022 Update/Hero.jpg
+image: /images/july 2022 update/hero.jpg
 permalink: /
 notification: URA launches tender for a Master Developer site at Jurong Lake
   District. Find out more in Opportunity > Development Opportunities
 sections:
   - hero:
       title: A place to grow
-      background: /images/202306 JLD Website Update/37_primed green economy_render.jpg
+      background: /images/202306 jld website update/37_primed green economy_render.jpg
       url: /contact-us/
       key_highlights:
         - title: Grow seamlessly & easily
@@ -32,8 +32,7 @@ sections:
       button: GROW WITH JURONG LAKE DISTRICT
       url: /potential
       alt: Grow seamless & easily
-      image: /images/202306 JLD Website Update/18_attractive
-        lakefront_render_small.jpg
+      image: /images/202306 jld website update/18_attractive lakefront_render_small.jpg
   - infopic:
       title: More than a CBD
       subtitle: Experience
@@ -43,7 +42,7 @@ sections:
       button: EXPLORE JURONG LAKE DISTRICT
       alt: More than a CBD
       url: /experience
-      image: /images/202306 JLD Website Update/jth_monument_view.jpg
+      image: /images/202306 jld website update/jth_monument_view.jpg
   - infopic:
       title: Sustainable living
       subtitle: Sustainability
@@ -51,7 +50,7 @@ sections:
         easy alongside people and businesses who care
       button: GREENING JURONG LAKE DISTRICT
       url: /sustainability
-      image: /images/202306 JLD Website Update/16_lake attractions_main render.png
+      image: /images/202306 jld website update/16_lake attractions_main render.png
       alt: Sustainable Living
   - infopic:
       title: Your next strategic move
@@ -59,8 +58,7 @@ sections:
       description: Invest and join the growing network of businesses in Jurong Lake District
       button: INVEST IN JURONG LAKE DISTRICT
       url: /opportunity/next-strategic-move
-      image: /images/202306 JLD Website Update/8_transforming jld_render_with
-        labels.jpg
+      image: /images/202306 jld website update/8_transforming jld_render_with labels.jpg
       alt: MD Site
   - resources:
       title: Events & resources
