@@ -20,7 +20,7 @@ Perovskite Glass-integrated Photovoltaic (GIPV) is a new method of embedding sol
 
 This method allows for customised perovskite shapes and patterns to be printed and incorporated into the glass panes, which can then be used as part of the building façade or roof. 
 
-![](/images/pavilion.jpg)
+![](/images/202306%20jld%20website%20update/pavilion.jpg)
 *At Jurong Lake Gardens, GIPV will be integrated into the roof of the Water Lily Pavilion (Credit: NParks)*
 
 This project is sponsored by Prominence Photovoltaics Pte. Ltd. 
