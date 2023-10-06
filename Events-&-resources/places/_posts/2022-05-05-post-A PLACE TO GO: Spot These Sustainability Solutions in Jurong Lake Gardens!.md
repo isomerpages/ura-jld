@@ -1,6 +1,6 @@
 ---
 title: "A PLACE TO GO: Spot These Sustainability Solutions in Jurong Lake Gardens!"
-permalink: /Events-and-resources/places/sustainabilityjlg
+permalink: /events-and-resources/places/sustainabilityjlg/
 date: 2022-05-05
 layout: post
 description: ""
@@ -23,7 +23,7 @@ The water is also circulated through phytoremediation ponds and biotopes. These 
 
 One example of water-sensitive design is [Clusia Cove](https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/clusia-cove), a three-hectare water playground at Lakeside Garden. 
 
-![](/images/July%202022%20Update/clusia.jpg)
+![](/images/july%202022%20update/clusia.jpg)
 
 *The interlocking biotope, water playground and ecopond at Clusia Cove at Lakeside Garden (Credit: NParks)*
 
@@ -41,7 +41,7 @@ Using an environmentally friendly water-based binder, these granules are bound w
 
 Feel the gentle bounce of the ground the next time you slide at the Butterfly Maze!
 
-![](/images/Slide.jpg)
+![](/images/slide.jpg)
 *Rubber granules recycled from sports shoes lend a soft landing at the Butterfly Maze (Credit: NParks)*
 
 This green project is initiated and sponsored by the Landscape Industry Association of Singapore and Dow. 
@@ -62,7 +62,7 @@ Look out for the new Multi-Purpose Hall when the redeveloped Japanese Garden ope
 
 Observe how the wooden structures span large distances without the need for supporting columns. The unique capability and strength of GLULAM (a type of MET) helps to save space and reduce material use, allowing for a spacious, enjoyable, and environmentally friendly experience at Jurong Lake Gardens!
 
-![](/images/July%202022%20Update/met.jpg)
+![](/images/july%202022%20update/met.jpg)
 *Visitors will be able to observe the beauty and functionality of MET, which is used to construct the Multi-Purpose Hall at the upcoming Japanese Garden (Credit: NParks)*
 
 *Click [here](https://www.nparks.gov.sg/juronglakegardens/who-we-are/jurong-lake-gardens) to learn more about sustainability and smart technology at Jurong Lake Gardens*

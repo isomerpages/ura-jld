@@ -1,6 +1,6 @@
 ---
 title: Jurong Lake District at World Cities Summit 2022
-permalink: /Events-and-resources/publications/wcs2022
+permalink: /events-and-resources/publications/wcs2022/
 date: 2022-08-11
 layout: post
 description: ""
@@ -33,13 +33,13 @@ Strategies include providing for and implementing sustainability infrastructure 
 
 Visitors also showed keen interest in the [new developments](https://www.jld.gov.sg/opportunity/timeline) in Jurong Lake District, namely the upcoming Integrated Transport Hub and Jurong Region Line stations currently under construction, the upcoming New Science Centre and future Tourism Development, and the rejuvenation of the Chinese and Japanese Gardens at Jurong Lake Gardens. The exhibition provided an excellent space to discuss [business and investment opportunities](https://www.jld.gov.sg/opportunity/next-strategic-move) in the district.
 
-![](/images/IMG-20220731-WA0015_copy.jpg)
+![](/images/img-20220731-wa0015_copy.jpg)
 
 ![](/images/image007.jpg)
 *Visitors showing keen interest in the new developments and growth opportunities in Jurong Lake District.*
 
 
-![](/images/IMG-20220802-WA0012.jpg)
+![](/images/img-20220802-wa0012.jpg)
 
 ![](/images/image008%20(1).jpg)
 *The exhibition was an excellent meeting point and discussion space for visitors to the World Cities Summit keen to learn about Jurong Lake District.*
@@ -49,5 +49,5 @@ URA is proud to be part of the Singapore Pavilion at World Cities Summit 2022.
 We look forward to more opportunities to showcase our plans for Jurong Lake District in making it
 **[A Place To Grow](https://www.jld.gov.sg/)**.
 
-![](/images/IMG-20220801-WA0017.jpg)
+![](/images/img-20220801-wa0017.jpg)
 *URA is proud to be part of the Singapore Pavilion at World Cities Summit 2022.*

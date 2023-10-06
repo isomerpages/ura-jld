@@ -1,6 +1,6 @@
 ---
 title: Placemaking Stories & Lessons from Jurong
-permalink: /Events-and-resources/publications/placemaking-jurong
+permalink: /events-and-resources/publications/placemaking-jurong/
 date: 2021-12-16
 layout: post
 description: ""
@@ -14,7 +14,7 @@ Over the years, the area has evolved into an attractive place to live, work and 
 Parts of its heritage remain such as the Thow Kwang and Guan Huat Dragon Kilns, reflecting Jurong’s past as a former brickworks industry. 
 A slice of mangroves can be found at the mouth of the Pandan Reservoir. The preservation of landmarks such as the Jurong Town Hall as a national monument also serves as a vivid reminder of the bold ambitions of pioneers in shaping Singapore’s future. Completed in 1974, it served as the headquarters of Jurong Town Corporation (currently known as JTC Corporation) that was tasked to drive Singapore’s industrialisation.
 
-![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Overview%20of%20Jurong%20Lake%20District1.jpg)
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/overview%20of%20jurong%20lake%20district1.jpg)
 
 **Jurong Lake District**
 
@@ -45,7 +45,7 @@ A critical part of placemaking is in shaping and creating good community spaces 
 community spaces for residents and visitors.
 The improved town centre was renamed J Connect in 2020. Not only did residents and local merchants actively contribute to the two-year effort of redesigning its communal spaces, these spaces are actively used by residents and visitors today.
 
-![Alt text for image on Isomer site](/images/ura-placemaking-handbook/J-connect.jpg)
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/j-connect.jpg)
 
 **Drawing people to the gardens**
 
@@ -59,9 +59,9 @@ Key events such as the annual Sustainable and Mid-Autumn Festivals also bring gr
 
 To bring in an additional dimension to the gardens, collaborations with the National Arts Council have created new art experiences, exhibitions and activities for people to enjoy. Within the gardens, ad hoc art installations or special displays bring delight and fun to the spaces.
 
-![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Rasau%20Walk.jpg)
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/rasau%20walk.jpg)
 
-![Alt text for image on Isomer site](/images/ura-placemaking-handbook/PAssion%20WaVe%20kayak%20pagoda.jpg)
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/passion%20wave%20kayak%20pagoda.jpg)
 *Different activities around Jurong Lake Gardens. Image credits: NParks*
 
 **Re-appreciating older estates**
@@ -74,7 +74,7 @@ According to the feedback received by the Taman Jurong Community Club, those who
 
 Residents and visitors shared that they were also happy that Taman Jurong has become livelier with the many art installations, of which some are even useful as public furniture, such as the tactile expressions benches.
 
-![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Taman%20jurong.jpg)
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/taman%20jurong.jpg)
 
 **Walking together**
 
@@ -84,9 +84,9 @@ To encourage people in the community to walk for health, the Ng Teng Fong Genera
 
 This has since evolved into an all-weather exercise route that combines window shopping with exercise and takes about 5,000 steps (or 50 minutes) to complete. The routes are actively promoted to partners, residents and shoppers.
 
-![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Credit%20Ng%20Teng%20Fong%20General%20Hospital.jpg)
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/credit%20ng%20teng%20fong%20general%20hospital.jpg)
 
-![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Jwalkers.png)
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/jwalkers.png)
 *The community enjoying their walk and the J-Walkers Trail. Image credits: Ng Teng Fong General Hospital*
 
 **Connecting place with communities**
@@ -99,9 +99,9 @@ In 2019, they collaborated with Tembusu College to create a seminar on mural-mak
 
 As a platform for the realisation of ideas, Bold At Work served as the incubator for the creation of a local magazine for the Yuhua neighbourhood, called Kampung Jurong Zine. Inspired by the distinct identities of the neighbourhoods in Tokyo and the thought that one could map a community through people and stories, the founders are exploring the potential such community stories can have in deepening intergenerational connectivity and social health.
 
-![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Mural.jpg)
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/mural.jpg)
 
-![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Zine.png)
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/zine.png)
 *The Kampung Jurong Zine and the mural collaboration with Tembusu College students. Image credits: Bold at Work*
 
 **Banding together**
@@ -120,7 +120,7 @@ The good relationship built so far enables such groups to support and render hel
 
 As Jurong’s physical landscape continues to evolve with new developments in future, placemaking efforts will grow and change in tandem, led by different stakeholders in the area, driven by their passion and love for this distinctive neighbourhood in the west.
 
-![Alt text for image on Isomer site](/images/ura-placemaking-handbook/Bold%20at%20Work.jpg)
+![Alt text for image on Isomer site](/images/ura-placemaking-handbook/bold%20at%20work.jpg)
 *Other space activations by Bold at Work such as its PARK(ing) Day participation in Jurong. Image credit: Bold at Work*
 
 This feature on Jurong is an excerpt from ***How To Make A Great Place*** by Urban Redevelopment Authority. The book charts placemaking efforts in Singapore over the last two decades, and shares the experiences from our designers, architects, planners, and placemaking community.

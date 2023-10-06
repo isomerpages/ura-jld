@@ -1,6 +1,6 @@
 ---
 title: Monthly Biodiversity Tour at Jurong Lake Gardens
-permalink: /Events-and-resources/events/biodiversity-tour
+permalink: /events-and-resources/events/biodiversity-tour/
 date: 2022-02-25
 layout: post
 description: ""
@@ -11,11 +11,11 @@ Breathe in the fresh air and listen to the delightful sounds of nature on a free
 
 Dress comfortably and wear suitable footwear. Bring along a water bottle, hat and a camera to take lots of photos!
 
-![](/images/Grasslands%204.jpg)
+![](/images/grasslands%204.jpg)
 
-![](/images/Neram%20streams%201.jpg)
+![](/images/neram%20streams%201.jpg)
 
-![](/images/Heron%20island.jpg)
+![](/images/heron%20island.jpg)
 
 Cost: Free
 

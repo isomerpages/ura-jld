@@ -1,6 +1,6 @@
 ---
 title: (Ongoing) Smart Nation PlayScape at Science Centre Singapore
-permalink: /Events-and-resources/events/smart-nation
+permalink: /events-and-resources/events/smart-nation/
 date: 2022-01-12
 layout: post
 description: ""

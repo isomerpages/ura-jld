@@ -1,6 +1,6 @@
 ---
 title: Monthly Bazaar In The Garden
-permalink: /Events-and-resources/events/bazaar-in-the-garden
+permalink: /events-and-resources/events/bazaar-in-the-garden/
 date: 2022-02-25
 layout: post
 description: ""
@@ -17,11 +17,11 @@ In the afternoon, participants can learn from our speakers on a variety of garde
 
 ![](/images/Edible%20Rooftop%20Gardening%20(Feb'22%20BIG).jpg)
 
-![](/images/Floral%20Styling%20with%20Kitchenware%20and%20Edibles.jpg)
+![](/images/floral%20styling%20with%20kitchenware%20and%20edibles.jpg)
 
 On-site programmes include the monthly biodiversity tour at Jurong Lake Gardens where you can learn about the rich biodiversity that you can find here. MOLLY the Mobile Library will be there will a wide variety of books for all ages. Do remember to bring your library card to borrow books!
 
-![](/images/MOLLY_1.jpg)
+![](/images/molly_1.jpg)
 
 Visit the [Jurong Lake Gardens calendar of events](https://www.nparks.gov.sg/juronglakegardens/whats-happening/calendar-of-events) for more information on bazaar dates and programmes. 
 

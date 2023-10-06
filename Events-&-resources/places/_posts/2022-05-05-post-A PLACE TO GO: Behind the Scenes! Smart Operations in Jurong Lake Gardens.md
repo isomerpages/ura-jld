@@ -1,6 +1,6 @@
 ---
 title: "A PLACE TO GO: Behind the Scenes! Smart Operations in Jurong Lake Gardens"
-permalink: /Events-and-resources/places/smartjlg
+permalink: /events-and-resources/places/smartjlg/
 date: 2022-05-05
 layout: post
 description: ""
@@ -15,7 +15,7 @@ Keep a lookout for these smart ideas that contribute towards sustainability outc
 
 Look out for this smart, sleek driverless vehicle plying the paths the next time you’re at Jurong Lake Gardens. 
 
-![](/images/July%202022%20Update/AV.jpg)
+![](/images/july%202022%20update/av.jpg)
 *Autonomous Vehicle on trial at Lakeside Garden (Credit: NParks)*
 
 This 11-seater autonomous vehicle (AV) is part of a people mover system trial at Lakeside Garden. Deployed by NParks in collaboration with ST Engineering Solutions and Willers Pte Ltd, the trial is to test the efficacy, sustainability and safety of visitors riding driverless vehicles in the Garden. 
@@ -34,10 +34,10 @@ These robots are equipped with cameras and video analytics capabilities to detec
 
 The robots will also be on the lookout for visitor safety and comfort, by providing concierge services such as wayfinding directions to attractions and communicating with security staff in the event of an emergency. 
 
-![](/images/July%202022%20Update/robot.jpg)
+![](/images/july%202022%20update/robot.jpg)
 *I'm here to help! An autonomous security and surveillance robot within Lakeside Garden (Credit: NParks)*
 
-![](/images/July%202022%20Update/Ngee%20Ann%20Polytechnic%20robot.jpg)
+![](/images/july%202022%20update/ngee%20ann%20polytechnic%20robot.jpg)
 *A robot developed by Ngee Ann Polytechnic (Credit: NParks)*
 
 **Smooth Operations**
