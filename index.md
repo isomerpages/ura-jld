@@ -25,7 +25,8 @@ sections:
           description: Join the growing network now
           url: /opportunity/next-strategic-move
   - infobar:
-      title: Jurong Lake District
+      title: The Next Phase
+      subtitle: "Jurong Lake District:"
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
