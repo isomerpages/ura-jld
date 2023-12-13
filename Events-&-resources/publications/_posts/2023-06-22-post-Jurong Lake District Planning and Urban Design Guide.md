@@ -5,8 +5,8 @@ date: 2023-06-22
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-
 ![](/images/202306%20jld%20website%20update/jld%20ud%20guide%20cover.jpg)
 
 This Jurong Lake District (JLD) Planning and Urban
