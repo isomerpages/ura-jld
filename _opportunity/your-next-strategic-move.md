@@ -1,6 +1,7 @@
 ---
 title: Your next strategic move
 permalink: /opportunity/next-strategic-move/
+variant: markdown
 ---
 <h4 style="color:#484848; font-weight:normal;margin-top: 0;">Invest and join the growing network of businesses in Jurong Lake District.</h4>
 
@@ -39,9 +40,9 @@ Jurong Lake District offers a range of workspaces to suit different business nee
 
 <a href="https://www.etcsea.com/lists/jemjurong-gateway/" style="color:#62863a;">Jem</a>
 
-<a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/the-jtc-summit.aspx" style="color:#62863a;">JTC Summit</a>
+<a href="https://www.jtc.gov.sg/find-space/jtc-summit" style="color:#62863a;">JTC Summit</a>
 
-<a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/jurong-town-hall.aspx" style="color:#62863a;">Jurong Town Hall</a>
+<a href="https://www.jtc.gov.sg/find-space/jurong-town-hall" style="color:#62863a;">Jurong Town Hall</a>
 
 <a href="https://perennialbusinesscity.com.sg/" style="color:#62863a;">Perennial Business City</a>
 
