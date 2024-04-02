@@ -4,8 +4,8 @@ title: Jurong Lake District
 description: A Place To Grow
 image: /images/july 2022 update/hero.jpg
 permalink: /
-notification: Learn about the recreation activities around Jurong Lake District
-  at our roving Recreation Master Plan exhibition! Find out more in Events
+notification: URA's roving Recreation Master Plan is coming to Jurong Lake
+  District! Find out more in Events & Resources > Events
 sections:
   - hero:
       title: A place to grow
