@@ -1,11 +1,12 @@
 ---
-title: (Ongoing) Smart Nation PlayScape at Science Centre Singapore
+title: Smart Nation PlayScape at Science Centre Singapore
 permalink: /events-and-resources/events/smart-nation/
 date: 2022-01-12
 layout: post
 description: ""
+image: ""
+variant: tiptap
 ---
-
 # Start smart in 2022 at the newest exhibition at Jurong Lake District!
 
 What makes up a Smart Nation? What are the technologies powering Singapore’s Smart Nation initiatives?
