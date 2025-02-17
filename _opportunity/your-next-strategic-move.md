@@ -38,7 +38,7 @@ Jurong Lake Gardens is Singapore’s third national garden and a collection of t
 
 Jurong Lake District offers a range of workspaces to suit different business needs and work arrangements. Click on the links below for information on leasing opportunities in the district.
 
-<a href="https://www.etcsea.com/lists/jemjurong-gateway/" style="color:#62863a;">Jem</a>
+<a href="https://www.lendleaseglobalcommercialreit.com/investment-portfolio/jem/" style="color:#62863a;">Jem</a>
 
 <a href="https://www.jtc.gov.sg/find-space/jtc-summit" style="color:#62863a;">JTC Summit</a>
 
@@ -50,6 +50,6 @@ Jurong Lake District offers a range of workspaces to suit different business nee
 
 <a href="https://www.mapletreeindustrialtrust.com/Customer-Solutions/Featured-Products/Synergy%20at%20IBP.aspx" style="color:#62863a;">The Synergy (International Business Park)</a>
 
-[Vision Exchange](https://www.simlian.com.sg/property/vision-exchange/)
+<a href="https://www.simlian.com.sg/property/vision-exchange/" style="color:#62863a;">Vision Exchange</a>
 
 <a href="https://www.westgate-tower.com.sg/" style="color:#62863a;">Westgate Tower</a>
