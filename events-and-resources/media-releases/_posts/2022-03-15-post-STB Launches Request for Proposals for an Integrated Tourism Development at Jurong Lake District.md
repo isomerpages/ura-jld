@@ -5,6 +5,7 @@ permalink: /events-and-resources/media-releases/tourismdevelopmentrfp/
 date: 2022-03-15
 layout: post
 description: ""
+variant: markdown
 ---
 Singapore, 15 March 2022 – The Singapore Tourism Board (STB) has launched a Request for Proposals (RFP) to develop and operate an integrated tourism development at Jurong Lake District.
 
@@ -18,4 +19,4 @@ Under the Modified Concept and Price Revenue Tender approach, investors are requ
 
 The tender will be open for seven months, and the closing date for the submission of proposals is 18 October 2022. Companies which indicated their interest during an Expression of Interest exercise for the site in 2019 will also be invited to participate in the tender. Upon the tender award, the entire site will be leased to the successful developer for 60 years.
 
-For more information on Jurong Lake District and the Land Parcel, please refer to [the full media release ](https://www.stb.gov.sg/content/stb/en/media-centre/media-releases/STB-Launches-Request-for-Proposals-for-an-integrated-tourism-development-at-Jurong-Lake-District.html)here. 
+For more information on Jurong Lake District and the Land Parcel, please refer to [the full media release ](https://www.stb.gov.sg/about-stb/media-publications/media-centre/stb-launches-request-for-proposals-for-an-integrated-tourism-development-at-jurong-lake-district)here.
