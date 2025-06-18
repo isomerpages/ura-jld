@@ -4,9 +4,9 @@ title: Jurong Lake District
 description: A Place To Grow
 image: /images/july 2022 update/hero.jpg
 permalink: /
-notification: Government officials will NEVER ask you to transfer money or
-  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam.
+notification: We will NEVER ask you to transfer money or disclose bank log-in
+  details over a phone call, letter, email or text message. Call the 24/7
+  ScamShield Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       title: A place to grow
