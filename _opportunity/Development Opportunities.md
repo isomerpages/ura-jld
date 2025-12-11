@@ -19,4 +19,4 @@ The site will be developed in accordance with the Jurong Lake District Planning 
 
 With a total potential yield of 186,000 sqm, comprising a minimum of 40,000 sqm of office space, up to 1,200 private residential units and 44,000 sqm GFA of space for complementary uses (e.g. retail, hotel, community uses), the proposed integrated mixed-use development at Town Hall Link will provide the critical mass needed to catalyse the next phase of development for JLD and help cater to medium term growth in demand across market segments. Accessibility to the proposed development will be enhanced with the expected opening of the Jurong Region Line and Cross Island Line stations in JLD in 2028 and 2032 respectively.
 
-View the media release [here](https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr23-19).
+View the media release [here](https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr25-65).
