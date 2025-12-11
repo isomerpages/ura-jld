@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>The Urban Redevelopment Authority (URA) has announced that a White Site
+at Town Hall Link will be released on the Reserve List of the Government
+Land Sales (GLS) Programme in the first half of 2026 (1H2026).</p>
+<p>View the media release <a href="https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr25-65" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
