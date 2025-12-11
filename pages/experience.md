@@ -1,6 +1,7 @@
 ---
 title: Experience
 permalink: /experience/
+variant: markdown
 ---
 <h3 style="color:#124596; font-weight:bold;">More than a CBD</h3>
 
@@ -42,7 +43,7 @@ Lively campuses will house business and residential communities, where people me
 
 <h3 style="color:#124596; font-weight:bold;">A district of gardens and water</h3>
 
-<!--<img style="float: right; width:50%; padding:0px 20px 20px;" src="/images/jld_neramstreamscrop.jpg">-->
+
 Jurong Lake District will have more than 100 hectares of park and greenery, and a 70-hectare lake with more than 10 kilometres of active waterfront.
 
 Throughout the district, streets are lined with canopy trees, forming green corridors that provide shade and act as nature ways for wildlife.
@@ -70,7 +71,9 @@ Unique attractions will surround Jurong Lake, adding to the variety of recreatio
 ![Alt text for image on Isomer site](/images/jlg_event_lawn.jpg) 
 <span style="font-size:12px; font-style:italic;"> Artist's impression of the new event lawn at Chinese Garden with views of the Pagoda and Jurong Lake. <br> (Image courtesy of NParks)</span>
 
-The redeveloped Chinese and Japanese Gardens will be completed in 2024. The new Science Centre, when completed around 2027, and a future tourism development will line the waterfront with exciting leisure and entertainment offerings.
+   
+
+The redeveloped Chinese and Japanese Gardens were opened in September 2024, completing the rejuvenation of Jurong Lake Gardens. The new Science Centre, when completed around 2027, and a future tourism development will line the waterfront with exciting leisure and entertainment offerings.
 
 Designed by Zaha Hadid Architects in collaboration with Architects 61, the new Science Centre will be Singapore’s biggest living lab to showcase real-world applications of science and technology. Its facilities, programmes and lush lakeside location will create an immersive learning experience in a one-of-a-kind space for visitors and residents in Jurong Lake District.
 
