@@ -69,8 +69,7 @@ sections:
       description: Invest and join the growing network of businesses in Jurong Lake District
       button: INVEST IN JURONG LAKE DISTRICT
       url: /opportunity/next-strategic-move
-      image: /images/202306 jld website update/8_transforming jld_render_with
-        labels.jpg
+      image: /images/20251201_JLD.jpg
       alt: MD Site
   - resources:
       title: Events & resources
