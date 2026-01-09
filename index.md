@@ -70,7 +70,7 @@ sections:
       button: INVEST IN JURONG LAKE DISTRICT
       url: /opportunity/next-strategic-move
       image: /images/20251201_JLD.jpg
-      alt: MD Site
+      alt: JLD GLS site
   - resources:
       title: Events & resources
       button: DISCOVER JURONG LAKE DISTRICT
