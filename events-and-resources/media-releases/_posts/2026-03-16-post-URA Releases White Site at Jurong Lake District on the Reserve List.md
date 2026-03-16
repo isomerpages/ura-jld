@@ -7,4 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<p>The Urban Redevelopment Authority (URA) has launched a White Site at Jurong
+Lake District (JLD) for sale by public tender today under the Reserve List
+of the first half of 2026 (1H2026) Government Land Sales (GLS) Programme.</p>
+<p>View the media release <a href="https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr26-17" rel="noopener nofollow" target="_blank">here</a>.</p>
