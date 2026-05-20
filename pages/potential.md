@@ -1,6 +1,7 @@
 ---
 title: Potential
 permalink: /potential/
+variant: markdown
 ---
 <h3 style="color:#124596; font-weight:bold;">Grow seamlessly &amp; easily</h3>
 
@@ -18,7 +19,7 @@ Jurong Lake District will be the largest business district outside of the centra
 
 The area around Jurong East MRT station today comprises offices, retail and institution uses. By 2028, more offices and community uses, a new Jurong Region Line station and an integrated transport hub will be built next to Jurong East MRT station. 
 
-![](/images/(A1)%20JE%20ITH.jpg)
+![Jurong Gateway Hub](/images/1_Jurong_Gateway_Hub_Highres.jpg)
 <span style="font-size:12px; font-style:italic;">Located at the heart of Jurong East, the Integrated Transport Hub comprises civic and community institutions, retail amenities and an office tower on top of a bus interchange. <br> (Image courtesy of LTA)</span>
 
 A new 120-hectare precinct will connect seamlessly to the existing commercial centre and MRT station via elevated pedestrian linkages and lushly planted streets. It will have a mix of offices, housing and amenities in a car-lite and park setting. With more flexibility in zoning, land tenure and phasing compared to other districts, companies can experiment with new development concepts and innovative ways to integrate live, work and play.
