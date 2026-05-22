@@ -78,16 +78,17 @@ Unique attractions will surround Jurong Lake, adding to the variety of recreatio
 The redeveloped Jurong Lake Gardens was opened in September 2024. With the rejuvenation of the gardens, visitors can now enjoy a refreshed array of features and amenities, including new floral and aquatic gardens, visitor pavilions and galleries, and recreational and community spaces nestled within a scenic lakeside setting.
 
    
+![](/images/Water_Lily_Pavilion__Credit___NParks_.jpg)
+<span style="font-size:12px; font-style:italic;"> Water Lily Pavilion at Japanese Garden  <br> (Image courtesy of NParks)
 
-<span style="font-size:12px; font-style:italic;"> Water Lily Pavilion at Japanese Garden  (Image courtesy of NParks)
-
+	
 <span style="font-size:12px; font-style:italic;"> Southern Promenade at Lakeside Garden  (Image courtesy of NParks)
 
 Familiar landmarks and features in the Chinese and Japanese Gardens have also been&nbsp;retained or enhanced for new uses.
 	
 	   
-
-<span style="font-size:12px; font-style:italic;"> Twin Pagodas at Chinese Garden  (Image courtesy of NParks)</span>
+![](/images/Twin_Pagodas_at_Jurong_Lake_Gardens_Credit_NParks.jpg)
+<span style="font-size:12px; font-style:italic;"> Twin Pagodas at Chinese Garden <br> (Image courtesy of NParks)</span>
 
 Designed by Zaha Hadid Architects in collaboration with Architects 61, the new Science Centre will be Singapore’s biggest living lab to showcase real-world applications of science and technology. Its facilities, programmes and lush lakeside location will create an immersive learning experience in a one-of-a-kind space for visitors and residents in Jurong Lake District.
 
