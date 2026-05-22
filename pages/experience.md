@@ -77,8 +77,17 @@ Unique attractions will surround Jurong Lake, adding to the variety of recreatio
 
 The redeveloped Jurong Lake Gardens was opened in September 2024. With the rejuvenation of the gardens, visitors can now enjoy a refreshed array of features and amenities, including new floral and aquatic gardens, visitor pavilions and galleries, and recreational and community spaces nestled within a scenic lakeside setting.
 
+   
+
+<span style="font-size:12px; font-style:italic;"> Water Lily Pavilion at Japanese Garden  (Image courtesy of NParks)
+
+<span style="font-size:12px; font-style:italic;"> Southern Promenade at Lakeside Garden  (Image courtesy of NParks)
 
 Familiar landmarks and features in the Chinese and Japanese Gardens have also been&nbsp;retained or enhanced for new uses.
+	
+	   
+
+<span style="font-size:12px; font-style:italic;"> Twin Pagodas at Chinese Garden  (Image courtesy of NParks)</span>
 
 Designed by Zaha Hadid Architects in collaboration with Architects 61, the new Science Centre will be Singapore’s biggest living lab to showcase real-world applications of science and technology. Its facilities, programmes and lush lakeside location will create an immersive learning experience in a one-of-a-kind space for visitors and residents in Jurong Lake District.
 
@@ -96,4 +105,4 @@ A new recreation corridor with active public spaces will link Jurong Town Hall t
 These distinctive landmark buildings will take on new uses, continue to anchor the district and create a strong sense of place. They could become centres for co-working, innovation, museums, art studios, theatres, event grounds and playscapes with open spaces for the  community to enjoy.
 
 ![](/images/202306%20jld%20website%20update/2nd%20storey%20courtyard.jpg)
-<span style="font-size:12px; font-style:italic;"> Artist’s impression of the view corridor with the Science Centre Singapore main building. </span>
+<span style="font-size:12px; font-style:italic;"> Artist’s impression of the view corridor with the Science Centre Singapore main building. </span></span></span>
