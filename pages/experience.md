@@ -18,17 +18,17 @@ Jurong Lake District is ideal for the next generation of businesses and talent t
 <span style="font-size:12px; font-style:italic;">Artist's impression of an open-to-sky courtyard that is designed as a extension of the surrounding streets.
 </span>
 
- 
- 
- 
+Around Jurong East MRT station, residences at J-Gateway and J’Den, and offices at Jem, Westgate and Jurong Gateway Hub connect seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs. seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.
 
-Around Jurong East MRT station, residences at J-Gateway and J’den, and offices at Jem, Westgate and Jurong Gateway Hub connect seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs. seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.
+More sports and recreation facilities have also been introduced within Jurong Lake Gardens and Perennial Business City.&nbsp;
+
+Residents will also be able to access many good local and international schools&nbsp;located&nbsp;close to the district.&nbsp;
 
 ![](/images/july%202022%20update/yi%20lin.jpg)
 <span style="font-size:12px; font-style:italic;">A wide variety of retail and food &amp; beverage options are available at Jurong Lake District.<br>(Photography by Chee Boon Pin)
 </span>
 
-New inspiring work campuses that seamlessly integrate with parks, cafes, restaurants, retail, schools and homes will capitalise on the existing infrastructure to appeal to diverse and modern lifestyles.
+New home and inspiring work campuses that seamlessly&nbsp;integrate with parks, cafes, restaurants, retail, schools&nbsp;and homes will&nbsp;capitalise&nbsp;on the existing&nbsp;infrastructure to appeal to diverse and modern&nbsp;lifestyles.
 
 
 <h3 style="color:#124596; font-weight:bold;">Convenient city living in 10-minute neighbourhoods</h3>
@@ -75,9 +75,10 @@ Unique attractions will surround Jurong Lake, adding to the variety of recreatio
 ![Alt text for image on Isomer site](/images/jlg_event_lawn.jpg) 
 <span style="font-size:12px; font-style:italic;"> Artist's impression of the new event lawn at Chinese Garden with views of the Pagoda and Jurong Lake. <br> (Image courtesy of NParks)</span>
 
-   
+The redeveloped Jurong Lake Gardens was opened in September 2024. With the rejuvenation of the gardens, visitors can now enjoy a refreshed array of features and amenities, including new floral and aquatic gardens, visitor pavilions and galleries, and recreational and community spaces nestled within a scenic lakeside setting.
 
-The redeveloped Chinese and Japanese Gardens were opened in September 2024, completing the rejuvenation of Jurong Lake Gardens. The new Science Centre, when completed around 2027, and a future tourism development will line the waterfront with exciting leisure and entertainment offerings.
+
+Familiar landmarks and features in the Chinese and Japanese Gardens have also been&nbsp;retained or enhanced for new uses.
 
 Designed by Zaha Hadid Architects in collaboration with Architects 61, the new Science Centre will be Singapore’s biggest living lab to showcase real-world applications of science and technology. Its facilities, programmes and lush lakeside location will create an immersive learning experience in a one-of-a-kind space for visitors and residents in Jurong Lake District.
 
