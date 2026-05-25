@@ -81,8 +81,8 @@ The redeveloped Jurong Lake Gardens was opened in September 2024. With the rejuv
 ![](/images/Water_Lily_Pavilion__Credit___NParks_.jpg)
 <span style="font-size:12px; font-style:italic;"> Water Lily Pavilion at Japanese Garden  <br> (Image courtesy of NParks)
 
-	
-<span style="font-size:12px; font-style:italic;"> Southern Promenade at Lakeside Garden  (Image courtesy of NParks)
+![](/images/Southern_Promenade_2__Credit___NParks__compressed.jpg)	
+<span style="font-size:12px; font-style:italic;"> Southern Promenade at Lakeside Garden  <br> <br> (Image courtesy of NParks)
 
 Familiar landmarks and features in the Chinese and Japanese Gardens have also been&nbsp;retained or enhanced for new uses.
 	
