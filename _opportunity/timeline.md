@@ -5,10 +5,11 @@ variant: markdown
 ---
 <h3 style="color:#124596; font-weight:bold;">Transforming Jurong Lake District</h3>
 
-![](/images/20251201_JLD.jpg)
+![](/images/Picture1.jpg)
 
 <h4 style="color:#124596; font-weight:normal;">Detailed timelines under study</h4>
-Relocation of Ministry of National Development, Ministry of Sustainability and the Environment, Ministry of Transport, Land Transport Authority to Jurong Lake District are under study
+   
+The Ministry of Transport family and Ministry of Sustainability &amp; the Environment currently studying plans to relocate to the district.
 
 <hr style="margin:2rem 0;">
 
@@ -20,16 +21,18 @@ Expected completion of Cross Island Line (Phase 2)
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2029</h4>
 Expected completion of Jurong Region Line
  <br> <span style="font-size:12px; font-style:italic;">Jurong Region Line (JRL) will be completed in three phases from 2027 to 2029. The JRL Jurong East station is estimated to complete in 2028.</span>
+ 
+ Expected completion of Jurong Gateway Hub
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2027</h4>
-Expected completion of Jurong Gateway Hub, New Science Centre
+Expected completion of New Science Centre
 
 <hr style="margin:2rem 0;">
 
 <h4 style="color:#124596; font-weight:normal;margin-top: 10px;">2026</h4>
- Launch of White Site at Town Hall Link sale site
+Release of White Site at Jurong Lake District on the Reserve List
 
 <hr style="margin:2rem 0;">
 
