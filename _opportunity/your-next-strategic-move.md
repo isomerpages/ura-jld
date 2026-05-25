@@ -54,10 +54,8 @@ Jurong Lake District offers a range of workspaces to suit different business nee
 
 <a href="https://perennialbusinesscity.com.sg/" style="color:#62863a;">Perennial Business City</a>
 
-<a href="https://www.mapletreeindustrialtrust.com/Customer-Solutions/Featured-Products/Strategy%20at%20IBP.aspx" style="color:#62863a;">The Strategy (International Business Park)</a>
-
-<a href="https://www.mapletreeindustrialtrust.com/Customer-Solutions/Featured-Products/Synergy%20at%20IBP.aspx" style="color:#62863a;">The Synergy (International Business Park)</a>
-
 <a href="https://www.simlian.com.sg/property/vision-exchange/" style="color:#62863a;">Vision Exchange</a>
 
 <a href="https://www.westgate-tower.com.sg/" style="color:#62863a;">Westgate Tower</a>
+
+<a href="https://www.capitaland.com/en/find-a-property/global-property-listing/businesspark-industrial-logistics/27-internationalbusinesspark.html" style="color:#62863a;">27 International Business Park </a>
