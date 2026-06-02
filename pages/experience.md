@@ -92,8 +92,11 @@ Familiar landmarks and features in the Chinese and Japanese Gardens have also be
 
 The new Science Centre will be Singapore’s biggest living lab to showcase real-world applications of science and technology. Its facilities, programmes and lush lakeside location will create an immersive learning experience in a one-of-a-kind space for visitors and residents in Jurong Lake District.
 	
+	
 	   
-Visitors will get to enjoy the idyllic views of Jurong Lake and the surrounding gardens, through the large windows of the building, from the rooftop gardens, or as they stroll along the 30-m wide outdoor activity plaza linking Chinese Garden MRT station to the Jurong Lake promenade.
+Visitors will get to enjoy the idyllic views of Jurong Lake and the surrounding gardens, through the large windows of the building, from the rooftop gardens, or as they stroll along the 30m wide outdoor activity plaza linking Chinese Garden MRT station to the Jurong Lake promenade.
+	
+	
 
 The rooftop garden above the easternmost block will be an event space available for public booking. Visitors can also enjoy stargazing at the Observatory at night.
 	
