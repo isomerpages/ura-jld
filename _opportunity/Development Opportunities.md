@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h3 style="color:#124596; font-weight:bold;"><br>
-White Site&nbsp; at Town Hall Link to be Released on 1H2026 Reserve List </h3>
+URA Releases White Site at Jurong Lake District on the Confirmed List </h3>
 
 Jurong Lake District will be progressively developed into Singapore’s largest business district outside the city centre to cater to business needs and support decentralisation. It will be a model sustainability district with a goal to achieve net-zero emissions for new developments around 2045. 
 
