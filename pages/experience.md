@@ -18,7 +18,7 @@ Jurong Lake District is ideal for the next generation of businesses and talent t
 <span style="font-size:12px; font-style:italic;">Artist's impression of an open-to-sky courtyard that is designed as a extension of the surrounding streets.
 </span>
 
-Around Jurong East MRT station, residences at J-Gateway and J’Den, and offices at Jem, Westgate and Jurong Gateway Hub connect seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs. seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.
+Around Jurong East MRT station, residences at J-Gateway and J’Den, and offices at Jem, Westgate and Jurong Gateway Hub connect seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.  Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.
 
 More sports and recreation facilities have also been introduced within Jurong Lake Gardens and Perennial Business City.&nbsp;
 
