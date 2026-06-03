@@ -103,6 +103,7 @@ The rooftop garden above the easternmost block will be an event space available 
 
 	
 A new recreation corridor with active public spaces will link Jurong Town Hall to the existing Science Centre building.
+	
 ![](/images/Tinkering_Tower_More_Kids_Playing.jpg) <span style="font-size:12px; font-style:italic;"> Artist’s impression of gallery exhibits showcasing core scientific concepts. <br> (Image courtesy of Science Centre Board, for illustrative purposes only)</span>
 	
 These distinctive landmark buildings will take on new uses, continue to anchor the district and create a strong sense of place. They could become centres for co-working, innovation, museums, art studios, theatres, event grounds and playscapes with open spaces for the  community to enjoy.
