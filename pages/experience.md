@@ -18,7 +18,7 @@ Jurong Lake District is ideal for the next generation of businesses and talent t
 <span style="font-size:12px; font-style:italic;">Artist's impression of an open-to-sky courtyard that is designed as a extension of the surrounding streets.
 </span>
 
-Around Jurong East MRT station, residences at J-Gateway and J’Den, and offices at Jem, Westgate and Jurong Gateway Hub connect seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs. seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.
+Around Jurong East MRT station, residences at J-Gateway and J’Den, and offices at Jem, Westgate and Jurong Gateway Hub connect seamlessly to popular malls and major transport nodes. Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.  Devan Nair Institute for Employment and Employability offers programmes for continuous learning, and Ng Teng Fong General Hospital and Jurong Community Hospital serve the community’s healthcare needs.
 
 More sports and recreation facilities have also been introduced within Jurong Lake Gardens and Perennial Business City.&nbsp;
 
@@ -92,25 +92,20 @@ Familiar landmarks and features in the Chinese and Japanese Gardens have also be
 
 The new Science Centre will be Singapore’s biggest living lab to showcase real-world applications of science and technology. Its facilities, programmes and lush lakeside location will create an immersive learning experience in a one-of-a-kind space for visitors and residents in Jurong Lake District.
 	
+![](/images/202306%20jld%20website%20update/17_lake%20attractions_new%20science%20centre_render_1.jpg)
+<span style="font-size:12px; font-style:italic;"> A bird's eye view of the new Science Centre. <br> (Image courtesy of Science Centre Board, for illustrative purposes only)</span>
 	   
-Visitors will get to enjoy the idyllic views of Jurong Lake and the surrounding gardens, through the large windows of the building, from the rooftop gardens, or as they stroll along the 30-m wide outdoor activity plaza linking Chinese Garden MRT station to the Jurong Lake promenade.
+Visitors will get to enjoy the idyllic views of Jurong Lake and the surrounding gardens, through the large windows of the building, from the rooftop gardens, or as they stroll along the 30m wide outdoor activity plaza linking Chinese Garden MRT station to the Jurong Lake promenade.
 
 The rooftop garden above the easternmost block will be an event space available for public booking. Visitors can also enjoy stargazing at the Observatory at night.
 	
-
-![](/images/202306%20jld%20website%20update/17_lake%20attractions_new%20science%20centre_render_1.jpg)
-<span style="font-size:12px; font-style:italic;"> A bird's eye view of the new Science Centre. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
-
-![](/images/new%20science%20centre/image%202%20-%20accesible%20from%20chinese%20garden%20mrt.jpg)
-<span style="font-size:12px; font-style:italic;"> With its convenient location at the doorstep of Chinese Garden MRT station, visitors will be able to spend the day exploring both Jurong Lake Gardens and the new Science Centre when it is completed. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
+![](/images/Image_5___Where_Science_meets_Nature.jpg) <span style="font-size:12px; font-style:italic;"> The 30m wide outdoor activity plaza linking to Chinese Gardens MRT station. <br> (Image courtesy of Science Centre Board, for illustrative purposes only)</span>
 
 	
 A new recreation corridor with active public spaces will link Jurong Town Hall to the existing Science Centre building.
 	
-![](/images/new%20science%20centre/nsc%2007.jpg)
-<span style="font-size:12px; font-style:italic;"> Artist’s impression of gallery exhibits showcasing core scientific concepts. <br> (Image courtesy of Science Centre Board / Zaha Hadid Architects, for illustrative purposes only)</span>
-
-
+![](/images/Tinkering_Tower_More_Kids_Playing.jpg) <span style="font-size:12px; font-style:italic;"> Artist’s impression of gallery exhibits showcasing core scientific concepts. <br> (Image courtesy of Science Centre Board, for illustrative purposes only)</span>
+	
 These distinctive landmark buildings will take on new uses, continue to anchor the district and create a strong sense of place. They could become centres for co-working, innovation, museums, art studios, theatres, event grounds and playscapes with open spaces for the  community to enjoy.
 
 ![](/images/202306%20jld%20website%20update/2nd%20storey%20courtyard.jpg)
