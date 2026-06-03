@@ -5,20 +5,12 @@ description: ""
 variant: markdown
 ---
 <h3 style="color:#124596; font-weight:bold;"><br>
-URA Releases White Site at Jurong Lake District on the Confirmed List </h3>
+White Site at Town Hall Link to be Launched for Tender in July 2026 under the 2H2026 Confirmed List  </h3>
 
-Jurong Lake District will be progressively developed into Singapore’s largest business district outside the city centre to cater to business needs and support decentralisation. It will be a model sustainability district with a goal to achieve net-zero emissions for new developments around 2045. 
+To drive the next phase of development of JLD and cater to market needs across various market segments, the Government will be launching the White site at JLD for tender in July 2026 under the 2H2026 Confirmed List.
 
-Today, the area around the Jurong East MRT interchange station comprises spaces for office, retail and institutional uses. By 2028, a new Jurong Region Line station and an Integrated Transport Hub comprising offices, community spaces and retail amenities will be built next to the Jurong East MRT interchange station. 
+With a total potential yield of about 186,000 sqm, comprising a minimum of 40,000 sqm of office space, up to 1,200 private residential units and 44,000 sqm GFA of space for complementary uses (e.g. retail, hotel, serviced apartments, community uses), the proposed integrated mixed-use development next to the existing Jurong Town Hall monument and a future park will connect to the four MRT lines and surrounding developments via an extensive network of multi-level pedestrian linkages, dedicated cycling paths and bus-only corridors. 
 
-The Government will sustain the development momentum at Jurong Lake District, through the release of sites for sale, with the supply carefully paced to take into account economic and market conditions.
- 
-To catalyse the next phase of development in Jurong Lake District, the Government has decided to release a White site at Town Hall Link for sale via the 1H2026 Reserve List.
+![](/images/202306%20jld%20website%20update/18_attractive%20lakefront_render_small.jpg)
 
-The site will be developed in accordance with the Jurong Lake District Planning and Urban Design Guide to ensure that development will be well-coordinated and cohesive with subsequent land parcels in the area to achieve the planning intention for the district. It is also planned for the site to house district level infrastructure – a District Cooling Plant and District Pneumatic Waste Conveyance System Central Station – that will serve future developments in the precinct. The development of the site will activate the use of the district infrastructure to realise the plan for JLD to be a model sustainable district.
-
-![](/images/JLD.jpg) <span style="font-size:12px; font-style:italic;">Location of sale site at Jurong Lake District. </span>
-
-With a total potential yield of 186,000 sqm, comprising a minimum of 40,000 sqm of office space, up to 1,200 private residential units and 44,000 sqm GFA of space for complementary uses (e.g. retail, hotel, community uses), the proposed integrated mixed-use development at Town Hall Link will provide the critical mass needed to catalyse the next phase of development for JLD and help cater to medium term growth in demand across market segments. Accessibility to the proposed development will be enhanced with the expected opening of the Jurong Region Line and Cross Island Line stations in JLD in 2028 and 2032 respectively.
-
-View the media release [here](https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr25-65).
+View the media release [here](https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr26-41).
