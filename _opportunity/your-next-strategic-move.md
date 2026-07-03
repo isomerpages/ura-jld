@@ -23,7 +23,7 @@ As&nbsp;JLD&nbsp;is envisioned as&nbsp;a model sustainable district,&nbsp;compan
 
 The current commercial core comprises mainly offices, retail and institution uses. By 2028, we can look forward to more offices and community uses, a new Jurong Region Line station and two new bus interchanges (Jurong Gateway Hub and Jurong Town Hall Bus Interchange) to further enhance bus connectivity. 
 
-![](/images/202603_jld.jpg)
+![](/images/202607_JLD_Overview_Plan.jpg)
 <span style="font-size:12px; font-style:italic;">Upcoming developments in Jurong Lake District. </span>
 
 The commercial core will extend seamlessly into a new 120-hectare precinct, which will have a balanced mix of offices, housing, and amenities in a car-lite and park setting. This precinct will be developed over the next 30 years and served by two new MRT stations. We will have the opportunity to introduce new development concepts and redesign ways to integrate live, work and play. 
